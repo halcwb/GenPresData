@@ -1,0 +1,281 @@
+ZIndex	ZIndexFreq	ZIndexUnit	MetaVision1	MetaVision2	Freq	n	Unit				
+1 eenmalig	1	eenmalig		eOnce	1	1	keer		1_eenmalig	1	eenmalig
+2 eenmalig	2	eenmalig		eOnce	2	1	keer		2_eenmalig	2	eenmalig
+3 eenmalig	3	eenmalig		eOnce	3	1	keer		3_eenmalig	3	eenmalig
+4 eenmalig	4	eenmalig		eOnce	4	1	keer		4_eenmalig	4	eenmalig
+5 eenmalig	5	eenmalig		eOnce	5	1	keer		5_eenmalig	5	eenmalig
+6 eenmalig	6	eenmalig		eOnce	6	1	keer		6_eenmalig	6	eenmalig
+7 eenmalig	7	eenmalig		eOnce	7	1	keer		7_eenmalig	7	eenmalig
+8 eenmalig	8	eenmalig		eOnce	8	1	keer		8_eenmalig	8	eenmalig
+9 eenmalig	9	eenmalig		eOnce	9	1	keer		9_eenmalig	9	eenmalig
+10 eenmalig	10	eenmalig		eOnce	10	1	keer		10_eenmalig	10	eenmalig
+11 eenmalig	11	eenmalig		eOnce	11	1	keer		11_eenmalig	11	eenmalig
+12 eenmalig	12	eenmalig		eOnce	12	1	keer		12_eenmalig	12	eenmalig
+1 per 10 dagen	1	10 dagen			1	10	dag		1_10 dagen	1	10 dagen
+1 per 10 uur	1	10 uur			1	10	uur		1_10 uur	1	10 uur
+1 per 10 weken	1	10 weken			1	10	week		1_10 weken	1	10 weken
+1 per 11 dagen	1	11 dagen			1	11	dag		1_11 dagen	1	11 dagen
+1 per 11 uur	1	11 uur			1	11	uur		1_11 uur	1	11 uur
+1 per 11 weken	1	11 weken			1	11	week		1_11 weken	1	11 weken
+1 per 12 dagen	1	12 dagen			1	12	dag		1_12 dagen	1	12 dagen
+1 per 12 uur	1	12 uur			1	12	uur		1_12 uur	1	12 uur
+1 per 12 weken	1	12 weken			1	12	week		1_12 weken	1	12 weken
+2 per 18 maanden	2	18 maanden			2	18	maand		2_18 maanden	2	18 maanden
+1 per 2 dagen	1	2 dagen			1	2	dag		1_2 dagen	1	2 dagen
+2 per 2 dagen	2	2 dagen			2	2	dag		2_2 dagen	2	2 dagen
+1 per 2 jaar	1	2 jaar			1	2	jaar		1_2 jaar	1	2 jaar
+3 per 2 jaar	3	2 jaar			3	2	jaar		3_2 jaar	3	2 jaar
+1 per 2 maanden	1	2 maanden			1	2	maand		1_2 maanden	1	2 maanden
+2 per 2 maanden	2	2 maanden			2	2	maand		2_2 maanden	2	2 maanden
+1 per 2 uur	1	2 uur			1	2	uur		1_2 uur	1	2 uur
+1 per 2 weken	1	2 weken			1	2	week		1_2 weken	1	2 weken
+2 per 2 weken	2	2 weken			2	2	week		2_2 weken	2	2 weken
+3 per 2 weken	3	2 weken			3	2	week		3_2 weken	3	2 weken
+4 per 2 weken	4	2 weken			4	2	week		4_2 weken	4	2 weken
+5 per 2 weken	5	2 weken			5	2	week		5_2 weken	5	2 weken
+6 per 2 weken	6	2 weken			6	2	week		6_2 weken	6	2 weken
+1 per 3 dagen	1	3 dagen			1	3	dag		1_3 dagen	1	3 dagen
+2 per 3 dagen	2	3 dagen	01x per 36 uur		1	36	uur		2_3 dagen	2	3 dagen
+3 per 3 dagen	3	3 dagen			3	3	dag		3_3 dagen	3	3 dagen
+6 per 3 dagen	6	3 dagen			6	3	dag		6_3 dagen	6	3 dagen
+1 per 3 jaar	1	3 jaar			1	3	jaar		1_3 jaar	1	3 jaar
+1 per 3 maanden	1	3 maanden			1	3	maand		1_3 maanden	1	3 maanden
+1 per 3 uur	1	3 uur			1	3	uur		1_3 uur	1	3 uur
+1 per 3 weken	1	3 weken			1	3	week		1_3 weken	1	3 weken
+2 per 3 weken	2	3 weken			2	3	week		2_3 weken	2	3 weken
+3 per 3 weken	3	3 weken			3	3	week		3_3 weken	3	3 weken
+4 per 3 weken	4	3 weken			4	3	week		4_3 weken	4	3 weken
+5 per 3 weken	5	3 weken			5	3	week		5_3 weken	5	3 weken
+6 per 3 weken	6	3 weken			6	3	week		6_3 weken	6	3 weken
+7 per 3 weken	7	3 weken			7	3	week		7_3 weken	7	3 weken
+9 per 3 weken	9	3 weken			9	3	week		9_3 weken	9	3 weken
+10 per 3 weken	10	3 weken			10	3	week		10_3 weken	10	3 weken
+14 per 3 weken	14	3 weken			14	3	week		14_3 weken	14	3 weken
+28 per 3 weken	28	3 weken			28	3	week		28_3 weken	28	3 weken
+40 per 3 weken	40	3 weken			40	3	week		40_3 weken	40	3 weken
+1 per 30 minuten	1	30 minuten			1	30	minuut		1_30 minuten	1	30 minuten
+1 per 4 dagen	1	4 dagen			1	4	dag		1_4 dagen	1	4 dagen
+4 per 4 dagen	4	4 dagen			4	4	dag		4_4 dagen	4	4 dagen
+1 per 4 maanden	1	4 maanden			1	4	maand		1_4 maanden	1	4 maanden
+1 per 4 uur	1	4 uur			1	4	uur		1_4 uur	1	4 uur
+1 per 4 weken	1	4 weken			1	4	week		1_4 weken	1	4 weken
+2 per 4 weken	2	4 weken			2	4	week		2_4 weken	2	4 weken
+3 per 4 weken	3	4 weken			3	4	week		3_4 weken	3	4 weken
+4 per 4 weken	4	4 weken			4	4	week		4_4 weken	4	4 weken
+5 per 4 weken	5	4 weken			5	4	week		5_4 weken	5	4 weken
+6 per 4 weken	6	4 weken			6	4	week		6_4 weken	6	4 weken
+7 per 4 weken	7	4 weken			7	4	week		7_4 weken	7	4 weken
+10 per 4 weken	10	4 weken			10	4	week		10_4 weken	10	4 weken
+12 per 4 weken	12	4 weken			12	4	week		12_4 weken	12	4 weken
+14 per 4 weken	14	4 weken			14	4	week		14_4 weken	14	4 weken
+15 per 4 weken	15	4 weken			15	4	week		15_4 weken	15	4 weken
+20 per 4 weken	20	4 weken			20	4	week		20_4 weken	20	4 weken
+21 per 4 weken	21	4 weken			21	4	week		21_4 weken	21	4 weken
+42 per 4 weken	42	4 weken			42	4	week		42_4 weken	42	4 weken
+1 per 5 dagen	1	5 dagen			1	5	dag		1_5 dagen	1	5 dagen
+5 per 5 dagen	5	5 dagen			5	5	dag		5_5 dagen	5	5 dagen
+6 per 5 dagen	6	5 dagen			6	5	dag		6_5 dagen	6	5 dagen
+1 per 5 jaar	1	5 jaar			1	5	jaar		1_5 jaar	1	5 jaar
+1 per 5 maanden	1	5 maanden			1	5	maand		1_5 maanden	1	5 maanden
+1 per 5 uur	1	5 uur			1	5	uur		1_5 uur	1	5 uur
+1 per 5 weken	1	5 weken			1	5	week		1_5 weken	1	5 weken
+3 per 5 weken	3	5 weken			3	5	week		3_5 weken	3	5 weken
+4 per 5 weken	4	5 weken			4	5	week		4_5 weken	4	5 weken
+5 per 5 weken	5	5 weken			5	5	week		5_5 weken	5	5 weken
+10 per 5 weken	10	5 weken			10	5	week		10_5 weken	10	5 weken
+1 per 6 dagen	1	6 dagen			1	6	dag		1_6 dagen	1	6 dagen
+1 per 6 maanden	1	6 maanden			1	6	maand		1_6 maanden	1	6 maanden
+2 per 6 maanden	2	6 maanden			2	6	maand		2_6 maanden	2	6 maanden
+3 per 6 maanden	3	6 maanden			3	6	maand		3_6 maanden	3	6 maanden
+1 per 6 uur	1	6 uur			1	6	uur		1_6 uur	1	6 uur
+1 per 6 weken	1	6 weken			1	6	week		1_6 weken	1	6 weken
+2 per 6 weken	2	6 weken			2	6	week		2_6 weken	2	6 weken
+3 per 6 weken	3	6 weken			3	6	week		3_6 weken	3	6 weken
+4 per 6 weken	4	6 weken			4	6	week		4_6 weken	4	6 weken
+5 per 6 weken	5	6 weken			5	6	week		5_6 weken	5	6 weken
+8 per 6 weken	8	6 weken			8	6	week		8_6 weken	8	6 weken
+10 per 6 weken	10	6 weken			10	6	week		10_6 weken	10	6 weken
+12 per 6 weken	12	6 weken			12	6	week		12_6 weken	12	6 weken
+14 per 6 weken	14	6 weken			14	6	week		14_6 weken	14	6 weken
+15 per 6 weken	15	6 weken			15	6	week		15_6 weken	15	6 weken
+16 per 6 weken	16	6 weken			16	6	week		16_6 weken	16	6 weken
+20 per 6 weken	20	6 weken			20	6	week		20_6 weken	20	6 weken
+28 per 6 weken	28	6 weken			28	6	week		28_6 weken	28	6 weken
+1 per 7 maanden	1	7 maanden			1	7	maand		1_7 maanden	1	7 maanden
+1 per 7 uur	1	7 uur			1	7	uur		1_7 uur	1	7 uur
+1 per 7 weken	1	7 weken			1	7	week		1_7 weken	1	7 weken
+2 per 7 weken	2	7 weken			2	7	week		2_7 weken	2	7 weken
+3 per 7 weken	3	7 weken			3	7	week		3_7 weken	3	7 weken
+5 per 7 weken	5	7 weken			5	7	week		5_7 weken	5	7 weken
+1 per 8 dagen	1	8 dagen			1	8	dag		1_8 dagen	1	8 dagen
+2 per 8 dagen	2	8 dagen			2	8	dag		2_8 dagen	2	8 dagen
+1 per 8 uur	1	8 uur			1	8	uur		1_8 uur	1	8 uur
+1 per 8 weken	1	8 weken			1	8	week		1_8 weken	1	8 weken
+2 per 8 weken	2	8 weken			2	8	week		2_8 weken	2	8 weken
+3 per 8 weken	3	8 weken			3	8	week		3_8 weken	3	8 weken
+5 per 8 weken	5	8 weken			5	8	week		5_8 weken	5	8 weken
+7 per 8 weken	7	8 weken			7	8	week		7_8 weken	7	8 weken
+10 per 8 weken	10	8 weken			10	8	week		10_8 weken	10	8 weken
+15 per 8 weken	15	8 weken			15	8	week		15_8 weken	15	8 weken
+20 per 8 weken	20	8 weken			20	8	week		20_8 weken	20	8 weken
+1 per 9 dagen	1	9 dagen			1	9	dag		1_9 dagen	1	9 dagen
+2 per 9 dagen	2	9 dagen			2	9	dag		2_9 dagen	2	9 dagen
+3 per 9 dagen	3	9 dagen			3	9	dag		3_9 dagen	3	9 dagen
+1 per 9 uur	1	9 uur			1	9	uur		1_9 uur	1	9 uur
+1 per 9 weken	1	9 weken			1	9	week		1_9 weken	1	9 weken
+2 per 9 weken	2	9 weken			2	9	week		2_9 weken	2	9 weken
+5 per 9 weken	5	9 weken			5	9	week		5_9 weken	5	9 weken
+1 per dag	1	dag	01x per dag (00)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (05)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (06)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (07)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (08)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (09)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (10)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (17)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (18)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (21)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (22)	eSetDosesDay	1		dag		1_dag	1	dag
+1 per dag	1	dag	01x per dag (23)	eSetDosesDay	1		dag		1_dag	1	dag
+2 per dag	2	dag	02x per dag (00-18)	eSetDosesDay	2		dag		2_dag	2	dag
+2 per dag	2	dag	02x per dag (05-17)	eSetDosesDay	2		dag		2_dag	2	dag
+2 per dag	2	dag	02x per dag (06-18)	eSetDosesDay	2		dag		2_dag	2	dag
+2 per dag	2	dag	02x per dag (08-20)	eSetDosesDay	2		dag		2_dag	2	dag
+2 per dag	2	dag	02x per dag (09-21)	eSetDosesDay	2		dag		2_dag	2	dag
+2 per dag	2	dag	02x per dag (10-22)	eSetDosesDay	2		dag		2_dag	2	dag
+2 per dag	2	dag	02x per dag (11-23)	eSetDosesDay	2		dag		2_dag	2	dag
+3 per dag	3	dag	03x per dag (00-08-16)	eSetDosesDay	3		dag		3_dag	3	dag
+3 per dag	3	dag	03x per dag (00-10-16)	eSetDosesDay	3		dag		3_dag	3	dag
+3 per dag	3	dag	03x per dag (01-09-17)	eSetDosesDay	3		dag		3_dag	3	dag
+3 per dag	3	dag	03x per dag (02-10-18)	eSetDosesDay	3		dag		3_dag	3	dag
+3 per dag	3	dag	03x per dag (07-15-23)	eSetDosesDay	3		dag		3_dag	3	dag
+3 per dag	3	dag	03x per dag (08-14-20)	eSetDosesDay	3		dag		3_dag	3	dag
+3 per dag	3	dag	03x per dag (6.30-14.30-22.30)	eSetDosesDay	3		dag		3_dag	3	dag
+4 per dag	4	dag	04x per dag (00-06-12-18)	eSetDosesDay	4		dag		4_dag	4	dag
+4 per dag	4	dag	04x per dag (02-08-14-20)	eSetDosesDay	4		dag		4_dag	4	dag
+4 per dag	4	dag	04x per dag (03-09-15-21)	eSetDosesDay	4		dag		4_dag	4	dag
+4 per dag	4	dag	04x per dag (05-11-17-23)	eSetDosesDay	4		dag		4_dag	4	dag
+5 per dag	5	dag	05x per dag (06-10-14-18-22)	eSetDosesDay	5		dag		5_dag	5	dag
+6 per dag	6	dag	06x per dag (00-04-08-12-16-20)	eSetDosesDay	6		dag		6_dag	6	dag
+6 per dag	6	dag	06x per dag (00-07-11-14-17-20)	eSetDosesDay	6		dag		6_dag	6	dag
+6 per dag	6	dag	06x per dag (01-05-09-13-17-21)	eSetDosesDay	6		dag		6_dag	6	dag
+6 per dag	6	dag	06x per dag (02-06-10-14-18-22)	eSetDosesDay	6		dag		6_dag	6	dag
+6 per dag	6	dag	06x per dag (03-07-11-15-19-23)	eSetDosesDay	6		dag		6_dag	6	dag
+6 per dag	6	dag	06x per dag (06-09-12-15-18-21)	eSetDosesDay	6		dag		6_dag	6	dag
+6 per dag	6	dag	06x per dag (06-10-13.30-17-20.30-23.30)	eSetDosesDay	6		dag		6_dag	6	dag
+7 per dag	7	dag	07x per dag I (00-05-08-11-14-17-20)	eSetDosesDay	7		dag		7_dag	7	dag
+7 per dag	7	dag	07x per dag II (00.30-05.30-08.30-11.30-14.30-17.30-20.30)	eSetDosesDay	7		dag		7_dag	7	dag
+7 per dag	7	dag	07x per dag III (01-06-09-12-15-18-21)	eSetDosesDay	7		dag		7_dag	7	dag
+8 per dag	8	dag	08x per dag (00-03-06-09-12-15-18-21)	eSetDosesDay	8		dag		8_dag	8	dag
+8 per dag	8	dag	08x per dag I (01-04-07-10-13-16-19-22)	eSetDosesDay	8		dag		8_dag	8	dag
+8 per dag	8	dag	08x per dag II (02-05-08-11-14-17-20-23)	eSetDosesDay	8		dag		8_dag	8	dag
+9 per dag	9	dag		eSetDosesDay	9		dag		9_dag	9	dag
+10 per dag	10	dag		eSetDosesDay	10		dag		10_dag	10	dag
+11 per dag	11	dag		eSetDosesDay	11		dag		11_dag	11	dag
+12 per dag	12	dag	12x per dag (00-02-04-06-08-10-12-14-16-18-20-22)	eSetDosesDay	12		dag		12_dag	12	dag
+13 per dag	13	dag		eSetDosesDay	13		dag		13_dag	13	dag
+14 per dag	14	dag		eSetDosesDay	14		dag		14_dag	14	dag
+15 per dag	15	dag		eSetDosesDay	15		dag		15_dag	15	dag
+16 per dag	16	dag		eSetDosesDay	16		dag		16_dag	16	dag
+17 per dag	17	dag		eSetDosesDay	17		dag		17_dag	17	dag
+18 per dag	18	dag		eSetDosesDay	18		dag		18_dag	18	dag
+19 per dag	19	dag		eSetDosesDay	19		dag		19_dag	19	dag
+20 per dag	20	dag		eSetDosesDay	20		dag		20_dag	20	dag
+21 per dag	21	dag		eSetDosesDay	21		dag		21_dag	21	dag
+22 per dag	22	dag		eSetDosesDay	22		dag		22_dag	22	dag
+23 per dag	23	dag		eSetDosesDay	23		dag		23_dag	23	dag
+24 per dag	24	dag	24x per dag (00-01-02-03-04-05-06-07-08-09-10-11-12-13-14-15-16-17-18-19-20-21-22-23)	eSetDosesDay	24		dag		24_dag	24	dag
+25 per dag	25	dag		eSetDosesDay	25		dag		25_dag	25	dag
+26 per dag	26	dag		eSetDosesDay	26		dag		26_dag	26	dag
+27 per dag	27	dag		eSetDosesDay	27		dag		27_dag	27	dag
+28 per dag	28	dag		eSetDosesDay	28		dag		28_dag	28	dag
+29 per dag	29	dag		eSetDosesDay	29		dag		29_dag	29	dag
+30 per dag	30	dag		eSetDosesDay	30		dag		30_dag	30	dag
+31 per dag	31	dag		eSetDosesDay	31		dag		31_dag	31	dag
+32 per dag	32	dag		eSetDosesDay	32		dag		32_dag	32	dag
+33 per dag	33	dag		eSetDosesDay	33		dag		33_dag	33	dag
+34 per dag	34	dag		eSetDosesDay	34		dag		34_dag	34	dag
+35 per dag	35	dag		eSetDosesDay	35		dag		35_dag	35	dag
+36 per dag	36	dag		eSetDosesDay	36		dag		36_dag	36	dag
+37 per dag	37	dag		eSetDosesDay	37		dag		37_dag	37	dag
+38 per dag	38	dag		eSetDosesDay	38		dag		38_dag	38	dag
+39 per dag	39	dag		eSetDosesDay	39		dag		39_dag	39	dag
+40 per dag	40	dag		eSetDosesDay	40		dag		40_dag	40	dag
+41 per dag	41	dag		eSetDosesDay	41		dag		41_dag	41	dag
+42 per dag	42	dag		eSetDosesDay	42		dag		42_dag	42	dag
+43 per dag	43	dag		eSetDosesDay	43		dag		43_dag	43	dag
+44 per dag	44	dag		eSetDosesDay	44		dag		44_dag	44	dag
+45 per dag	45	dag		eSetDosesDay	45		dag		45_dag	45	dag
+46 per dag	46	dag		eSetDosesDay	46		dag		46_dag	46	dag
+47 per dag	47	dag		eSetDosesDay	47		dag		47_dag	47	dag
+48 per dag	48	dag		eSetDosesDay	48		dag		48_dag	48	dag
+49 per dag	49	dag		eSetDosesDay	49		dag		49_dag	49	dag
+50 per dag	50	dag		eSetDosesDay	50		dag		50_dag	50	dag
+51 per dag	51	dag		eSetDosesDay	51		dag		51_dag	51	dag
+52 per dag	52	dag		eSetDosesDay	52		dag		52_dag	52	dag
+53 per dag	53	dag		eSetDosesDay	53		dag		53_dag	53	dag
+54 per dag	54	dag		eSetDosesDay	54		dag		54_dag	54	dag
+55 per dag	55	dag		eSetDosesDay	55		dag		55_dag	55	dag
+56 per dag	56	dag		eSetDosesDay	56		dag		56_dag	56	dag
+57 per dag	57	dag		eSetDosesDay	57		dag		57_dag	57	dag
+58 per dag	58	dag		eSetDosesDay	58		dag		58_dag	58	dag
+59 per dag	59	dag		eSetDosesDay	59		dag		59_dag	59	dag
+60 per dag	60	dag		eSetDosesDay	60		dag		60_dag	60	dag
+61 per dag	61	dag		eSetDosesDay	61		dag		61_dag	61	dag
+62 per dag	62	dag		eSetDosesDay	62		dag		62_dag	62	dag
+63 per dag	63	dag		eSetDosesDay	63		dag		63_dag	63	dag
+64 per dag	64	dag		eSetDosesDay	64		dag		64_dag	64	dag
+65 per dag	65	dag		eSetDosesDay	65		dag		65_dag	65	dag
+66 per dag	66	dag		eSetDosesDay	66		dag		66_dag	66	dag
+67 per dag	67	dag		eSetDosesDay	67		dag		67_dag	67	dag
+68 per dag	68	dag		eSetDosesDay	68		dag		68_dag	68	dag
+69 per dag	69	dag		eSetDosesDay	69		dag		69_dag	69	dag
+70 per dag	70	dag		eSetDosesDay	70		dag		70_dag	70	dag
+71 per dag	71	dag		eSetDosesDay	71		dag		71_dag	71	dag
+72 per dag	72	dag		eSetDosesDay	72		dag		72_dag	72	dag
+99,99 per dag	99.99	dag		eContinuous					99.99_dag	99.99	dag
+1 per half jaar	1	half jaar			1	30	maand		1_half jaar	1	half jaar
+1 per jaar	1	jaar			1		jaar		1_jaar	1	jaar
+2 per jaar	2	jaar			2		jaar		2_jaar	2	jaar
+3 per jaar	3	jaar			3		jaar		3_jaar	3	jaar
+4 per jaar	4	jaar			4		jaar		4_jaar	4	jaar
+6 per jaar	6	jaar			6		jaar		6_jaar	6	jaar
+7 per jaar	7	jaar			7		jaar		7_jaar	7	jaar
+8 per jaar	8	jaar			8		jaar		8_jaar	8	jaar
+9 per jaar	9	jaar			9		jaar		9_jaar	9	jaar
+10 per jaar	10	jaar			10		jaar		10_jaar	10	jaar
+1 per maand	1	maand			1		maand		1_maand	1	maand
+2 per maand	2	maand			2		maand		2_maand	2	maand
+3 per maand	3	maand			3		maand		3_maand	3	maand
+5 per maand	5	maand			5		maand		5_maand	5	maand
+6 per maand	6	maand			6		maand		6_maand	6	maand
+1 per uur	1	uur		eContinuous	1		uur		1_uur	1	uur
+2 per uur	2	uur			2		uur		2_uur	2	uur
+3 per uur	3	uur			3		uur		3_uur	3	uur
+4 per uur	4	uur			4		uur		4_uur	4	uur
+5 per uur	5	uur			5		uur		5_uur	5	uur
+6 per uur	6	uur			6		uur		6_uur	6	uur
+7 per uur	7	uur			7		uur		7_uur	7	uur
+8 per uur	8	uur			8		uur		8_uur	8	uur
+9 per uur	9	uur			9		uur		9_uur	9	uur
+10 per uur	10	uur			10		uur		10_uur	10	uur
+11 per uur	11	uur			11		uur		11_uur	11	uur
+12 per uur	12	uur			12		uur		12_uur	12	uur
+13 per uur	13	uur			13		uur		13_uur	13	uur
+14 per uur	14	uur			14		uur		14_uur	14	uur
+15 per uur	15	uur			15		uur		15_uur	15	uur
+1 per week	1	week	01x per week (di 06)	eSetDosesweek	1		week		1_week	1	week
+1 per week	1	week	01x per week (ma 06)	eSetDosesweek	1		week		1_week	1	week
+2 per week	2	week	02x per week (di-vr), 3x per dag (06-12-18)	eSetDosesweek	2		week		2_week	2	week
+2 per week	2	week	02x per week (ma-do 06)	eSetDosesweek	2		week		2_week	2	week
+2 per week	2	week	02x per week (ma-do 06)	eSetDosesweek	2		week		2_week	2	week
+2 per week	2	week	02x per week (ma-do 08)	eSetDosesweek	2		week		2_week	2	week
+2 per week	2	week	02x per week (zo-wo 00)	eSetDosesweek	2		week		2_week	2	week
+3 per week	3	week	03x per week (ma-do-zo), 3x per dag (06-12-18)	eSetDosesweek	3		week		3_week	3	week
+3 per week	3	week	03x per week (ma-wo-vr 06)	eSetDosesweek	3		week		3_week	3	week
+3 per week	3	week	03x per week (vr-za-zo 18)	eSetDosesweek	3		week		3_week	3	week
+3 per week	3	week	03x per week (za-zo-ma 18)	eSetDosesweek	3		week		3_week	3	week
+4 per week	4	week		eSetDosesweek	4		week		4_week	4	week
+5 per week	5	week	05x per week (ma-di-wo-do-vr)	eSetDosesweek	5		week		5_week	5	week
+6 per week	6	week		eSetDosesweek	6		week		6_week	6	week
+7 per week	7	week		eSetDosesweek	7		week		7_week	7	week

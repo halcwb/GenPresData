@@ -1,0 +1,232 @@
+Generic	Shape	Route	DoseType	Dep	CVL	PVL	MinAge	MaxAge	MinWeight	MaxWeight	MinDose	MaxDose	Solutions	Volumes	MinVol	MaxVol	MinPerc	MaxPerc	Substance	Unit	Quantities	MinQty	MaxQty	MinConc	MaxConc
+abatacept	poeder voor oplossing voor infusie	iv	onderhoud	ICK					50000				NaCl 0,9%	100			1	1	abatacept	mg				5	10
+abatacept	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%	100			1	1	abatacept	mg				5	10
+acetazolamide	poeder voor injectievloeistof	iv	onderhoud	ICC							125	500					1	1	acetazolamide	mg				100	100
+acetazolamide	poeder voor injectievloeistof	iv	onderhoud	ICC							250	500	NaCl 0,9%|gluc	100			1	1	acetazolamide	mg					100
+acetazolamide	poeder voor injectievloeistof	iv	onderhoud	NEO							25	250	NaCl 0,9%	2					acetazolamide	mg				50	50
+acetazolamide	poeder voor injectievloeistof	iv	onderhoud	ICK							25	500	NaCl 0,9%				1	1	acetazolamide	mg				50	50
+acetazolamide	poeder voor injectievloeistof	iv	onderhoud	ICK							250	500	NaCl 0,9%	100			1	1	acetazolamide	mg		250	500		
+acetylcysteine	concentraat voor oplossing voor infusie	iv	onderhoud	ICC							5000	5000	NaCl 0,9%|gluc	50			1	1	acetylcysteine	mg		5000	5000		
+acetylcysteine	concentraat voor oplossing voor infusie	iv	start	ICC							6000	15000	NaCl 0,9%|gluc	250			1	1	acetylcysteine	mg		6000	15000		
+acetylcysteine	concentraat voor oplossing voor infusie	iv	onderhoud	ICC							2	7500	NaCl 0,9%|gluc	500			1	1	acetylcysteine	mg		2	7500		
+acetylcysteine	concentraat voor oplossing voor infusie	iv	onderhoud	ICK							5000	5000	NaCl 0,9%|gluc	50			1	1	acetylcysteine	mg		5000	5000		
+acetylcysteine	concentraat voor oplossing voor infusie	iv	start	ICK							6000	15000	NaCl 0,9%|gluc	250			1	1	acetylcysteine	mg		6000	15000		
+acetylcysteine	concentraat voor oplossing voor infusie	iv	onderhoud	ICK							2	7500	NaCl 0,9%|gluc	500			1	1	acetylcysteine	mg		2	7500		
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	ICC								200	NaCl 0,9%|gluc				1	1	aciclovir	mg			200	5	5
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	ICC							200	500	NaCl 0,9%|gluc	100			1	1	aciclovir	mg		200	500	1.8	5
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	ICC							500		NaCl 0,9%|gluc	250			1	1	aciclovir	mg		500	1500	1.8	5
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	NEO									gluc		10		0.5	0.5	aciclovir	mg			50	1.8	5
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	NEO									gluc		20		0.5	0.5	aciclovir	mg		50		1.8	5
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	ICK								200	NaCl 0,9%|gluc		20		1	1	aciclovir	mg			200	1.8	5
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	ICK							200	500	NaCl 0,9%|gluc	100	100		1	1	aciclovir	mg		200	500	1.8	5
+aciclovir	concentraat voor oplossing voor infusie	iv	onderhoud	ICK							500		NaCl 0,9%|gluc	250	250		1	1	aciclovir	mg		500		1.8	5
+adrenaline	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50					adrenaline	mg		1	1		0.1
+adrenaline	injectievloeistof	iv	continu	ICK	x				6000	11000			NaCl 0,9%|gluc	50					adrenaline	mg		2	2		0.1
+adrenaline	injectievloeistof	iv	continu	ICK	x				11000	40000			NaCl 0,9%|gluc	50					adrenaline	mg		5	5		0.1
+adrenaline	injectievloeistof	iv	continu	ICK	x				40000				NaCl 0,9%|gluc	50					adrenaline	mg		5	5		0.1
+adrenaline	injectievloeistof	iv	continu	ICK		x			6000	11000			NaCl 0,9%|gluc	50					adrenaline	mg		1	1		0.1
+adrenaline	injectievloeistof	iv	continu	ICK		x			11000	40000			NaCl 0,9%|gluc	50					adrenaline	mg		1	1		0.1
+adrenaline	injectievloeistof	iv	continu	ICK		x			40000				NaCl 0,9%|gluc	50					adrenaline	mg		1	1		0.1
+alprostadil	concentraat voor oplossing voor infusie	iv	continu	ICK						6000			gluc	50					alprostadil	mg		0.2	0.2		0.02
+amfotericine-b-liposomaal	poeder voor oplossing voor infusie	iv	onderhoud	ICC									gluc		250		1	1	amfotericine-b-liposomaal	mg		50	300	0.18	2
+amfotericine-b-liposomaal	poeder voor oplossing voor infusie	iv	onderhoud	ICC									gluc		500		1	1	amfotericine-b-liposomaal	mg		300	500	0.18	2
+amfotericine-b-liposomaal	poeder voor oplossing voor infusie	iv	onderhoud	ICK									gluc				1	1	amfotericine-b-liposomaal	mg				0.18	0.5
+amikacine	injectievloeistof	iv	onderhoud	ICC											100		1	1	amikacine	mg		600	1500	4.9	14.2
+amikacine	injectievloeistof	iv	onderhoud	ICK											100		1	1	amikacine	mg				4.9	14.2
+amiodaron	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50					amiodaron	mg		50	50	0.6	50
+amiodaron	injectievloeistof	iv	continu	ICK					6000	11000			gluc	50					amiodaron	mg		150	150	0.6	50
+amiodaron	injectievloeistof	iv	continu	ICK					11000	40000			gluc	50					amiodaron	mg		300	300	0.6	50
+amiodaron	injectievloeistof	iv	continu	ICK					40000				gluc	50					amiodaron	mg		600	600	0.6	50
+amoxicilline/clavulaanzuur	poeder voor injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%				1	1	amoxicilline+clavulaanzuur	mg				20	20
+amoxicilline/clavulaanzuur	poeder voor injectievloeistof	iv	onderhoud	NEO									NaCl 0,9%		5		1	1	amoxicilline+clavulaanzuur	mg				20	20
+amoxicilline/clavulaanzuur	poeder voor injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%				1	1	amoxicilline+clavulaanzuur	mg				20	20
+argipressine	concentraat voor oplossing voor infusie	iv	continu	ICK					2000	6000			gluc	50					argipressine	IE		10	10		
+argipressine	concentraat voor oplossing voor infusie	iv	continu	ICK					6000	11000			gluc	50					argipressine	IE		20	20		
+argipressine	concentraat voor oplossing voor infusie	iv	continu	ICK					11000	40000			gluc	50					argipressine	IE		40	40		
+argipressine	concentraat voor oplossing voor infusie	iv	continu	ICK					40000				gluc	50					argipressine	IE		40	40		
+azathioprine	poeder voor injectievloeistof	iv	onderhoud	ICC													1	1	azathioprine	mg				0.5	2
+azathioprine	poeder voor injectievloeistof	iv	onderhoud	ICK													1	1	azathioprine	mg				0.5	2
+benzylpenicilline	poeder voor injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%				1	1	benzylpenicilline	IE			1000000	10000	1000000
+benzylpenicilline	poeder voor injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%		100		1	1	benzylpenicilline	IE		1000000	4000000		40000
+benzylpenicilline	poeder voor injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%				1	1	benzylpenicilline	IE				10000	1000000
+benzylpenicilline	poeder voor injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%		100	100	1	1	benzylpenicilline	IE		1000000	24000000		240000
+caspofungine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%		100		1	1	caspofungine	mg			100		0.45
+caspofungine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%		250		1	1	caspofungine	mg		100			0.45
+caspofungine	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%		100		1	1	caspofungine	mg			45		0.45
+caspofungine	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%		250		1	1	caspofungine	mg		45			0.45
+cefotaxim	poeder voor injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%|gluc				1	1	cefotaxim	mg				4.9	20
+cefotaxim	poeder voor injectievloeistof	iv	onderhoud	NEO									NaCl 0,9%|gluc				1	1	cefotaxim	mg				4.9	20
+cefotaxim	poeder voor injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%|gluc				1	1	cefotaxim	mg				4.9	20
+ceftazidim	poeder voor injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%|gluc				1	1	ceftazidim	mg				9	40
+ceftazidim	poeder voor injectievloeistof	iv	onderhoud	NEO									NaCl 0,9%|gluc				1	1	ceftazidim	mg				9	40
+ceftazidim	poeder voor injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%|gluc				1	1	ceftazidim	mg				9	40
+ceftriaxon	poeder voor injectievloeistof	iv	onderhoud	ICC													1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor injectievloeistof	iv	onderhoud	NEO													1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor injectievloeistof	iv	onderhoud	ICK													1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor oplossing voor infusie	iv	onderhoud	ICC													1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor oplossing voor infusie	iv	onderhoud	NEO													1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor oplossing voor infusie	iv	onderhoud	ICK													1	1	ceftriaxon	mg					
+clindamycine	injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%|gluc		100		1	1	clindamycine	mg					12
+clindamycine	injectievloeistof	iv	onderhoud	NEO									NaCl 0,9%|gluc				1	1	clindamycine	mg					12
+clindamycine	injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%|gluc				1	1	clindamycine	mg					12
+clonidine	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50			1	1	clonidine	mg		0.15	0.15		0.15
+clonidine	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%	50			1	1	clonidine	mg		0.3	0.3		0.15
+clonidine	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%	50			1	1	clonidine	mg		0.6	0.6		0.15
+clonidine	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%	50			1	1	clonidine	mg		0.75	0.75		0.15
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%|gluc		100		1	1	cotrimoxazol	mg		480	480	0.75	6
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%|gluc		250		1	1	cotrimoxazol	mg		960	960	0.75	6
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%|gluc		500		1	1	cotrimoxazol	mg		1920	1920	0.75	6
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	iv	onderhoud	NEO									NaCl 0,9%|gluc		5		1	1	cotrimoxazol	mg				0.75	6
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%|gluc				1	1	cotrimoxazol	mg				0.75	6
+dobutamine	concentraat voor oplossing voor infusie	iv	continu	ICK					2000	6000			gluc	50					dobutamine	mg		80	80		12.5
+dobutamine	concentraat voor oplossing voor infusie	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					dobutamine	mg		200	200		12.5
+dobutamine	concentraat voor oplossing voor infusie	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					dobutamine	mg		250	250		12.5
+dobutamine	concentraat voor oplossing voor infusie	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					dobutamine	mg		250	250		12.5
+dopamine	concentraat voor oplossing voor infusie	iv	continu	ICK					2000	6000			gluc	50					dopamine	mg		80	80		40
+dopamine	concentraat voor oplossing voor infusie	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					dopamine	mg		200	200		40
+dopamine	concentraat voor oplossing voor infusie	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					dopamine	mg		400	400		40
+dopamine	concentraat voor oplossing voor infusie	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					dopamine	mg		400	400		40
+epoprostenol	poeder voor oplossing voor infusie	iv	continu	ICK					2000	6000			glycine buffer	50					epoprostenol	microg		200	200	5	100
+epoprostenol	poeder voor oplossing voor infusie	iv	continu	ICK					6000	11000			glycine buffer	50					epoprostenol	microg		400	400	5	100
+epoprostenol	poeder voor oplossing voor infusie	iv	continu	ICK					11000	40000			glycine buffer	50					epoprostenol	microg		500	500	5	100
+epoprostenol	poeder voor oplossing voor infusie	iv	continu	ICK					40000				glycine buffer	50					epoprostenol	microg		500	500	5	100
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%				1	1	erytromycine	mg			250		5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%				1	1	erytromycine	mg		250	500		5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%				1	1	erytromycine	mg		500			5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	NEO									NaCl 0,9%		5		1	1	erytromycine	mg			25		5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	NEO									NaCl 0,9%		10		1	1	erytromycine	mg		25	50		5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	NEO									NaCl 0,9%				1	1	erytromycine	mg		50			5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%				1	1	erytromycine	mg			250		5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%				1	1	erytromycine	mg		250	500		5
+erytromycine	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%				1	1	erytromycine	mg		500			5
+esketamine	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50					esketamine	mg		100	100		5
+esketamine	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					esketamine	mg		250	250		5
+esketamine	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					esketamine	mg		250	250		5
+esketamine	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					esketamine	mg		250	250		5
+esmolol	injectievloeistof	iv	continu	ICK					2000	6000				50					esmolol	mg		500	500		10
+esmolol	injectievloeistof	iv	continu	ICK					6000	11000				50					esmolol	mg		500	500		10
+esmolol	injectievloeistof	iv	continu	ICK					11000	40000				50					esmolol	mg		500	500		10
+esmolol	injectievloeistof	iv	continu	ICK					40000					250					esmolol	mg		2500	2500		50
+fentanyl	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50					fentanyl	mg		0.5	0.5		0.05
+fentanyl	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					fentanyl	mg		1	1		0.05
+fentanyl	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					fentanyl	mg		2.5	2.5		0.05
+fentanyl	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					fentanyl	mg		2.5	2.5		0.05
+fenylefrine	concentraat voor oplossing voor injectie/infusie	iv	continu	ICK					2000	6000			gluc	50					fenylefrine	mg		1.5	1.5		10
+fenylefrine	concentraat voor oplossing voor injectie/infusie	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					fenylefrine	mg		2.5	2.5		10
+fenylefrine	concentraat voor oplossing voor injectie/infusie	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					fenylefrine	mg		5	5		10
+fenylefrine	concentraat voor oplossing voor injectie/infusie	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					fenylefrine	mg		5	5		10
+fluconazol	infusievloeistof	iv	onderhoud	NEO									NaCl 0,9%		5		1	1	fluconazol	mg					5
+fluconazol	infusievloeistof	iv	onderhoud	ICK													1	1	fluconazol	mg					5
+furosemide	injectievloeistof	iv	continu	ICK					2000	6000			NaCl 0,9%	50					furosemide	mg		10	10		10
+furosemide	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%	50					furosemide	mg		20	20		10
+furosemide	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%	50					furosemide	mg		40	40		10
+furosemide	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%	50					furosemide	mg		100	100		10
+gentamicine	injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%	100			1	1	gentamicine	mg					
+gentamicine	injectievloeistof	iv	onderhoud	NEO									gluc	10	5		2	2	gentamicine	mg				1.2	2
+gentamicine	injectievloeistof	iv	onderhoud	ICK				28					gluc	50;100			1	1	gentamicine	mg				1.2	2
+gentamicine	injectievloeistof	iv	onderhoud	ICK			28						gluc|NaCl 0,9%	50;100			1	1	gentamicine	mg				1.2	2
+heparine	injectievloeistof	iv	continu	ICK					2000	6000			NaCl 0,9%	50					heparine	E		5000	5000		1000
+heparine	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%	50					heparine	E		10000	10000		1000
+heparine	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%	50					heparine	E		20000	20000		1000
+heparine	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%	50					heparine	E		20000	20000		1000
+insuline aspart	injectievloeistof	iv	continu	ICK					2000	6000			NaCl 0,9%	50					insuline aspart	mg		10	10		1
+insuline aspart	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%	50					insuline aspart	mg		10	10		1
+insuline aspart	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%	50					insuline aspart	mg		50	50		1
+insuline aspart	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%	50					insuline aspart	mg		50	50		1
+isoprenaline	concentraat voor oplossing voor infusie	iv	continu	ICK					2000	6000			gluc	50					isoprenaline	mg		1	1		1
+isoprenaline	concentraat voor oplossing voor infusie	iv	continu	ICK					6000	11000			gluc	50					isoprenaline	mg		1	1		1
+isoprenaline	concentraat voor oplossing voor infusie	iv	continu	ICK					11000	40000			gluc	50					isoprenaline	mg		2	2		1
+isoprenaline	concentraat voor oplossing voor infusie	iv	continu	ICK					40000				gluc	50					isoprenaline	mg		2	2		1
+itraconazol	concentraat voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%		50		1	1	itraconazol	mg					
+itraconazol	concentraat voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%		50		1	1	itraconazol	mg					
+labetalol	injectievloeistof	iv	continu	ICK					2000	6000			NaCl 0,9%|gluc	50					labetalol	mg		100	100		5
+labetalol	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					labetalol	mg		200	200		5
+labetalol	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					labetalol	mg		200	200		5
+labetalol	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					labetalol	mg		250	250		5
+magnesiumsulfaat	injectievloeistof	iv	continu	ICK					2000	6000			NaCl 0,9%|gluc	50					magnesiumsulfaat	mg		500	500	1	160
+magnesiumsulfaat	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					magnesiumsulfaat	mg		1000	1000	1	160
+magnesiumsulfaat	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					magnesiumsulfaat	mg		2000	2000	1	160
+magnesiumsulfaat	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					magnesiumsulfaat	mg		5000	5000	1	160
+meropenem	poeder voor injectie/infusieoplossing	iv	onderhoud	ICC									NaCl 0,9%|gluc		50		1	1	meropenem	mg				1	20
+meropenem	poeder voor injectie/infusieoplossing	iv	onderhoud	NEO									NaCl 0,9%|gluc		5		1	1	meropenem	mg			100	1	20
+meropenem	poeder voor injectie/infusieoplossing	iv	onderhoud	NEO									NaCl 0,9%|gluc		10		1	1	meropenem	mg		100		1	20
+meropenem	poeder voor injectie/infusieoplossing	iv	onderhoud	ICK									NaCl 0,9%|gluc				1	1	meropenem	mg				1	20
+metronidazol	infusievloeistof	iv	onderhoud	ICC													1	1	metronidazol	mg					5
+metronidazol	infusievloeistof	iv	onderhoud	NEO											10		1	1	metronidazol	mg					5
+metronidazol	infusievloeistof	iv	onderhoud	ICK													1	1	metronidazol	mg					5
+micafungine	poeder voor oplossing voor infusie	iv	onderhoud	ICC											100		1	1	micafungine	mg					
+micafungine	poeder voor oplossing voor infusie	iv	onderhoud	NEO											100		1	1	micafungine	mg					
+micafungine	poeder voor oplossing voor infusie	iv	onderhoud	ICK											100		1	1	micafungine	mg					
+midazolam	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50					midazolam	mg		25	25		5
+midazolam	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					midazolam	mg		50	50		5
+midazolam	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					midazolam	mg		100	100		5
+midazolam	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					midazolam	mg		250	250		5
+milrinon	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50					milrinon	mg		5	5		1
+milrinon	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					milrinon	mg		10	10		1
+milrinon	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					milrinon	mg		20	20		1
+milrinon	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					milrinon	mg		20	20		1
+morfine	injectievloeistof	iv	continu	ICK					2000	6000			gluc	50					morfine	mg		2	2		1
+morfine	injectievloeistof	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					morfine	mg		5	5		1
+morfine	injectievloeistof	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					morfine	mg		10	10		1
+morfine	injectievloeistof	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					morfine	mg		50	50		1
+nitroprusside	concentraat voor oplossing voor infusie	iv	continu	ICK					2000	6000			NaCl 0,9%|gluc	50					nitroprusside	mg		10	10		10
+nitroprusside	concentraat voor oplossing voor infusie	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					nitroprusside	mg		25	25		10
+nitroprusside	concentraat voor oplossing voor infusie	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					nitroprusside	mg		50	50		10
+nitroprusside	concentraat voor oplossing voor infusie	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					nitroprusside	mg		50	50		10
+noradrenaline	infusievloeistof	iv	continu	ICK	x				2000	6000			gluc	50					noradrenaline	mg		1	1		1
+noradrenaline	infusievloeistof	iv	continu	ICK	x				6000	11000			NaCl 0,9%|gluc	50					noradrenaline	mg		2	2		1
+noradrenaline	infusievloeistof	iv	continu	ICK	x				11000	40000			NaCl 0,9%|gluc	50					noradrenaline	mg		5	5		1
+noradrenaline	infusievloeistof	iv	continu	ICK	x				40000				NaCl 0,9%|gluc	50					noradrenaline	mg		5	5		1
+noradrenaline	infusievloeistof	iv	continu	ICK		x			6000	11000			NaCl 0,9%|gluc	50					noradrenaline	mg		1	1		1
+noradrenaline	infusievloeistof	iv	continu	ICK		x			11000	40000			NaCl 0,9%|gluc	50					noradrenaline	mg		1	1		1
+noradrenaline	infusievloeistof	iv	continu	ICK		x			40000				NaCl 0,9%|gluc	50					noradrenaline	mg		1	1		1
+pentamidine	poeder voor injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%		100		1	1	pentamidine	mg					
+pentamidine	poeder voor injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%		50		1	1	pentamidine	mg			300		
+pentamidine	poeder voor injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%		100		1	1	pentamidine	mg		300			
+piperacilline/tazobactam	poeder voor injectievloeistof	iv	onderhoud	NEO													1	1	piperacilline+tazobactam	mg					
+piperacilline/tazobactam	poeder voor injectievloeistof	iv	onderhoud	ICK													1	1	piperacilline+tazobactam	mg					
+piperacilline/tazobactam	poeder voor injectievloeistof	iv	onderhoud	ICC													1	1	piperacilline+tazobactam	mg					
+propofol	emulsie voor injectie	iv	continu	ICC										50					propofol	mg					
+propofol	emulsie voor injectie	iv	continu	ICK										50					propofol	mg					
+rasburicase	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%		50		1	1	rasburicase	mg					
+rasburicase	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%		50		1	1	rasburicase	mg					
+ribavirine	concentraat voor oplossing voor infusie	iv	onderhoud	ICC											100		1	1	ribavirine	mg					
+ribavirine	concentraat voor oplossing voor infusie	iv	onderhoud	ICK											100		1	1	ribavirine	mg					
+rifampicine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%		250		1	1	rifampicine	mg			300		1.2
+rifampicine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%		500		1	1	rifampicine	mg		300			
+rifampicine	poeder voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%				1	1	rifampicine	mg					
+rifampicine	poeder voor oplossing voor infusie	iv	onderhoud	NEO									gluc				1	1	rifampicine	mg					1.2
+rifampicine	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%				1	1	rifampicine	mg					1.2
+rocuronium	injectievloeistof	iv	continu	ICK	x				2000	6000			NaCl 0,9%|gluc	50					rocuronium	mg		50	50		10
+rocuronium	injectievloeistof	iv	continu	ICK	x				6000	11000			NaCl 0,9%|gluc	50					rocuronium	mg		100	100		10
+rocuronium	injectievloeistof	iv	continu	ICK	x				11000	40000			NaCl 0,9%|gluc	50					rocuronium	mg		200	200		10
+rocuronium	injectievloeistof	iv	continu	ICK	x				40000				NaCl 0,9%|gluc	50					rocuronium	mg		500	500		10
+rocuronium	injectievloeistof	iv	continu	ICK		x			2000	6000			NaCl 0,9%|gluc	50					rocuronium	mg		50	50		10
+rocuronium	injectievloeistof	iv	continu	ICK		x			6000	11000			NaCl 0,9%|gluc	50					rocuronium	mg		50	50		10
+rocuronium	injectievloeistof	iv	continu	ICK		x			11000	40000			NaCl 0,9%|gluc	50					rocuronium	mg		50	50		10
+rocuronium	injectievloeistof	iv	continu	ICK		x			40000				NaCl 0,9%|gluc	50					rocuronium	mg		50	50		10
+salbutamol	concentraat voor oplossing voor infusie	iv	continu	ICK					2000	6000			NaCl 0,9%|gluc	50					salbutamol	mg		5	5	0.005	0.42
+salbutamol	concentraat voor oplossing voor infusie	iv	continu	ICK					6000	11000			NaCl 0,9%|gluc	50					salbutamol	mg		10	10	0.005	0.42
+salbutamol	concentraat voor oplossing voor infusie	iv	continu	ICK					11000	40000			NaCl 0,9%|gluc	50					salbutamol	mg		20	20	0.005	0.42
+salbutamol	concentraat voor oplossing voor infusie	iv	continu	ICK					40000				NaCl 0,9%|gluc	50					salbutamol	mg		20	20	0.005	0.42
+teicoplanine	poeder voor injectievloeistof	iv	onderhoud	ICC													1	1	teicoplanine	mg					10
+teicoplanine	poeder voor injectievloeistof	iv	onderhoud	ICK											50		1	1	teicoplanine	mg					10
+thiopental	poeder voor injectievloeistof	iv	continu	ICK					2000	6000				50					thiopental	mg		1250	1250	5	25
+thiopental	poeder voor injectievloeistof	iv	continu	ICK					6000	11000				50					thiopental	mg		1250	1250	5	25
+thiopental	poeder voor injectievloeistof	iv	continu	ICK					11000	40000				50					thiopental	mg		1250	1250	5	25
+thiopental	poeder voor injectievloeistof	iv	continu	ICK					40000					50					thiopental	mg		1250	1250	5	25
+tigecycline	poeder voor oplossing voor infusie	iv	onderhoud	ICC											100		1	1	tigecycline	mg					1
+tigecycline	poeder voor oplossing voor infusie	iv	onderhoud	ICK													1	1	tigecycline	mg					1
+tobramycine	injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%|gluc		100		1	1	tobramycine	mg			700		6
+tobramycine	injectievloeistof	iv	onderhoud	ICC									NaCl 0,9%|gluc		250		1	1	tobramycine	mg		700			6
+tobramycine	injectievloeistof	iv	onderhoud	ICK									NaCl 0,9%|gluc		50		1	1	tobramycine	mg					1.5
+tocilizumab	concentraat voor oplossing voor infusie	iv	onderhoud	ICC									NaCl 0,9%		100		1	1	tocilizumab	mg					7.5
+tocilizumab	concentraat voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%		50		1	1	tocilizumab	mg			240		7.5
+tocilizumab	concentraat voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%		100		1	1	tocilizumab	mg		240			7.5
+vancomycine	poeder voor oplossing voor infusie	iv	onderhoud	NEO									gluc		5		1	1	vancomycine	mg					10
+vancomycine	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%				1	1	vancomycine	mg					10
+voriconazol	poeder voor oplossing voor infusie	iv	onderhoud	ICC											100		1	1	voriconazol	mg			300		5
+voriconazol	poeder voor oplossing voor infusie	iv	onderhoud	ICC											250		1	1	voriconazol	mg		300	600		5
+voriconazol	poeder voor oplossing voor infusie	iv	onderhoud	ICK									NaCl 0,9%|gluc				1	1	voriconazol	mg					3.333333333
+zidovudine	concentraat voor oplossing voor infusie	iv	onderhoud	ICC											100		1	1	zidovudine	mg		40	200		
+zidovudine	concentraat voor oplossing voor infusie	iv	onderhoud	ICK													1	1	zidovudine	mg					2.5

@@ -1,0 +1,57 @@
+ZIndexUnitLong	ZIndexUnitShort	MetaVisionUnit	Unit	Group
+antifactor-xa-activiteit eenheid	axa-e	AXa-E	AXa.E	General
+antigeen-eenheid	au	AE	AE	General
+antihemofilie factor eenheid	ahf-e		ahf.e	General
+antitoxine bindings waarde	abw		abw	General
+antitoxische eenheid	ae		ae	General
+british pharmacopoeia eenheid	bp-e		bp.e	General
+cell culture infective dose 50% (ccid50)	ccid50	CCID50	CCID50	General
+cellen	cellen	cellen	cellen	General
+centimeter	cm		cm	Distance
+charriere	charriere		charriere	General
+chymotrypsine bournonville eenheid	chb-e		chb.e	General
+clinische eenheid	cl-e		cl.e	General
+crick-harper-raper eenheid	chr-e		chr.e	General
+d-antigeen eenheid	de	DE	DE	General
+dosis	dosis	dosis	dosis	General
+druppel	gt	druppel	druppel	Volume
+eenheid	e	E	E	InterNatUnit
+fip eenheid	fip-e	FIP-E	FIP.E	General
+genoomkopieen	gen.k		gen.k	General
+gigabecquerel	gbq	gBq	gBq	General
+gram	g	g	gram	Mass
+internationale eenheid	ie	IE	IE	InterNatUnit
+ivy dog eenheid	ivy dog-e		ivy.dog.e	General
+kallidinogenase inactiverende eenheid	kie	KIE	KIE	General
+keer	keer	keer	keer	Count
+kilobecquerel	kbq	kBq	kBq	General
+kilogram	kg		kg	Mass
+liter	l		l	Volume
+megabecquerel	mbq	mBq	mBq	General
+meter	m		m	Distance
+microgram	ug	µg	microg	Mass
+microliter	ul	µL	microL	Volume
+micromol	umol		micromol	Molar
+miljoen ie	milj. ie	milj IE	miljIE	InterNatUnit
+miljoen kiemen	milj.kiem	milj.kiem	milj.kiem	General
+miljoen plaque forming units	milj. pfu	milj. pfu	milj.pfu	General
+milli-internationale eenheid	mie		milliIE	InterNatUnit
+milligram	mg	mg	mg	Mass
+milliliter	ml	mL	mL	Volume
+millimeter	mm		mm	Distance
+millimol	mmol	mmol	mmol	Molar
+nanogram	ng	ng	nanog	Mass
+nanokatal	nkat		nkat	General
+national institute of health eenheid	nih-e		nih.e	General
+onbepaalde eenheid	onbepaald		onbepaald	General
+plough eenheid	plough-e	Plough-E	Plough.E	General
+pock/plaque forming unit	pfu	pfu	pfu	General
+reactiviteitsindex (stallergenes)	ir		ir	General
+stuk	stuk	stuk	stuk	General
+teragenoomkopieen	teragenoomkopieen	teragenoomkopieen	teragenoomkopieen	General
+teravectorgenomen	teravectorgenomen	teravectorgenomen	teravectorgenomen	General
+tuberculine eenheid	tb-e	TB-E	TB.E	General
+usp eenheid,incl anson,armour,usnf,wallace,wampole	usp-e	USP-E	USP.E	General
+verpakking	verp.		verp.	General
+vierkante centimeter	cm2	cm^2	cm^2	General
+vierkante millimeter	mm2	mm^2	mm^2	General

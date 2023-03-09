@@ -1,0 +1,1407 @@
+GPK	Medication	Shape	Route	DoseType	Dep	CVL	PVL	DiluentVol	ExpansionVol	Diluents
+127434	abatacept infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		ICC			10		water
+127434	abatacept infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		ICK			10		water
+127434	abatacept infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		NEO			10		water
+110140	acetazolamide injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICC			5		water
+110140	acetazolamide injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICK			5		water
+110140	acetazolamide injectiepoeder 500mg	poeder voor injectievloeistof	iv		NEO			5		water
+53767	acetylcysteine infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+53767	acetylcysteine infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+53767	acetylcysteine infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+10154	acetylsalicylzuur pdr v injvlst 500mg	poeder voor injectievloeistof	im		ICC			5		water
+10154	acetylsalicylzuur pdr v injvlst 500mg	poeder voor injectievloeistof	im		ICK			5		water
+10154	acetylsalicylzuur pdr v injvlst 500mg	poeder voor injectievloeistof	im		NEO			5		water
+10154	acetylsalicylzuur pdr v injvlst 500mg	poeder voor injectievloeistof	iv		ICC			5		water
+10154	acetylsalicylzuur pdr v injvlst 500mg	poeder voor injectievloeistof	iv		ICK			5		water
+10154	acetylsalicylzuur pdr v injvlst 500mg	poeder voor injectievloeistof	iv		NEO			5		water
+109983	aciclovir infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+109983	aciclovir infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+109983	aciclovir infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+44687	aciclovir infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		ICC			10		water
+44687	aciclovir infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		ICK			10		water
+44687	aciclovir infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		NEO			10		water
+161624	adenosine infusievlst 2mg/ml	infusievloeistof	iv		ICC			0		
+161624	adenosine infusievlst 2mg/ml	infusievloeistof	iv		ICK			0		
+161624	adenosine infusievlst 2mg/ml	infusievloeistof	iv		NEO			0		
+101230	adenosine infusievlst 3mg/ml	infusievloeistof	iv		ICC			0		
+101230	adenosine infusievlst 3mg/ml	infusievloeistof	iv		ICK			0		
+101230	adenosine infusievlst 3mg/ml	infusievloeistof	iv		NEO			0		
+92789	adenosine injectievlst 3mg/ml	injectievloeistof	iv		ICC			0		
+92789	adenosine injectievlst 3mg/ml	injectievloeistof	iv		ICK			0		
+92789	adenosine injectievlst 3mg/ml	injectievloeistof	iv		NEO			0		
+170976	adrenaline injvlst 0,1mg/ml	injectievloeistof	iv		ICC			0		
+170976	adrenaline injvlst 0,1mg/ml	injectievloeistof	iv		ICK			0		
+170976	adrenaline injvlst 0,1mg/ml	injectievloeistof	iv		NEO			0		
+170976	adrenaline injvlst 0,1mg/ml	injectievloeistof	im		ICC			0		
+170976	adrenaline injvlst 0,1mg/ml	injectievloeistof	im		ICK			0		
+170976	adrenaline injvlst 0,1mg/ml	injectievloeistof	im		NEO			0		
+170933	adrenaline injvlst 0,5mg/ml	injectievloeistof	im		ICC			0		
+170933	adrenaline injvlst 0,5mg/ml	injectievloeistof	im		ICK			0		
+170933	adrenaline injvlst 0,5mg/ml	injectievloeistof	im		NEO			0		
+170925	adrenaline injvlst 1mg/ml	injectievloeistof	im		ICC			0		
+170925	adrenaline injvlst 1mg/ml	injectievloeistof	im		ICK			0		
+170925	adrenaline injvlst 1mg/ml	injectievloeistof	im		NEO			0		
+170925	adrenaline injvlst 1mg/ml	injectievloeistof	iv		ICC			0		
+170925	adrenaline injvlst 1mg/ml	injectievloeistof	iv		ICK			0		
+170925	adrenaline injvlst 1mg/ml	injectievloeistof	iv		NEO			0		
+100056	alanylglutamine infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+100056	alanylglutamine infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+100056	alanylglutamine infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+128295	albumine infvlst 40mg/ml	infusievloeistof	iv		ICC			0		
+128295	albumine infvlst 40mg/ml	infusievloeistof	iv		ICK			0		
+128295	albumine infvlst 40mg/ml	infusievloeistof	iv		NEO			0		
+11975	albumine infvlst 200mg/ml	infusievloeistof	iv		ICC			0		
+11975	albumine infvlst 200mg/ml	infusievloeistof	iv		ICK			0		
+11975	albumine infvlst 200mg/ml	infusievloeistof	iv		NEO			0		
+85839	alfacalcidol injvlst 2ug/ml	injectievloeistof	iv		ICC			0		
+85839	alfacalcidol injvlst 2ug/ml	injectievloeistof	iv		ICK			0		
+85839	alfacalcidol injvlst 2ug/ml	injectievloeistof	iv		NEO			0		
+44644	alfentanil injvlst 0,5mg/ml	injectievloeistof	iv		ICC			0		
+44644	alfentanil injvlst 0,5mg/ml	injectievloeistof	iv		ICK			0		
+44644	alfentanil injvlst 0,5mg/ml	injectievloeistof	iv		NEO			0		
+65498	alprostadil infopl conc 0,5mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+65498	alprostadil infopl conc 0,5mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+65498	alprostadil infopl conc 0,5mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+89664	alteplase infusiepoeder 20mg	poeder voor oplossing voor infusie	iv		ICC			10		water
+89664	alteplase infusiepoeder 20mg	poeder voor oplossing voor infusie	iv		ICK			10		water
+89664	alteplase infusiepoeder 20mg	poeder voor oplossing voor infusie	iv		NEO			10		water
+69205	alteplase infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICC			25		water
+69205	alteplase infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICK			25		water
+69205	alteplase infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		NEO			25		water
+65986	amfotericine b infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICC			12		water
+65986	amfotericine b infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICK			12		water
+65986	amfotericine b infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		NEO			12		water
+92266	amfotericine b infusiepoeder 50mg (liposomaal)	poeder voor oplossing voor infusie	iv		ICC			12		water
+92266	amfotericine b infusiepoeder 50mg (liposomaal)	poeder voor oplossing voor infusie	iv		ICK			12		water
+92266	amfotericine b infusiepoeder 50mg (liposomaal)	poeder voor oplossing voor infusie	iv		NEO			12		water
+86649	amikacine injvlst 250mg/ml	injectievloeistof	im		ICC			0		
+86649	amikacine injvlst 250mg/ml	injectievloeistof	im		ICK			0		
+86649	amikacine injvlst 250mg/ml	injectievloeistof	im		NEO			0		
+86649	amikacine injvlst 250mg/ml	injectievloeistof	iv		ICC			0		
+86649	amikacine injvlst 250mg/ml	injectievloeistof	iv		ICK			0		
+86649	amikacine injvlst 250mg/ml	injectievloeistof	iv		NEO			0		
+65366	amiodaron injvlst 50mg/ml	injectievloeistof	iv		ICC			0		
+65366	amiodaron injvlst 50mg/ml	injectievloeistof	iv		ICK			0		
+65366	amiodaron injvlst 50mg/ml	injectievloeistof	iv		NEO			0		
+13730	amoxicilline injectiepoeder 250mg	poeder voor injectievloeistof	im		ICC			1.5		water
+13730	amoxicilline injectiepoeder 250mg	poeder voor injectievloeistof	im		ICK			1.5		water
+13730	amoxicilline injectiepoeder 250mg	poeder voor injectievloeistof	im		NEO			1.5		water
+13730	amoxicilline injectiepoeder 250mg	poeder voor injectievloeistof	iv		ICC			5		water
+13730	amoxicilline injectiepoeder 250mg	poeder voor injectievloeistof	iv		ICK			5		water
+13730	amoxicilline injectiepoeder 250mg	poeder voor injectievloeistof	iv		NEO			5		water
+13749	amoxicilline injectiepoeder 500mg	poeder voor injectievloeistof	im		ICC			2.5		water
+13749	amoxicilline injectiepoeder 500mg	poeder voor injectievloeistof	im		ICK			2.5		water
+13749	amoxicilline injectiepoeder 500mg	poeder voor injectievloeistof	im		NEO			2.5		water
+13749	amoxicilline injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICC			10		water
+13749	amoxicilline injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICK			10		water
+13749	amoxicilline injectiepoeder 500mg	poeder voor injectievloeistof	iv		NEO			10		water
+13757	amoxicilline injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICC			5		water
+13757	amoxicilline injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICK			5		water
+13757	amoxicilline injectiepoeder 1000mg	poeder voor injectievloeistof	im		NEO			5		water
+13757	amoxicilline injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICC			20		water
+13757	amoxicilline injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICK			20		water
+13757	amoxicilline injectiepoeder 1000mg	poeder voor injectievloeistof	iv		NEO			20		water
+53864	amoxicilline/clavulaanzuur infpdr 2000/200mg	poeder voor oplossing voor infusie	iv		ICC			20		water
+53864	amoxicilline/clavulaanzuur infpdr 2000/200mg	poeder voor oplossing voor infusie	iv		ICK			20		water
+53864	amoxicilline/clavulaanzuur infpdr 2000/200mg	poeder voor oplossing voor infusie	iv		NEO			20		water
+53813	amoxicilline/clavulaanzuur injpdr 500/50mg	poeder voor injectievloeistof	iv		ICC			10		water
+53813	amoxicilline/clavulaanzuur injpdr 500/50mg	poeder voor injectievloeistof	iv		ICK			10		water
+53813	amoxicilline/clavulaanzuur injpdr 500/50mg	poeder voor injectievloeistof	iv		NEO			10		water
+53821	amoxicilline/clavulaanzuur injpdr 1000/100mg	poeder voor injectievloeistof	iv		ICC			20		water
+53821	amoxicilline/clavulaanzuur injpdr 1000/100mg	poeder voor injectievloeistof	iv		ICK			20		water
+53821	amoxicilline/clavulaanzuur injpdr 1000/100mg	poeder voor injectievloeistof	iv		NEO			20		water
+53856	amoxicilline/clavulaanzuur injpdr 1000/200mg	poeder voor injectievloeistof	iv		ICC			20		water
+53856	amoxicilline/clavulaanzuur injpdr 1000/200mg	poeder voor injectievloeistof	iv		ICK			20		water
+53856	amoxicilline/clavulaanzuur injpdr 1000/200mg	poeder voor injectievloeistof	iv		NEO			20		water
+128708	anidulafungine infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICC			30		water
+128708	anidulafungine infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICK			30		water
+128708	anidulafungine infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		NEO			30		water
+189111	anifrolumab infopl conc 150mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+189111	anifrolumab infopl conc 150mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+189111	anifrolumab infopl conc 150mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+98698	antitrombine iii infusiepoeder 500ie	poeder voor oplossing voor infusie	iv		ICC			10		water
+98698	antitrombine iii infusiepoeder 500ie	poeder voor oplossing voor infusie	iv		ICK			10		water
+98698	antitrombine iii infusiepoeder 500ie	poeder voor oplossing voor infusie	iv		NEO			10		water
+138819	argatroban infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+138819	argatroban infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+138819	argatroban infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+78492	arginine hcl infvlst 100mg/ml	infusievloeistof	iv		ICC			0		
+78492	arginine hcl infvlst 100mg/ml	infusievloeistof	iv		ICK			0		
+78492	arginine hcl infvlst 100mg/ml	infusievloeistof	iv		NEO			0		
+172103	arginine/lysine infvlst 25/25mg/ml	infusievloeistof	iv		ICC			0		
+172103	arginine/lysine infvlst 25/25mg/ml	infusievloeistof	iv		ICK			0		
+172103	arginine/lysine infvlst 25/25mg/ml	infusievloeistof	iv		NEO			0		
+175552	argipressine infopl conc 20ie/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+175552	argipressine infopl conc 20ie/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+175552	argipressine infopl conc 20ie/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+135569	artesunaat pdr v injvlst 60mg	poeder voor injectievloeistof	iv		ICC			1		1ml natriumbicarbonaat + 5ml NaCl/glucose
+135569	artesunaat pdr v injvlst 60mg	poeder voor injectievloeistof	iv		ICK			1		1ml natriumbicarbonaat + 5ml NaCl/glucose
+135569	artesunaat pdr v injvlst 60mg	poeder voor injectievloeistof	iv		NEO			1		1ml natriumbicarbonaat + 5ml NaCl/glucose
+28401	ascorbinezuur injvlst 100mg/ml	injectievloeistof	im		ICC			0		
+28401	ascorbinezuur injvlst 100mg/ml	injectievloeistof	im		ICK			0		
+28401	ascorbinezuur injvlst 100mg/ml	injectievloeistof	im		NEO			0		
+28401	ascorbinezuur injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+28401	ascorbinezuur injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+28401	ascorbinezuur injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+110809	atosiban infopl conc 7,5mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+110809	atosiban infopl conc 7,5mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+110809	atosiban infopl conc 7,5mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+110795	atosiban injvlst 7,5mg/ml	injectievloeistof	iv		ICC			0		
+110795	atosiban injvlst 7,5mg/ml	injectievloeistof	iv		ICK			0		
+110795	atosiban injvlst 7,5mg/ml	injectievloeistof	iv		NEO			0		
+53120	atracurium injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+53120	atracurium injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+53120	atracurium injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+105902	basiliximab infusiepoeder 20mg	poeder voor oplossing voor infusie	iv		ICC			5		water
+105902	basiliximab infusiepoeder 20mg	poeder voor oplossing voor infusie	iv		ICK			5		water
+105902	basiliximab infusiepoeder 20mg	poeder voor oplossing voor infusie	iv		NEO			5		water
+138991	belatacept infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		ICC			10.5		NaCl 0,9%;glucose 5%
+138991	belatacept infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		ICK			10.5		NaCl 0,9%;glucose 5%
+138991	belatacept infusiepoeder 250mg	poeder voor oplossing voor infusie	iv		NEO			10.5		NaCl 0,9%;glucose 5%
+136883	belimumab infusiepoeder 120mg	poeder voor oplossing voor infusie	iv		ICC			1.5		water
+136883	belimumab infusiepoeder 120mg	poeder voor oplossing voor infusie	iv		ICK			1.5		water
+136883	belimumab infusiepoeder 120mg	poeder voor oplossing voor infusie	iv		NEO			1.5		water
+136891	belimumab infusiepoeder 400mg	poeder voor oplossing voor infusie	iv		ICC			4.8		water
+136891	belimumab infusiepoeder 400mg	poeder voor oplossing voor infusie	iv		ICK			4.8		water
+136891	belimumab infusiepoeder 400mg	poeder voor oplossing voor infusie	iv		NEO			4.8		water
+162868	benzylpenicilline (depot) injsusp 1.200.000ie	poeder voor suspensie voor injectie	im		ICC			4		water;lidocaine 1%
+162868	benzylpenicilline (depot) injsusp 1.200.000ie	poeder voor suspensie voor injectie	im		ICK			4		water;lidocaine 1%
+162868	benzylpenicilline (depot) injsusp 1.200.000ie	poeder voor suspensie voor injectie	im		NEO			4		water;lidocaine 1%
+18872	benzylpenicilline (natrium) injpdr 1.000.000ie	poeder voor injectievloeistof	im		ICC			4.6		water
+18872	benzylpenicilline (natrium) injpdr 1.000.000ie	poeder voor injectievloeistof	im		ICK			4.6		water
+18872	benzylpenicilline (natrium) injpdr 1.000.000ie	poeder voor injectievloeistof	im		NEO			4.6		water
+18872	benzylpenicilline (natrium) injpdr 1.000.000ie	poeder voor injectievloeistof	iv		ICC			4.6		water
+18872	benzylpenicilline (natrium) injpdr 1.000.000ie	poeder voor injectievloeistof	iv		ICK			4.6		water
+18872	benzylpenicilline (natrium) injpdr 1.000.000ie	poeder voor injectievloeistof	iv		NEO			4.6		water
+18880	benzylpenicilline (natrium) injpdr 10.000.000ie	poeder voor injectievloeistof	im		ICC			10		water
+18880	benzylpenicilline (natrium) injpdr 10.000.000ie	poeder voor injectievloeistof	im		ICK			10		water
+18880	benzylpenicilline (natrium) injpdr 10.000.000ie	poeder voor injectievloeistof	im		NEO			10		water
+18880	benzylpenicilline (natrium) injpdr 10.000.000ie	poeder voor injectievloeistof	iv		ICC			15.8		water
+18880	benzylpenicilline (natrium) injpdr 10.000.000ie	poeder voor injectievloeistof	iv		ICK			15.8		water
+18880	benzylpenicilline (natrium) injpdr 10.000.000ie	poeder voor injectievloeistof	iv		NEO			15.8		water
+113301	betamethason injsusp 5,7mg/ml	suspensie voor injectie	im		ICC			0		
+113301	betamethason injsusp 5,7mg/ml	suspensie voor injectie	im		ICK			0		
+113301	betamethason injsusp 5,7mg/ml	suspensie voor injectie	im		NEO			0		
+123056	bevacizumab infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+123056	bevacizumab infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+123056	bevacizumab infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+4618	biperideen injvlst 5mg/ml	injectievloeistof	im		ICC			0		
+4618	biperideen injvlst 5mg/ml	injectievloeistof	im		ICK			0		
+4618	biperideen injvlst 5mg/ml	injectievloeistof	im		NEO			0		
+4618	biperideen injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+4618	biperideen injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+4618	biperideen injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+133671	bivalirudine pdr inj/infopl 250mg	poeder voor injectie/infusieoplossing	iv		ICC			5		water
+133671	bivalirudine pdr inj/infopl 250mg	poeder voor injectie/infusieoplossing	iv		ICK			5		water
+133671	bivalirudine pdr inj/infopl 250mg	poeder voor injectie/infusieoplossing	iv		NEO			5		water
+94110	botuline a toxine allergan injpdr 100e	poeder voor injectievloeistof	im		ICC			2		NaCl 0,9%
+94110	botuline a toxine allergan injpdr 100e	poeder voor injectievloeistof	im		ICK			2		NaCl 0,9%
+94110	botuline a toxine allergan injpdr 100e	poeder voor injectievloeistof	im		NEO			2		NaCl 0,9%
+71277	bumetanide injvlst 0,5mg/ml	injectievloeistof	im		ICC			0		
+71277	bumetanide injvlst 0,5mg/ml	injectievloeistof	im		ICK			0		
+71277	bumetanide injvlst 0,5mg/ml	injectievloeistof	im		NEO			0		
+71277	bumetanide injvlst 0,5mg/ml	injectievloeistof	iv		ICC			0		
+71277	bumetanide injvlst 0,5mg/ml	injectievloeistof	iv		ICK			0		
+71277	bumetanide injvlst 0,5mg/ml	injectievloeistof	iv		NEO			0		
+147524	bupivacaine infvlst 1,25mg/ml (hcl)	infusievloeistof	iv		ICC			0		
+147524	bupivacaine infvlst 1,25mg/ml (hcl)	infusievloeistof	iv		ICK			0		
+147524	bupivacaine infvlst 1,25mg/ml (hcl)	infusievloeistof	iv		NEO			0		
+187933	c1-esteraseremmer injpdr 500ie	poeder voor injectievloeistof	iv		ICC			5		water
+187933	c1-esteraseremmer injpdr 500ie	poeder voor injectievloeistof	iv		ICK			5		water
+187933	c1-esteraseremmer injpdr 500ie	poeder voor injectievloeistof	iv		NEO			5		water
+186082	cabotegravir injsusp 200mg/ml	suspensie voor injectie	im		ICC			0		
+186082	cabotegravir injsusp 200mg/ml	suspensie voor injectie	im		ICK			0		
+186082	cabotegravir injsusp 200mg/ml	suspensie voor injectie	im		NEO			0		
+13382	calcitonine injvlst 100ie/ml	injectievloeistof	im		ICC			0		
+13382	calcitonine injvlst 100ie/ml	injectievloeistof	im		ICK			0		
+13382	calcitonine injvlst 100ie/ml	injectievloeistof	im		NEO			0		
+13382	calcitonine injvlst 100ie/ml	injectievloeistof	iv		ICC			0		
+13382	calcitonine injvlst 100ie/ml	injectievloeistof	iv		ICK			0		
+13382	calcitonine injvlst 100ie/ml	injectievloeistof	iv		NEO			0		
+126160	calciumgluconaat inj 100mg/ml(0,225mmol ca/ml)	injectievloeistof	im		ICC			0		
+126160	calciumgluconaat inj 100mg/ml(0,225mmol ca/ml)	injectievloeistof	im		ICK			0		
+126160	calciumgluconaat inj 100mg/ml(0,225mmol ca/ml)	injectievloeistof	im		NEO			0		
+126160	calciumgluconaat inj 100mg/ml(0,225mmol ca/ml)	injectievloeistof	iv		ICC			0		
+126160	calciumgluconaat inj 100mg/ml(0,225mmol ca/ml)	injectievloeistof	iv		ICK			0		
+126160	calciumgluconaat inj 100mg/ml(0,225mmol ca/ml)	injectievloeistof	iv		NEO			0		
+158925	cangrelor pdr inj/infopl 50mg	poeder voor injectie/infusieoplossing	iv		ICC			5		water
+158925	cangrelor pdr inj/infopl 50mg	poeder voor injectie/infusieoplossing	iv		ICK			5		water
+158925	cangrelor pdr inj/infopl 50mg	poeder voor injectie/infusieoplossing	iv		NEO			5		water
+177660	caplacizumab injectiepoeder 10mg	poeder voor injectievloeistof	iv		ICC			1		water
+177660	caplacizumab injectiepoeder 10mg	poeder voor injectievloeistof	iv		ICK			1		water
+177660	caplacizumab injectiepoeder 10mg	poeder voor injectievloeistof	iv		NEO			1		water
+125814	carbetocine injvlst 100ug/ml	injectievloeistof	iv		ICC			0		
+125814	carbetocine injvlst 100ug/ml	injectievloeistof	iv		ICK			0		
+125814	carbetocine injvlst 100ug/ml	injectievloeistof	iv		NEO			0		
+118354	caspofungine infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICC			10.5		water
+118354	caspofungine infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICK			10.5		water
+118354	caspofungine infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		NEO			10.5		water
+118362	caspofungine infusiepoeder 70mg	poeder voor oplossing voor infusie	iv		ICC			10.5		water
+118362	caspofungine infusiepoeder 70mg	poeder voor oplossing voor infusie	iv		ICK			10.5		water
+118362	caspofungine infusiepoeder 70mg	poeder voor oplossing voor infusie	iv		NEO			10.5		water
+16624	cefazoline pdr v injvlst 1000mg	poeder voor injectievloeistof	im		ICC			2.5		water;NaCl 0,9%;lidocaïne 0,5%
+16624	cefazoline pdr v injvlst 1000mg	poeder voor injectievloeistof	im		ICK			2.5		water;NaCl 0,9%;lidocaïne 0,5%
+16624	cefazoline pdr v injvlst 1000mg	poeder voor injectievloeistof	im		NEO			2.5		water;NaCl 0,9%;lidocaïne 0,5%
+16624	cefazoline pdr v injvlst 1000mg	poeder voor injectievloeistof	iv		ICC			10		water;NaCl 0,9%
+16624	cefazoline pdr v injvlst 1000mg	poeder voor injectievloeistof	iv		ICK			10		water;NaCl 0,9%
+16624	cefazoline pdr v injvlst 1000mg	poeder voor injectievloeistof	iv		NEO			10		water;NaCl 0,9%
+38369	cefotaxim injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICC			4		water
+38369	cefotaxim injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICK			4		water
+38369	cefotaxim injectiepoeder 1000mg	poeder voor injectievloeistof	im		NEO			20		water
+38369	cefotaxim injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICC			4		water
+38369	cefotaxim injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICK			4		water
+38369	cefotaxim injectiepoeder 1000mg	poeder voor injectievloeistof	iv		NEO			20		water
+53422	ceftazidim injectiepoeder 500mg	poeder voor injectievloeistof	im		ICC			1.5		water
+53422	ceftazidim injectiepoeder 500mg	poeder voor injectievloeistof	im		ICK			1.5		water
+53422	ceftazidim injectiepoeder 500mg	poeder voor injectievloeistof	im		NEO			1.5		water
+53422	ceftazidim injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICC			5		water
+53422	ceftazidim injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICK			5		water
+53422	ceftazidim injectiepoeder 500mg	poeder voor injectievloeistof	iv		NEO			5		water
+53430	ceftazidim injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICC			3		water
+53430	ceftazidim injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICK			3		water
+53430	ceftazidim injectiepoeder 1000mg	poeder voor injectievloeistof	im		NEO			3		water
+53430	ceftazidim injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICC			10		water
+53430	ceftazidim injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICK			10		water
+53430	ceftazidim injectiepoeder 1000mg	poeder voor injectievloeistof	iv		NEO			10		water
+53449	ceftazidim injectiepoeder 2000mg	poeder voor injectievloeistof	iv		ICC			10		water
+53449	ceftazidim injectiepoeder 2000mg	poeder voor injectievloeistof	iv		ICK			10		water
+53449	ceftazidim injectiepoeder 2000mg	poeder voor injectievloeistof	iv		NEO			10		water
+172278	ceftazidim/avibactam infusiepoeder 2000/500mg	poeder voor oplossing voor infusie	iv		ICC			10		water
+172278	ceftazidim/avibactam infusiepoeder 2000/500mg	poeder voor oplossing voor infusie	iv		ICK			10		water
+172278	ceftazidim/avibactam infusiepoeder 2000/500mg	poeder voor oplossing voor infusie	iv		NEO			10		water
+51047	ceftriaxon infusiepoeder 2000mg	poeder voor oplossing voor infusie	iv		ICC			20		water
+51047	ceftriaxon infusiepoeder 2000mg	poeder voor oplossing voor infusie	iv		ICK			20		water
+51047	ceftriaxon infusiepoeder 2000mg	poeder voor oplossing voor infusie	iv		NEO			20		water
+119091	ceftriaxon injectiepoeder 500mg	poeder voor injectievloeistof	im		ICC			2		lidocaine 1%
+119091	ceftriaxon injectiepoeder 500mg	poeder voor injectievloeistof	im		ICK			2		lidocaine 1%
+119091	ceftriaxon injectiepoeder 500mg	poeder voor injectievloeistof	im		NEO			2		lidocaine 1%
+119091	ceftriaxon injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICC			5		water
+119091	ceftriaxon injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICK			5		water
+119091	ceftriaxon injectiepoeder 500mg	poeder voor injectievloeistof	iv		NEO			5		water
+117978	ceftriaxon injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICC			3.5		lidocaine 1%
+117978	ceftriaxon injectiepoeder 1000mg	poeder voor injectievloeistof	im		ICK			3.5		lidocaine 1%
+117978	ceftriaxon injectiepoeder 1000mg	poeder voor injectievloeistof	im		NEO			3.5		lidocaine 1%
+117978	ceftriaxon injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICC			10		water
+117978	ceftriaxon injectiepoeder 1000mg	poeder voor injectievloeistof	iv		ICK			10		water
+117978	ceftriaxon injectiepoeder 1000mg	poeder voor injectievloeistof	iv		NEO			10		water
+22578	cefuroxim injectiepoeder 750mg	poeder voor injectievloeistof	im		ICC			3		water
+22578	cefuroxim injectiepoeder 750mg	poeder voor injectievloeistof	im		ICK			3		water
+22578	cefuroxim injectiepoeder 750mg	poeder voor injectievloeistof	im		NEO			3		water
+22578	cefuroxim injectiepoeder 750mg	poeder voor injectievloeistof	iv		ICC			6		water
+22578	cefuroxim injectiepoeder 750mg	poeder voor injectievloeistof	iv		ICK			6		water
+22578	cefuroxim injectiepoeder 750mg	poeder voor injectievloeistof	iv		NEO			7.5		water
+22586	cefuroxim injectiepoeder 1500mg	poeder voor injectievloeistof	iv		ICC			15		water
+22586	cefuroxim injectiepoeder 1500mg	poeder voor injectievloeistof	iv		ICK			15		water
+22586	cefuroxim injectiepoeder 1500mg	poeder voor injectievloeistof	iv		NEO			15		water
+22586	cefuroxim injectiepoeder 1500mg	poeder voor injectievloeistof	im		ICC			6		water
+22586	cefuroxim injectiepoeder 1500mg	poeder voor injectievloeistof	im		ICK			6		water
+22586	cefuroxim injectiepoeder 1500mg	poeder voor injectievloeistof	im		NEO			6		water
+45357	ciclosporine infopl conc 50mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+45357	ciclosporine infopl conc 50mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+45357	ciclosporine infopl conc 50mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+167002	ciprofloxacine infvlst 2mg/ml	infusievloeistof	iv		ICC			0		
+167002	ciprofloxacine infvlst 2mg/ml	infusievloeistof	iv		ICK			0		
+167002	ciprofloxacine infvlst 2mg/ml	infusievloeistof	iv		NEO			0		
+1465	clemastine injvlst 1mg/ml	injectievloeistof	im		ICC			0		
+1465	clemastine injvlst 1mg/ml	injectievloeistof	im		ICK			0		
+1465	clemastine injvlst 1mg/ml	injectievloeistof	im		NEO			0		
+1465	clemastine injvlst 1mg/ml	injectievloeistof	iv		ICC			0		
+1465	clemastine injvlst 1mg/ml	injectievloeistof	iv		ICK			0		
+1465	clemastine injvlst 1mg/ml	injectievloeistof	iv		NEO			0		
+14079	clindamycine injvlst 150mg/ml	injectievloeistof	im		ICC			0		
+14079	clindamycine injvlst 150mg/ml	injectievloeistof	im		ICK			0		
+14079	clindamycine injvlst 150mg/ml	injectievloeistof	im		NEO			0		
+14079	clindamycine injvlst 150mg/ml	injectievloeistof	iv		ICC			0		
+14079	clindamycine injvlst 150mg/ml	injectievloeistof	iv		ICK			0		
+14079	clindamycine injvlst 150mg/ml	injectievloeistof	iv		NEO			0		
+10286	clonazepam injopl conc 1mg/ml	concentraat voor oplossing voor injectie	im		ICC			0		
+10286	clonazepam injopl conc 1mg/ml	concentraat voor oplossing voor injectie	im		ICK			0		
+10286	clonazepam injopl conc 1mg/ml	concentraat voor oplossing voor injectie	im		NEO			0		
+10286	clonazepam injopl conc 1mg/ml	concentraat voor oplossing voor injectie	iv		ICC			0		
+10286	clonazepam injopl conc 1mg/ml	concentraat voor oplossing voor injectie	iv		ICK			0		
+10286	clonazepam injopl conc 1mg/ml	concentraat voor oplossing voor injectie	iv		NEO			0		
+5533	clonidine injvlst 0,15mg/ml	injectievloeistof	im		ICC			0		
+5533	clonidine injvlst 0,15mg/ml	injectievloeistof	im		ICK			0		
+5533	clonidine injvlst 0,15mg/ml	injectievloeistof	im		NEO			0		
+5533	clonidine injvlst 0,15mg/ml	injectievloeistof	iv		ICC			0		
+5533	clonidine injvlst 0,15mg/ml	injectievloeistof	iv		ICK			0		
+5533	clonidine injvlst 0,15mg/ml	injectievloeistof	iv		NEO			0		
+121576	coffeine injvlst 10mg/ml (base)	injectievloeistof	im		ICC			0		
+121576	coffeine injvlst 10mg/ml (base)	injectievloeistof	im		ICK			0		
+121576	coffeine injvlst 10mg/ml (base)	injectievloeistof	im		NEO			0		
+121576	coffeine injvlst 10mg/ml (base)	injectievloeistof	iv		ICC			0		
+121576	coffeine injvlst 10mg/ml (base)	injectievloeistof	iv		ICK			0		
+121576	coffeine injvlst 10mg/ml (base)	injectievloeistof	iv		NEO			0		
+139882	colistine infusiepoeder 1.000.000ie	poeder voor oplossing voor infusie	iv		ICC			3		NaCl 0,9%;water
+139882	colistine infusiepoeder 1.000.000ie	poeder voor oplossing voor infusie	iv		ICK			3		NaCl 0,9%;water
+139882	colistine infusiepoeder 1.000.000ie	poeder voor oplossing voor infusie	iv		NEO			3		NaCl 0,9%;water
+85278	corticoreline pdr v injvlst 100ug	poeder voor injectievloeistof	iv		ICC			1		water;NaCl 0,9%l;zoutzuur
+85278	corticoreline pdr v injvlst 100ug	poeder voor injectievloeistof	iv		ICK			1		water;NaCl 0,9%l;zoutzuur
+85278	corticoreline pdr v injvlst 100ug	poeder voor injectievloeistof	iv		NEO			1		water;NaCl 0,9%l;zoutzuur
+3387	cotrimoxazol 96 infopl conc 16/80mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+3387	cotrimoxazol 96 infopl conc 16/80mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+3387	cotrimoxazol 96 infopl conc 16/80mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+28606	cyanocobalamine injvlst 1mg/ml	injectievloeistof	im		ICC			0		
+28606	cyanocobalamine injvlst 1mg/ml	injectievloeistof	im		ICK			0		
+28606	cyanocobalamine injvlst 1mg/ml	injectievloeistof	im		NEO			0		
+164348	cytomegalie-immunoglobuline infvls 100e/ml	infusievloeistof	iv		ICC			0		
+164348	cytomegalie-immunoglobuline infvls 100e/ml	infusievloeistof	iv		ICK			0		
+164348	cytomegalie-immunoglobuline infvls 100e/ml	infusievloeistof	iv		NEO			0		
+133744	dalteparine injvlst 10.000ie/ml	injectievloeistof	iv		ICC			0		
+133744	dalteparine injvlst 10.000ie/ml	injectievloeistof	iv		ICK			0		
+133744	dalteparine injvlst 10.000ie/ml	injectievloeistof	iv		NEO			0		
+77054	dalteparine injvlst 12.500ie/ml	injectievloeistof	iv		ICC			0		
+77054	dalteparine injvlst 12.500ie/ml	injectievloeistof	iv		ICK			0		
+77054	dalteparine injvlst 12.500ie/ml	injectievloeistof	iv		NEO			0		
+77062	dalteparine injvlst 25.000ie/ml	injectievloeistof	iv		ICC			0		
+77062	dalteparine injvlst 25.000ie/ml	injectievloeistof	iv		ICK			0		
+77062	dalteparine injvlst 25.000ie/ml	injectievloeistof	iv		NEO			0		
+87033	danaparoide injvlst 1250axa-e/ml	injectievloeistof	iv		ICC			0		
+87033	danaparoide injvlst 1250axa-e/ml	injectievloeistof	iv		ICK			0		
+87033	danaparoide injvlst 1250axa-e/ml	injectievloeistof	iv		NEO			0		
+75779	dantroleen pdr v injvlst 20mg	poeder voor injectievloeistof	iv		ICC			60		water
+75779	dantroleen pdr v injvlst 20mg	poeder voor injectievloeistof	iv		ICK			60		water
+75779	dantroleen pdr v injvlst 20mg	poeder voor injectievloeistof	iv		NEO			60		water
+132101	daptomycine pdr inj/infopl 500mg	poeder voor injectie/infusieoplossing	iv		ICC			10		NaCl 0,9%
+132101	daptomycine pdr inj/infopl 500mg	poeder voor injectie/infusieoplossing	iv		ICK			10		NaCl 0,9%
+132101	daptomycine pdr inj/infopl 500mg	poeder voor injectie/infusieoplossing	iv		NEO			10		NaCl 0,9%
+113395	darbepoetine alfa injvlst 25ug/ml	injectievloeistof	iv		ICC			0		
+113395	darbepoetine alfa injvlst 25ug/ml	injectievloeistof	iv		ICK			0		
+113395	darbepoetine alfa injvlst 25ug/ml	injectievloeistof	iv		NEO			0		
+113409	darbepoetine alfa injvlst 40ug/ml	injectievloeistof	iv		ICC			0		
+113409	darbepoetine alfa injvlst 40ug/ml	injectievloeistof	iv		ICK			0		
+113409	darbepoetine alfa injvlst 40ug/ml	injectievloeistof	iv		NEO			0		
+113417	darbepoetine alfa injvlst 100ug/ml	injectievloeistof	iv		ICC			0		
+113417	darbepoetine alfa injvlst 100ug/ml	injectievloeistof	iv		ICK			0		
+113417	darbepoetine alfa injvlst 100ug/ml	injectievloeistof	iv		NEO			0		
+113425	darbepoetine alfa injvlst 200ug/ml	injectievloeistof	iv		ICC			0		
+113425	darbepoetine alfa injvlst 200ug/ml	injectievloeistof	iv		ICK			0		
+113425	darbepoetine alfa injvlst 200ug/ml	injectievloeistof	iv		NEO			0		
+105627	deferoxamine injectiepoeder 500mg	poeder voor injectievloeistof	im		ICC			2		water
+105627	deferoxamine injectiepoeder 500mg	poeder voor injectievloeistof	im		ICK			2		water
+105627	deferoxamine injectiepoeder 500mg	poeder voor injectievloeistof	im		NEO			2		water
+105627	deferoxamine injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICC			5		water
+105627	deferoxamine injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICK			5		water
+105627	deferoxamine injectiepoeder 500mg	poeder voor injectievloeistof	iv		NEO			5		water
+151505	defibrotide infopl conc 80mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+151505	defibrotide infopl conc 80mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+151505	defibrotide infopl conc 80mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+40916	desmopressine injvlst 4ug/ml	injectievloeistof	im		ICC			0		
+40916	desmopressine injvlst 4ug/ml	injectievloeistof	im		ICK			0		
+40916	desmopressine injvlst 4ug/ml	injectievloeistof	im		NEO			0		
+40916	desmopressine injvlst 4ug/ml	injectievloeistof	iv		ICC			0		
+40916	desmopressine injvlst 4ug/ml	injectievloeistof	iv		ICK			0		
+40916	desmopressine injvlst 4ug/ml	injectievloeistof	iv		NEO			0		
+104884	desmopressine injvlst 15ug/ml	injectievloeistof	iv		ICC			0		
+104884	desmopressine injvlst 15ug/ml	injectievloeistof	iv		ICK			0		
+104884	desmopressine injvlst 15ug/ml	injectievloeistof	iv		NEO			0		
+52388	dexamethason injvlst 4mg/ml (base)	injectievloeistof	im		ICC			0		
+52388	dexamethason injvlst 4mg/ml (base)	injectievloeistof	im		ICK			0		
+52388	dexamethason injvlst 4mg/ml (base)	injectievloeistof	im		NEO			0		
+52388	dexamethason injvlst 4mg/ml (base)	injectievloeistof	iv		ICC			0		
+52388	dexamethason injvlst 4mg/ml (base)	injectievloeistof	iv		ICK			0		
+52388	dexamethason injvlst 4mg/ml (base)	injectievloeistof	iv		NEO			0		
+60402	dexamethason injvlst 20mg/ml (base)	injectievloeistof	iv		ICC			0		
+60402	dexamethason injvlst 20mg/ml (base)	injectievloeistof	iv		ICK			0		
+60402	dexamethason injvlst 20mg/ml (base)	injectievloeistof	iv		NEO			0		
+138177	dexmedetomidine infopl conc 100ug/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+138177	dexmedetomidine infopl conc 100ug/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+138177	dexmedetomidine infopl conc 100ug/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+1961	diazepam injvlst 5mg/ml	injectievloeistof	im		ICC			0		
+1961	diazepam injvlst 5mg/ml	injectievloeistof	im		ICK			0		
+1961	diazepam injvlst 5mg/ml	injectievloeistof	im		NEO			0		
+1961	diazepam injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+1961	diazepam injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+1961	diazepam injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+112852	diclofenac-natrium injvlst 25mg/ml	injectievloeistof	im		ICC			0		
+112852	diclofenac-natrium injvlst 25mg/ml	injectievloeistof	im		ICK			0		
+112852	diclofenac-natrium injvlst 25mg/ml	injectievloeistof	im		NEO			0		
+112852	diclofenac-natrium injvlst 25mg/ml	injectievloeistof	iv		ICC			0		
+112852	diclofenac-natrium injvlst 25mg/ml	injectievloeistof	iv		ICK			0		
+112852	diclofenac-natrium injvlst 25mg/ml	injectievloeistof	iv		NEO			0		
+6238	digoxine injvlst 0,25mg/ml	injectievloeistof	iv		ICC			0		
+6238	digoxine injvlst 0,25mg/ml	injectievloeistof	iv		ICK			0		
+6238	digoxine injvlst 0,25mg/ml	injectievloeistof	iv		NEO			0		
+97713	dobutamine infopl conc 12,5mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+97713	dobutamine infopl conc 12,5mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+97713	dobutamine infopl conc 12,5mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+111414	dobutamine infvlst 5mg/ml	infusievloeistof	iv		ICC			0		
+111414	dobutamine infvlst 5mg/ml	infusievloeistof	iv		ICK			0		
+111414	dobutamine infvlst 5mg/ml	infusievloeistof	iv		NEO			0		
+16438	dopamine infopl conc 40mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+16438	dopamine infopl conc 40mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+16438	dopamine infopl conc 40mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+2089	doxycycline injvlst 20mg/ml	injectievloeistof	iv		ICC			0		
+2089	doxycycline injvlst 20mg/ml	injectievloeistof	iv		ICK			0		
+2089	doxycycline injvlst 20mg/ml	injectievloeistof	iv		NEO			0		
+2496	droperidol injvlst 2,5mg/ml	injectievloeistof	iv		ICC			0		
+2496	droperidol injvlst 2,5mg/ml	injectievloeistof	iv		ICK			0		
+2496	droperidol injvlst 2,5mg/ml	injectievloeistof	iv		NEO			0		
+2496	droperidol injvlst 2,5mg/ml	injectievloeistof	im		ICC			0		
+2496	droperidol injvlst 2,5mg/ml	injectievloeistof	im		ICK			0		
+2496	droperidol injvlst 2,5mg/ml	injectievloeistof	im		NEO			0		
+166596	eculizumab infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+166596	eculizumab infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+166596	eculizumab infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+139955	efedrine injvlst 5mg/ml	injectievloeistof	im		ICC			0		
+139955	efedrine injvlst 5mg/ml	injectievloeistof	im		ICK			0		
+139955	efedrine injvlst 5mg/ml	injectievloeistof	im		NEO			0		
+139955	efedrine injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+139955	efedrine injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+139955	efedrine injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+114081	epoetine beta injvlst 6.667ie/ml	injectievloeistof	iv		ICC			0		
+114081	epoetine beta injvlst 6.667ie/ml	injectievloeistof	iv		ICK			0		
+114081	epoetine beta injvlst 6.667ie/ml	injectievloeistof	iv		NEO			0		
+114111	epoetine beta injvlst 13.333ie/ml	injectievloeistof	iv		ICC			0		
+114111	epoetine beta injvlst 13.333ie/ml	injectievloeistof	iv		ICK			0		
+114111	epoetine beta injvlst 13.333ie/ml	injectievloeistof	iv		NEO			0		
+114138	epoetine beta injvlst 20.000ie/ml	injectievloeistof	iv		ICC			0		
+114138	epoetine beta injvlst 20.000ie/ml	injectievloeistof	iv		ICK			0		
+114138	epoetine beta injvlst 20.000ie/ml	injectievloeistof	iv		NEO			0		
+87920	epoprostenol infusiepoeder 500ug	poeder voor oplossing voor infusie	iv		ICC			10		solvens
+87920	epoprostenol infusiepoeder 500ug	poeder voor oplossing voor infusie	iv		ICK			10		solvens
+87920	epoprostenol infusiepoeder 500ug	poeder voor oplossing voor infusie	iv		NEO			10		solvens
+129917	eptacog alfa geactiveerd injectiepdr 1mg	poeder voor injectievloeistof	iv		ICC			1		solvens
+129917	eptacog alfa geactiveerd injectiepdr 1mg	poeder voor injectievloeistof	iv		ICK			1		solvens
+129917	eptacog alfa geactiveerd injectiepdr 1mg	poeder voor injectievloeistof	iv		NEO			1		solvens
+129925	eptacog alfa geactiveerd injectiepdr 2mg	poeder voor injectievloeistof	iv		ICC			2		solvens
+129925	eptacog alfa geactiveerd injectiepdr 2mg	poeder voor injectievloeistof	iv		ICK			2		solvens
+129925	eptacog alfa geactiveerd injectiepdr 2mg	poeder voor injectievloeistof	iv		NEO			2		solvens
+115428	ertapenem infusiepoeder 1g	poeder voor oplossing voor infusie	iv		ICC			10		water;NaCl 0,9%
+115428	ertapenem infusiepoeder 1g	poeder voor oplossing voor infusie	iv		ICK			10		water;NaCl 0,9%
+115428	ertapenem infusiepoeder 1g	poeder voor oplossing voor infusie	iv		NEO			10		water;NaCl 0,9%
+73318	erytromycine pdr v infvlst 1g	poeder voor oplossing voor infusie	iv		ICC			20		water
+73318	erytromycine pdr v infvlst 1g	poeder voor oplossing voor infusie	iv		ICK			20		water
+73318	erytromycine pdr v infvlst 1g	poeder voor oplossing voor infusie	iv		NEO			20		water
+107034	esketamine injvlst 5mg/ml	injectievloeistof	im		ICC			0		
+107034	esketamine injvlst 5mg/ml	injectievloeistof	im		ICK			0		
+107034	esketamine injvlst 5mg/ml	injectievloeistof	im		NEO			0		
+107034	esketamine injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+107034	esketamine injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+107034	esketamine injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+107042	esketamine injvlst 25mg/ml	injectievloeistof	im		ICC			0		
+107042	esketamine injvlst 25mg/ml	injectievloeistof	im		ICK			0		
+107042	esketamine injvlst 25mg/ml	injectievloeistof	im		NEO			0		
+107042	esketamine injvlst 25mg/ml	injectievloeistof	iv		ICC			0		
+107042	esketamine injvlst 25mg/ml	injectievloeistof	iv		ICK			0		
+107042	esketamine injvlst 25mg/ml	injectievloeistof	iv		NEO			0		
+174904	esmolol infusiepoeder 2500mg	poeder voor oplossing voor infusie	iv		ICC			50		NaCl 0,9%;glucose 5%
+174904	esmolol infusiepoeder 2500mg	poeder voor oplossing voor infusie	iv		ICK			50		NaCl 0,9%;glucose 5%
+174904	esmolol infusiepoeder 2500mg	poeder voor oplossing voor infusie	iv		NEO			50		NaCl 0,9%;glucose 5%
+93351	esmolol injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+93351	esmolol injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+93351	esmolol injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+138347	esomeprazol pdr inj/infopl 40mg	poeder voor injectie/infusieoplossing	iv		ICC			5		NaCl 0,9%
+138347	esomeprazol pdr inj/infopl 40mg	poeder voor injectie/infusieoplossing	iv		ICK			5		NaCl 0,9%
+138347	esomeprazol pdr inj/infopl 40mg	poeder voor injectie/infusieoplossing	iv		NEO			5		NaCl 0,9%
+151475	ethanol injvlst 0,96ml/ml	injectievloeistof	iv		ICC			0		
+151475	ethanol injvlst 0,96ml/ml	injectievloeistof	iv		ICK			0		
+151475	ethanol injvlst 0,96ml/ml	injectievloeistof	iv		NEO			0		
+99228	etomidaat injectie-emulsie 2mg/ml	emulsie voor injectie	iv		ICC			0		
+99228	etomidaat injectie-emulsie 2mg/ml	emulsie voor injectie	iv		ICK			0		
+99228	etomidaat injectie-emulsie 2mg/ml	emulsie voor injectie	iv		NEO			0		
+11371	etomidaat injvlst 2mg/ml	injectievloeistof	iv		ICC			0		
+11371	etomidaat injvlst 2mg/ml	injectievloeistof	iv		ICK			0		
+11371	etomidaat injvlst 2mg/ml	injectievloeistof	iv		NEO			0		
+104817	fenobarbital injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+104817	fenobarbital injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+104817	fenobarbital injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+15334	fentanyl injvlst 0,05mg/ml	injectievloeistof	iv		ICC			0		
+15334	fentanyl injvlst 0,05mg/ml	injectievloeistof	iv		ICK			0		
+15334	fentanyl injvlst 0,05mg/ml	injectievloeistof	iv		NEO			0		
+582	fentolamine injvlst 10mg/ml	injectievloeistof	im		ICC			0		
+582	fentolamine injvlst 10mg/ml	injectievloeistof	im		ICK			0		
+582	fentolamine injvlst 10mg/ml	injectievloeistof	im		NEO			0		
+582	fentolamine injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+582	fentolamine injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+582	fentolamine injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+172596	fenylefrine inj/infopl conc 10mg/ml (als hcl)	concentraat voor oplossing voor injectie/infusie	iv		ICC			0		
+172596	fenylefrine inj/infopl conc 10mg/ml (als hcl)	concentraat voor oplossing voor injectie/infusie	iv		ICK			0		
+172596	fenylefrine inj/infopl conc 10mg/ml (als hcl)	concentraat voor oplossing voor injectie/infusie	iv		NEO			0		
+52590	fenytoine injvlst na-zout 50mg/ml	injectievloeistof	iv		ICC			0		
+52590	fenytoine injvlst na-zout 50mg/ml	injectievloeistof	iv		ICK			0		
+52590	fenytoine injvlst na-zout 50mg/ml	injectievloeistof	iv		NEO			0		
+131040	ferricarboxymaltose injvlst 50mgfe/ml	injectievloeistof	iv		ICC			0		
+131040	ferricarboxymaltose injvlst 50mgfe/ml	injectievloeistof	iv		ICK			0		
+131040	ferricarboxymaltose injvlst 50mgfe/ml	injectievloeistof	iv		NEO			0		
+103314	ferrioxidesaccharaat injvlst 20mgfe/ml	injectievloeistof	iv		ICC			0		
+103314	ferrioxidesaccharaat injvlst 20mgfe/ml	injectievloeistof	iv		ICK			0		
+103314	ferrioxidesaccharaat injvlst 20mgfe/ml	injectievloeistof	iv		NEO			0		
+152269	fibrinogeen pdr inj/infopl 1g	poeder voor injectie/infusieoplossing	iv		ICC			50		solvens
+152269	fibrinogeen pdr inj/infopl 1g	poeder voor injectie/infusieoplossing	iv		ICK			50		solvens
+152269	fibrinogeen pdr inj/infopl 1g	poeder voor injectie/infusieoplossing	iv		NEO			50		solvens
+83526	filgrastim injvlst 30.000.000e/ml	injectievloeistof	iv		ICC			0		
+83526	filgrastim injvlst 30.000.000e/ml	injectievloeistof	iv		ICK			0		
+83526	filgrastim injvlst 30.000.000e/ml	injectievloeistof	iv		NEO			0		
+113794	filgrastim injvlst 60.000.000e/ml	injectievloeistof	iv		ICC			0		
+113794	filgrastim injvlst 60.000.000e/ml	injectievloeistof	iv		ICK			0		
+113794	filgrastim injvlst 60.000.000e/ml	injectievloeistof	iv		NEO			0		
+113808	filgrastim injvlst 96.000.000e/ml	injectievloeistof	iv		ICC			0		
+113808	filgrastim injvlst 96.000.000e/ml	injectievloeistof	iv		ICK			0		
+113808	filgrastim injvlst 96.000.000e/ml	injectievloeistof	iv		NEO			0		
+50482	flecainide injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+50482	flecainide injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+50482	flecainide injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+147036	flucloxacilline pdr inj/infopl 2000mg	poeder voor injectie/infusieoplossing	im		ICC			4		water;lidocaine 1%
+147036	flucloxacilline pdr inj/infopl 2000mg	poeder voor injectie/infusieoplossing	im		ICK			4		water;lidocaine 1%
+147036	flucloxacilline pdr inj/infopl 2000mg	poeder voor injectie/infusieoplossing	im		NEO			4		water;lidocaine 1%
+147036	flucloxacilline pdr inj/infopl 2000mg	poeder voor injectie/infusieoplossing	iv		ICC			20		water
+147036	flucloxacilline pdr inj/infopl 2000mg	poeder voor injectie/infusieoplossing	iv		ICK			20		water
+147036	flucloxacilline pdr inj/infopl 2000mg	poeder voor injectie/infusieoplossing	iv		NEO			20		water
+15474	flucloxacilline pdr v injvlst 250mg	poeder voor injectievloeistof	im		ICC			1.5		water;lidocaine 1%
+15474	flucloxacilline pdr v injvlst 250mg	poeder voor injectievloeistof	im		ICK			1.5		water;lidocaine 1%
+15474	flucloxacilline pdr v injvlst 250mg	poeder voor injectievloeistof	im		NEO			1.5		water;lidocaine 1%
+15474	flucloxacilline pdr v injvlst 250mg	poeder voor injectievloeistof	iv		ICC			5		water
+15474	flucloxacilline pdr v injvlst 250mg	poeder voor injectievloeistof	iv		ICK			5		water
+15474	flucloxacilline pdr v injvlst 250mg	poeder voor injectievloeistof	iv		NEO			5		water
+15482	flucloxacilline pdr v injvlst 500mg	poeder voor injectievloeistof	im		ICC			2		water;lidocaine 1%
+15482	flucloxacilline pdr v injvlst 500mg	poeder voor injectievloeistof	im		ICK			2		water;lidocaine 1%
+15482	flucloxacilline pdr v injvlst 500mg	poeder voor injectievloeistof	im		NEO			2		water;lidocaine 1%
+15482	flucloxacilline pdr v injvlst 500mg	poeder voor injectievloeistof	iv		ICC			5		water
+15482	flucloxacilline pdr v injvlst 500mg	poeder voor injectievloeistof	iv		ICK			5		water
+15482	flucloxacilline pdr v injvlst 500mg	poeder voor injectievloeistof	iv		NEO			5		water
+15490	flucloxacilline pdr v injvlst 1000mg	poeder voor injectievloeistof	im		ICC			3		water
+15490	flucloxacilline pdr v injvlst 1000mg	poeder voor injectievloeistof	im		ICK			3		water
+15490	flucloxacilline pdr v injvlst 1000mg	poeder voor injectievloeistof	im		NEO			3		water
+15490	flucloxacilline pdr v injvlst 1000mg	poeder voor injectievloeistof	iv		ICC			10		water
+15490	flucloxacilline pdr v injvlst 1000mg	poeder voor injectievloeistof	iv		ICK			10		water
+15490	flucloxacilline pdr v injvlst 1000mg	poeder voor injectievloeistof	iv		NEO			10		water
+85693	fluconazol infvlst 2mg/ml	infusievloeistof	iv		ICC			0		
+85693	fluconazol infvlst 2mg/ml	infusievloeistof	iv		ICK			0		
+85693	fluconazol infvlst 2mg/ml	infusievloeistof	iv		NEO			0		
+38938	flucytosine infvlst 10mg/ml	infusievloeistof	iv		ICC			0		
+38938	flucytosine infvlst 10mg/ml	infusievloeistof	iv		ICK			0		
+38938	flucytosine infvlst 10mg/ml	infusievloeistof	iv		NEO			0		
+69760	flumazenil injvlst 0,1mg/ml	injectievloeistof	iv		ICC			0		
+69760	flumazenil injvlst 0,1mg/ml	injectievloeistof	iv		ICK			0		
+69760	flumazenil injvlst 0,1mg/ml	injectievloeistof	iv		NEO			0		
+52612	fluoresceine injvlst 100mg/ml (di-na-zout)	injectievloeistof	iv		ICC			0		
+52612	fluoresceine injvlst 100mg/ml (di-na-zout)	injectievloeistof	iv		ICK			0		
+52612	fluoresceine injvlst 100mg/ml (di-na-zout)	injectievloeistof	iv		NEO			0		
+8168	flupentixol injvlst 20mg/ml	injectievloeistof	im		ICC			0		
+8168	flupentixol injvlst 20mg/ml	injectievloeistof	im		ICK			0		
+8168	flupentixol injvlst 20mg/ml	injectievloeistof	im		NEO			0		
+102695	folinezuur injvlst 10mg/ml	injectievloeistof	im		ICC			0		
+102695	folinezuur injvlst 10mg/ml	injectievloeistof	im		ICK			0		
+102695	folinezuur injvlst 10mg/ml	injectievloeistof	im		NEO			0		
+102695	folinezuur injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+102695	folinezuur injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+102695	folinezuur injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+129321	fondaparinux injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+129321	fondaparinux injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+129321	fondaparinux injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+134902	fosaprepitant infusiepoeder 150mg	poeder voor oplossing voor infusie	iv		ICC			5		NaCl 0,9%
+134902	fosaprepitant infusiepoeder 150mg	poeder voor oplossing voor infusie	iv		ICK			5		NaCl 0,9%
+134902	fosaprepitant infusiepoeder 150mg	poeder voor oplossing voor infusie	iv		NEO			5		NaCl 0,9%
+75760	foscarnet infvlst 24mg/ml	infusievloeistof	iv		ICC			0		
+75760	foscarnet infvlst 24mg/ml	infusievloeistof	iv		ICK			0		
+75760	foscarnet infvlst 24mg/ml	infusievloeistof	iv		NEO			0		
+159506	fosfomycine infusiepoeder 4g	poeder voor oplossing voor infusie	iv		ICC			20		water
+159506	fosfomycine infusiepoeder 4g	poeder voor oplossing voor infusie	iv		ICK			20		water
+159506	fosfomycine infusiepoeder 4g	poeder voor oplossing voor infusie	iv		NEO			20		water
+16802	furosemide infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+16802	furosemide infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+16802	furosemide infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+6262	furosemide injectievlst 10mg/ml	injectievloeistof	im		ICC			0		
+6262	furosemide injectievlst 10mg/ml	injectievloeistof	im		ICK			0		
+6262	furosemide injectievlst 10mg/ml	injectievloeistof	im		NEO			0		
+6262	furosemide injectievlst 10mg/ml	injectievloeistof	iv		ICC			0		
+6262	furosemide injectievlst 10mg/ml	injectievloeistof	iv		ICK			0		
+6262	furosemide injectievlst 10mg/ml	injectievloeistof	iv		NEO			0		
+133965	fytomenadion injvlst 10mg/ml (par/oraal)	injectievloeistof	iv		ICC			0		
+133965	fytomenadion injvlst 10mg/ml (par/oraal)	injectievloeistof	iv		ICK			0		
+133965	fytomenadion injvlst 10mg/ml (par/oraal)	injectievloeistof	iv		NEO			0		
+133965	fytomenadion injvlst 10mg/ml (par/oraal)	injectievloeistof	im		ICC			0		
+133965	fytomenadion injvlst 10mg/ml (par/oraal)	injectievloeistof	im		ICK			0		
+133965	fytomenadion injvlst 10mg/ml (par/oraal)	injectievloeistof	im		NEO			0		
+72532	ganciclovir pdr v infvlst 500mg	poeder voor oplossing voor infusie	iv		ICC			10		water
+72532	ganciclovir pdr v infvlst 500mg	poeder voor oplossing voor infusie	iv		ICK			10		water
+72532	ganciclovir pdr v infvlst 500mg	poeder voor oplossing voor infusie	iv		NEO			10		water
+91189	gelatine, gemodificeerd infvlst 40mg/ml	infusievloeistof	iv		ICC			0		
+91189	gelatine, gemodificeerd infvlst 40mg/ml	infusievloeistof	iv		ICK			0		
+91189	gelatine, gemodificeerd infvlst 40mg/ml	infusievloeistof	iv		NEO			0		
+3689	gentamicine injvlst 10mg/ml	injectievloeistof	im		ICC			0		
+3689	gentamicine injvlst 10mg/ml	injectievloeistof	im		ICK			0		
+3689	gentamicine injvlst 10mg/ml	injectievloeistof	im		NEO			0		
+3689	gentamicine injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+3689	gentamicine injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+3689	gentamicine injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+15741	gentamicine injvlst 40mg/ml	injectievloeistof	im		ICC			0		
+15741	gentamicine injvlst 40mg/ml	injectievloeistof	im		ICK			0		
+15741	gentamicine injvlst 40mg/ml	injectievloeistof	im		NEO			0		
+15741	gentamicine injvlst 40mg/ml	injectievloeistof	iv		ICC			0		
+15741	gentamicine injvlst 40mg/ml	injectievloeistof	iv		ICK			0		
+15741	gentamicine injvlst 40mg/ml	injectievloeistof	iv		NEO			0		
+15849	glucagon pdr v injvlst 1mg	poeder voor injectievloeistof	im		ICC			1		solvens
+15849	glucagon pdr v injvlst 1mg	poeder voor injectievloeistof	im		ICK			1		solvens
+15849	glucagon pdr v injvlst 1mg	poeder voor injectievloeistof	im		NEO			1		solvens
+15849	glucagon pdr v injvlst 1mg	poeder voor injectievloeistof	iv		ICC			1		solvens
+15849	glucagon pdr v injvlst 1mg	poeder voor injectievloeistof	iv		ICK			1		solvens
+15849	glucagon pdr v injvlst 1mg	poeder voor injectievloeistof	iv		NEO			1		solvens
+61905	glucose infvlst 50mg/ml	infusievloeistof	iv		ICC			0		
+61905	glucose infvlst 50mg/ml	infusievloeistof	iv		ICK			0		
+61905	glucose infvlst 50mg/ml	infusievloeistof	iv		NEO			0		
+61913	glucose infvlst 100mg/ml	infusievloeistof	iv		ICC			0		
+61913	glucose infvlst 100mg/ml	infusievloeistof	iv		ICK			0		
+61913	glucose infvlst 100mg/ml	infusievloeistof	iv		NEO			0		
+159298	glucose infvlst 150mg/ml	infusievloeistof	iv		ICC			0		
+159298	glucose infvlst 150mg/ml	infusievloeistof	iv		ICK			0		
+159298	glucose infvlst 150mg/ml	infusievloeistof	iv		NEO			0		
+76783	glucose infvlst 200mg/ml	infusievloeistof	iv		ICC			0		
+76783	glucose infvlst 200mg/ml	infusievloeistof	iv		ICK			0		
+76783	glucose infvlst 200mg/ml	infusievloeistof	iv		NEO			0		
+62014	glucose infvlst 500mg/ml	infusievloeistof	iv		ICC			0		
+62014	glucose infvlst 500mg/ml	infusievloeistof	iv		ICK			0		
+62014	glucose infvlst 500mg/ml	infusievloeistof	iv		NEO			0		
+61921	glucose/nacl infvlst 25/4,5mg/ml	infusievloeistof	iv		ICC			0		
+61921	glucose/nacl infvlst 25/4,5mg/ml	infusievloeistof	iv		ICK			0		
+61921	glucose/nacl infvlst 25/4,5mg/ml	infusievloeistof	iv		NEO			0		
+179930	glucose/nacl infvlst 50/9mg/ml	infusievloeistof	iv		ICC			0		
+179930	glucose/nacl infvlst 50/9mg/ml	infusievloeistof	iv		ICK			0		
+179930	glucose/nacl infvlst 50/9mg/ml	infusievloeistof	iv		NEO			0		
+92800	glycerofosforzuur infopl conc 1mmol/ml (fosfaat)	concentraat voor oplossing voor infusie	iv		ICC			0		
+92800	glycerofosforzuur infopl conc 1mmol/ml (fosfaat)	concentraat voor oplossing voor infusie	iv		ICK			0		
+92800	glycerofosforzuur infopl conc 1mmol/ml (fosfaat)	concentraat voor oplossing voor infusie	iv		NEO			0		
+71609	glycopyrronium injvlst 0,2mg/ml	injectievloeistof	iv		ICC			0		
+71609	glycopyrronium injvlst 0,2mg/ml	injectievloeistof	iv		ICK			0		
+71609	glycopyrronium injvlst 0,2mg/ml	injectievloeistof	iv		NEO			0		
+112968	granisetron infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+112968	granisetron infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+112968	granisetron infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+40150	haloperidol (depot) injvlst 50mg/ml decanoaat	injectievloeistof	im		ICC			0		
+40150	haloperidol (depot) injvlst 50mg/ml decanoaat	injectievloeistof	im		ICK			0		
+40150	haloperidol (depot) injvlst 50mg/ml decanoaat	injectievloeistof	im		NEO			0		
+43370	haloperidol (depot) injvlst 100mg/ml decanoaat	injectievloeistof	im		ICC			0		
+43370	haloperidol (depot) injvlst 100mg/ml decanoaat	injectievloeistof	im		ICK			0		
+43370	haloperidol (depot) injvlst 100mg/ml decanoaat	injectievloeistof	im		NEO			0		
+3921	haloperidol injvlst 5mg/ml	injectievloeistof	im		ICC			0		
+3921	haloperidol injvlst 5mg/ml	injectievloeistof	im		ICK			0		
+3921	haloperidol injvlst 5mg/ml	injectievloeistof	im		NEO			0		
+3921	haloperidol injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+3921	haloperidol injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+3921	haloperidol injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+148806	heparine infvlst 500ie/ml	infusievloeistof	iv		ICC			0		
+148806	heparine infvlst 500ie/ml	infusievloeistof	iv		ICK			0		
+148806	heparine infvlst 500ie/ml	infusievloeistof	iv		NEO			0		
+89672	heparine injvlst 100ie/ml	injectievloeistof	iv		ICC			0		
+89672	heparine injvlst 100ie/ml	injectievloeistof	iv		ICK			0		
+89672	heparine injvlst 100ie/ml	injectievloeistof	iv		NEO			0		
+166464	heparine injvlst 200ie/ml	injectievloeistof	iv		ICC			0		
+166464	heparine injvlst 200ie/ml	injectievloeistof	iv		ICK			0		
+166464	heparine injvlst 200ie/ml	injectievloeistof	iv		NEO			0		
+148792	heparine injvlst 1000ie/ml	injectievloeistof	iv		ICC			0		
+148792	heparine injvlst 1000ie/ml	injectievloeistof	iv		ICK			0		
+148792	heparine injvlst 1000ie/ml	injectievloeistof	iv		NEO			0		
+16101	heparine injvlst 5.000ie/ml	injectievloeistof	iv		ICC			0		
+16101	heparine injvlst 5.000ie/ml	injectievloeistof	iv		ICK			0		
+16101	heparine injvlst 5.000ie/ml	injectievloeistof	iv		NEO			0		
+177776	hepatitis-b-immunoglobuline injv 180ie/ml	injectievloeistof	im		ICC			0		
+177776	hepatitis-b-immunoglobuline injv 180ie/ml	injectievloeistof	im		ICK			0		
+177776	hepatitis-b-immunoglobuline injv 180ie/ml	injectievloeistof	im		NEO			0		
+112690	hepatitis-b-vaccin injsusp 20ug/ml gsk al-adj	suspensie voor injectie	im		ICC			0		
+112690	hepatitis-b-vaccin injsusp 20ug/ml gsk al-adj	suspensie voor injectie	im		ICK			0		
+112690	hepatitis-b-vaccin injsusp 20ug/ml gsk al-adj	suspensie voor injectie	im		NEO			0		
+127590	hepatitis-b-vaccin injsusp 40ug/ml as04c-adj	suspensie voor injectie	im		ICC			0		
+127590	hepatitis-b-vaccin injsusp 40ug/ml as04c-adj	suspensie voor injectie	im		ICK			0		
+127590	hepatitis-b-vaccin injsusp 40ug/ml as04c-adj	suspensie voor injectie	im		NEO			0		
+127582	hepatitis-b-vaccin injsusp 40ug/ml spmsd	suspensie voor injectie	im		ICC			0		
+127582	hepatitis-b-vaccin injsusp 40ug/ml spmsd	suspensie voor injectie	im		ICK			0		
+127582	hepatitis-b-vaccin injsusp 40ug/ml spmsd	suspensie voor injectie	im		NEO			0		
+1112	hydrocortison pdr v injvlst 100mg	poeder voor injectievloeistof	im		ICC			2		water
+1112	hydrocortison pdr v injvlst 100mg	poeder voor injectievloeistof	im		ICK			2		water
+1112	hydrocortison pdr v injvlst 100mg	poeder voor injectievloeistof	im		NEO			2		water
+1112	hydrocortison pdr v injvlst 100mg	poeder voor injectievloeistof	iv		ICC			2		water
+1112	hydrocortison pdr v injvlst 100mg	poeder voor injectievloeistof	iv		ICK			2		water
+1112	hydrocortison pdr v injvlst 100mg	poeder voor injectievloeistof	iv		NEO			2		water
+139688	hydroxocobalamine infusiepoeder 5g	poeder voor oplossing voor infusie	iv		ICC			200		NaCl 0,9%
+139688	hydroxocobalamine infusiepoeder 5g	poeder voor oplossing voor infusie	iv		ICK			200		NaCl 0,9%
+139688	hydroxocobalamine infusiepoeder 5g	poeder voor oplossing voor infusie	iv		NEO			200		NaCl 0,9%
+49441	hydroxocobalamine injvlst 500ug/ml (hcl)	injectievloeistof	im		ICC			0		
+49441	hydroxocobalamine injvlst 500ug/ml (hcl)	injectievloeistof	im		ICK			0		
+49441	hydroxocobalamine injvlst 500ug/ml (hcl)	injectievloeistof	im		NEO			0		
+94005	hydroxyethylzetmeel infvlst 60mg/ml	infusievloeistof	iv		ICC			0		
+94005	hydroxyethylzetmeel infvlst 60mg/ml	infusievloeistof	iv		ICK			0		
+94005	hydroxyethylzetmeel infvlst 60mg/ml	infusievloeistof	iv		NEO			0		
+125679	ibuprofen injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+125679	ibuprofen injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+125679	ibuprofen injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+160245	idarucizumab inj/infopl 50mg/ml	injectie/infusieoplossing	iv		ICC			0		
+160245	idarucizumab inj/infopl 50mg/ml	injectie/infusieoplossing	iv		ICK			0		
+160245	idarucizumab inj/infopl 50mg/ml	injectie/infusieoplossing	iv		NEO			0		
+162884	iloprost infopl conc 0,1mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+162884	iloprost infopl conc 0,1mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+162884	iloprost infopl conc 0,1mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+55115	imipenem/cilastatine infusiepoeder 500/500mg	poeder voor oplossing voor infusie	iv		ICC			20		NaCl 0,9%
+55115	imipenem/cilastatine infusiepoeder 500/500mg	poeder voor oplossing voor infusie	iv		ICK			20		NaCl 0,9%
+55115	imipenem/cilastatine infusiepoeder 500/500mg	poeder voor oplossing voor infusie	iv		NEO			20		NaCl 0,9%
+79251	immunoglobuline normaal infusiepoeder 5g	poeder voor oplossing voor infusie	iv		ICC			100		solvens
+79251	immunoglobuline normaal infusiepoeder 5g	poeder voor oplossing voor infusie	iv		ICK			100		solvens
+79251	immunoglobuline normaal infusiepoeder 5g	poeder voor oplossing voor infusie	iv		NEO			100		solvens
+79278	immunoglobuline normaal infusiepoeder 10g	poeder voor oplossing voor infusie	iv		ICC			200		solvens
+79278	immunoglobuline normaal infusiepoeder 10g	poeder voor oplossing voor infusie	iv		ICK			200		solvens
+79278	immunoglobuline normaal infusiepoeder 10g	poeder voor oplossing voor infusie	iv		NEO			200		solvens
+102024	immunoglobuline normaal infvlst 50mg/ml	infusievloeistof	iv		ICC			0		
+102024	immunoglobuline normaal infvlst 50mg/ml	infusievloeistof	iv		ICK			0		
+102024	immunoglobuline normaal infvlst 50mg/ml	infusievloeistof	iv		NEO			0		
+125008	immunoglobuline normaal infvlst 100mg/ml	infusievloeistof	iv		ICC			0		
+125008	immunoglobuline normaal infvlst 100mg/ml	infusievloeistof	iv		ICK			0		
+125008	immunoglobuline normaal infvlst 100mg/ml	infusievloeistof	iv		NEO			0		
+124672	immunoglobuline normaal injv 165mg/ml	injectievloeistof	im		ICC			0		
+124672	immunoglobuline normaal injv 165mg/ml	injectievloeistof	im		ICK			0		
+124672	immunoglobuline normaal injv 165mg/ml	injectievloeistof	im		NEO			0		
+102393	indocyaninegroen injectiepoeder 25mg	poeder voor injectievloeistof	iv		ICC			5		water
+102393	indocyaninegroen injectiepoeder 25mg	poeder voor injectievloeistof	iv		ICK			5		water
+102393	indocyaninegroen injectiepoeder 25mg	poeder voor injectievloeistof	iv		NEO			5		water
+123633	indocyaninegroen injectiepoeder 50mg	poeder voor injectievloeistof	iv		ICC			10		water
+123633	indocyaninegroen injectiepoeder 50mg	poeder voor injectievloeistof	iv		ICK			10		water
+123633	indocyaninegroen injectiepoeder 50mg	poeder voor injectievloeistof	iv		NEO			10		water
+108391	infliximab infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICC			10		water
+108391	infliximab infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICK			10		water
+108391	infliximab infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		NEO			10		water
+108251	insuline aspart injvlst 100e/ml	injectievloeistof	iv		ICC			0		
+108251	insuline aspart injvlst 100e/ml	injectievloeistof	iv		ICK			0		
+108251	insuline aspart injvlst 100e/ml	injectievloeistof	iv		NEO			0		
+115738	insuline lispro 100e/ml injvlst	injectievloeistof	iv		ICC			0		
+115738	insuline lispro 100e/ml injvlst	injectievloeistof	iv		ICK			0		
+115738	insuline lispro 100e/ml injvlst	injectievloeistof	iv		NEO			0		
+182605	isatuximab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+182605	isatuximab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+182605	isatuximab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+164283	isavuconazol infusiepoeder 200mg	poeder voor oplossing voor infusie	iv		ICC			5		water
+164283	isavuconazol infusiepoeder 200mg	poeder voor oplossing voor infusie	iv		ICK			5		water
+164283	isavuconazol infusiepoeder 200mg	poeder voor oplossing voor infusie	iv		NEO			5		water
+121606	isoniazide injvlst 100mg/ml	injectievloeistof	im		ICC			0		
+121606	isoniazide injvlst 100mg/ml	injectievloeistof	im		ICK			0		
+121606	isoniazide injvlst 100mg/ml	injectievloeistof	im		NEO			0		
+121606	isoniazide injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+121606	isoniazide injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+121606	isoniazide injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+141666	isoprenaline infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+141666	isoprenaline infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+141666	isoprenaline infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+48232	kaliumchloride infconc 74,6mg/ml (1mmol/ml)	concentraat voor oplossing voor infusie	iv		ICC			0		
+48232	kaliumchloride infconc 74,6mg/ml (1mmol/ml)	concentraat voor oplossing voor infusie	iv		ICK			0		
+48232	kaliumchloride infconc 74,6mg/ml (1mmol/ml)	concentraat voor oplossing voor infusie	iv		NEO			0		
+158739	kaliumchloride infvlst 75mg/ml (1mmol/ml)	infusievloeistof	iv		ICC			0		
+158739	kaliumchloride infvlst 75mg/ml (1mmol/ml)	infusievloeistof	iv		ICK			0		
+158739	kaliumchloride infvlst 75mg/ml (1mmol/ml)	infusievloeistof	iv		NEO			0		
+36684	labetalol injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+36684	labetalol injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+36684	labetalol injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+125482	levetiracetam infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+125482	levetiracetam infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+125482	levetiracetam infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+54933	levocarnitine injvlst 200mg/ml	injectievloeistof	iv		ICC			0		
+54933	levocarnitine injvlst 200mg/ml	injectievloeistof	iv		ICK			0		
+54933	levocarnitine injvlst 200mg/ml	injectievloeistof	iv		NEO			0		
+136344	levofloxacine infvlst 5mg/ml	infusievloeistof	iv		ICC			0		
+136344	levofloxacine infvlst 5mg/ml	infusievloeistof	iv		ICK			0		
+136344	levofloxacine infvlst 5mg/ml	infusievloeistof	iv		NEO			0		
+7994	levomepromazine injvlst 25mg/ml	injectievloeistof	im		ICC			0		
+7994	levomepromazine injvlst 25mg/ml	injectievloeistof	im		ICK			0		
+7994	levomepromazine injvlst 25mg/ml	injectievloeistof	im		NEO			0		
+7994	levomepromazine injvlst 25mg/ml	injectievloeistof	iv		ICC			0		
+7994	levomepromazine injvlst 25mg/ml	injectievloeistof	iv		ICK			0		
+7994	levomepromazine injvlst 25mg/ml	injectievloeistof	iv		NEO			0		
+154512	levothyroxine injvlst 0,1mg/ml	injectievloeistof	iv		ICC			0		
+154512	levothyroxine injvlst 0,1mg/ml	injectievloeistof	iv		ICK			0		
+154512	levothyroxine injvlst 0,1mg/ml	injectievloeistof	iv		NEO			0		
+126195	lidocaine infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+126195	lidocaine infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+126195	lidocaine infopl conc 100mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+22411	lidocaine injvl 10mg/ml (hcl)	injectievloeistof	im		ICC			0		
+22411	lidocaine injvl 10mg/ml (hcl)	injectievloeistof	im		ICK			0		
+22411	lidocaine injvl 10mg/ml (hcl)	injectievloeistof	im		NEO			0		
+22411	lidocaine injvl 10mg/ml (hcl)	injectievloeistof	iv		ICC			0		
+22411	lidocaine injvl 10mg/ml (hcl)	injectievloeistof	iv		ICK			0		
+22411	lidocaine injvl 10mg/ml (hcl)	injectievloeistof	iv		NEO			0		
+22438	lidocaine injvl 20mg/ml (hcl)	injectievloeistof	im		ICC			0		
+22438	lidocaine injvl 20mg/ml (hcl)	injectievloeistof	im		ICK			0		
+22438	lidocaine injvl 20mg/ml (hcl)	injectievloeistof	im		NEO			0		
+22438	lidocaine injvl 20mg/ml (hcl)	injectievloeistof	iv		ICC			0		
+22438	lidocaine injvl 20mg/ml (hcl)	injectievloeistof	iv		ICK			0		
+22438	lidocaine injvl 20mg/ml (hcl)	injectievloeistof	iv		NEO			0		
+63819	lidocaine injvl 20mg/ml (hcl-1w)	injectievloeistof	im		ICC			0		
+63819	lidocaine injvl 20mg/ml (hcl-1w)	injectievloeistof	im		ICK			0		
+63819	lidocaine injvl 20mg/ml (hcl-1w)	injectievloeistof	im		NEO			0		
+63819	lidocaine injvl 20mg/ml (hcl-1w)	injectievloeistof	iv		ICC			0		
+63819	lidocaine injvl 20mg/ml (hcl-1w)	injectievloeistof	iv		ICK			0		
+63819	lidocaine injvl 20mg/ml (hcl-1w)	injectievloeistof	iv		NEO			0		
+114758	linezolid infvlst 2mg/ml	infusievloeistof	iv		ICC			0		
+114758	linezolid infvlst 2mg/ml	infusievloeistof	iv		ICK			0		
+114758	linezolid infvlst 2mg/ml	infusievloeistof	iv		NEO			0		
+146404	liothyronine injvlst 25ug/ml	injectievloeistof	iv		ICC			0		
+146404	liothyronine injvlst 25ug/ml	injectievloeistof	iv		ICK			0		
+146404	liothyronine injvlst 25ug/ml	injectievloeistof	iv		NEO			0		
+164895	lipidemicrosferen met perflutren injectie/infusie	gas en oplosmiddel voor dispersie injectie/infusie	iv		ICC			0		
+164895	lipidemicrosferen met perflutren injectie/infusie	gas en oplosmiddel voor dispersie injectie/infusie	iv		ICK			0		
+164895	lipidemicrosferen met perflutren injectie/infusie	gas en oplosmiddel voor dispersie injectie/infusie	iv		NEO			0		
+73377	lorazepam injvlst 4mg/ml	injectievloeistof	im		ICC			0		
+73377	lorazepam injvlst 4mg/ml	injectievloeistof	im		ICK			0		
+73377	lorazepam injvlst 4mg/ml	injectievloeistof	im		NEO			0		
+73377	lorazepam injvlst 4mg/ml	injectievloeistof	iv		ICC			0		
+73377	lorazepam injvlst 4mg/ml	injectievloeistof	iv		ICK			0		
+73377	lorazepam injvlst 4mg/ml	injectievloeistof	iv		NEO			0		
+178993	magnesiumchloride inf conc 101,6mg/ml (0,5mmol/ml)	concentraat voor oplossing voor infusie	iv		ICC			0		
+178993	magnesiumchloride inf conc 101,6mg/ml (0,5mmol/ml)	concentraat voor oplossing voor infusie	iv		ICK			0		
+178993	magnesiumchloride inf conc 101,6mg/ml (0,5mmol/ml)	concentraat voor oplossing voor infusie	iv		NEO			0		
+160423	magnesiumchloride inj conc 101,6mg/ml(0,5mmol/ml)	concentraat voor oplossing voor injectie	iv		ICC			0		
+160423	magnesiumchloride inj conc 101,6mg/ml(0,5mmol/ml)	concentraat voor oplossing voor injectie	iv		ICK			0		
+160423	magnesiumchloride inj conc 101,6mg/ml(0,5mmol/ml)	concentraat voor oplossing voor injectie	iv		NEO			0		
+28711	magnesiumsulfaat injvlst 100mg/ml	injectievloeistof	im		ICC			0		
+28711	magnesiumsulfaat injvlst 100mg/ml	injectievloeistof	im		ICK			0		
+28711	magnesiumsulfaat injvlst 100mg/ml	injectievloeistof	im		NEO			0		
+28711	magnesiumsulfaat injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+28711	magnesiumsulfaat injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+28711	magnesiumsulfaat injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+121568	magnesiumsulfaat injvlst 200mg/ml	injectievloeistof	iv		ICC			0		
+121568	magnesiumsulfaat injvlst 200mg/ml	injectievloeistof	iv		ICK			0		
+121568	magnesiumsulfaat injvlst 200mg/ml	injectievloeistof	iv		NEO			0		
+56634	mannitol infvlst 100mg/ml	infusievloeistof	iv		ICC			0		
+56634	mannitol infvlst 100mg/ml	infusievloeistof	iv		ICK			0		
+56634	mannitol infvlst 100mg/ml	infusievloeistof	iv		NEO			0		
+134619	mannitol infvlst 150mg/ml	infusievloeistof	iv		ICC			0		
+134619	mannitol infvlst 150mg/ml	infusievloeistof	iv		ICK			0		
+134619	mannitol infvlst 150mg/ml	infusievloeistof	iv		NEO			0		
+100838	macrogol/natriumchloride/natriumwaterstofcarbonaat/kaliumchloride	poeder voor drank	or		ICK			50		water
+100838	macrogol/natriumchloride/natriumwaterstofcarbonaat/kaliumchloride	poeder voor drank	or		ICC			50		water
+139696	meningokokkenvaccin acwy injpdr (nimenrix)	poeder voor injectievloeistof	im		ICC			0.5		solvens
+139696	meningokokkenvaccin acwy injpdr (nimenrix)	poeder voor injectievloeistof	im		ICK			0.5		solvens
+139696	meningokokkenvaccin acwy injpdr (nimenrix)	poeder voor injectievloeistof	im		NEO			0.5		solvens
+175528	meningokokkenvaccin b injsusp (bexsero)	suspensie voor injectie	im		ICC			0		
+175528	meningokokkenvaccin b injsusp (bexsero)	suspensie voor injectie	im		ICK			0		
+175528	meningokokkenvaccin b injsusp (bexsero)	suspensie voor injectie	im		NEO			0		
+113840	meningokokkenvaccin c injsusp (neisvac-c)	suspensie voor injectie	im		ICC			0		
+113840	meningokokkenvaccin c injsusp (neisvac-c)	suspensie voor injectie	im		ICK			0		
+113840	meningokokkenvaccin c injsusp (neisvac-c)	suspensie voor injectie	im		NEO			0		
+104698	menopauzegonadotrofine injectiepoeder 75ie	poeder voor injectievloeistof	im		ICC			1		solvens
+104698	menopauzegonadotrofine injectiepoeder 75ie	poeder voor injectievloeistof	im		ICK			1		solvens
+104698	menopauzegonadotrofine injectiepoeder 75ie	poeder voor injectievloeistof	im		NEO			1		solvens
+75019	menopauzegonadotrofine injectiepoeder 150ie	poeder voor injectievloeistof	im		ICC			1		solvens
+75019	menopauzegonadotrofine injectiepoeder 150ie	poeder voor injectievloeistof	im		ICK			1		solvens
+75019	menopauzegonadotrofine injectiepoeder 150ie	poeder voor injectievloeistof	im		NEO			1		solvens
+38598	mercapto-ethaansulfonzuur (mesna) injvls 100mg/ml	injectievloeistof	iv		ICC			0		
+38598	mercapto-ethaansulfonzuur (mesna) injvls 100mg/ml	injectievloeistof	iv		ICK			0		
+38598	mercapto-ethaansulfonzuur (mesna) injvls 100mg/ml	injectievloeistof	iv		NEO			0		
+134627	meropenem pdr inj/infopl 500mg	poeder voor injectie/infusieoplossing	iv		ICC			10		water
+134627	meropenem pdr inj/infopl 500mg	poeder voor injectie/infusieoplossing	iv		ICK			10		water
+134627	meropenem pdr inj/infopl 500mg	poeder voor injectie/infusieoplossing	iv		NEO			10		water
+134635	meropenem pdr inj/infopl 1000mg	poeder voor injectie/infusieoplossing	iv		ICC			20		water
+134635	meropenem pdr inj/infopl 1000mg	poeder voor injectie/infusieoplossing	iv		ICK			20		water
+134635	meropenem pdr inj/infopl 1000mg	poeder voor injectie/infusieoplossing	iv		NEO			20		water
+104868	metamizol injvlst 500mg/ml	injectievloeistof	iv		ICC			0		
+104868	metamizol injvlst 500mg/ml	injectievloeistof	iv		ICK			0		
+104868	metamizol injvlst 500mg/ml	injectievloeistof	iv		NEO			0		
+104868	metamizol injvlst 500mg/ml	injectievloeistof	im		ICC			0		
+104868	metamizol injvlst 500mg/ml	injectievloeistof	im		ICK			0		
+104868	metamizol injvlst 500mg/ml	injectievloeistof	im		NEO			0		
+1368	methadon injvlst 10mg/ml	injectievloeistof	im		ICC			0		
+1368	methadon injvlst 10mg/ml	injectievloeistof	im		ICK			0		
+1368	methadon injvlst 10mg/ml	injectievloeistof	im		NEO			0		
+1368	methadon injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+1368	methadon injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+1368	methadon injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+6769	methylergometrine injvlst 0,2mg/ml	injectievloeistof	im		ICC			0		
+6769	methylergometrine injvlst 0,2mg/ml	injectievloeistof	im		ICK			0		
+6769	methylergometrine injvlst 0,2mg/ml	injectievloeistof	im		NEO			0		
+6769	methylergometrine injvlst 0,2mg/ml	injectievloeistof	iv		ICC			0		
+6769	methylergometrine injvlst 0,2mg/ml	injectievloeistof	iv		ICK			0		
+6769	methylergometrine injvlst 0,2mg/ml	injectievloeistof	iv		NEO			0		
+70777	methylprednisolon infusiepoeder 125mg	poeder voor oplossing voor infusie	im		ICC			2		solvens
+70777	methylprednisolon infusiepoeder 125mg	poeder voor oplossing voor infusie	im		ICK			2		solvens
+70777	methylprednisolon infusiepoeder 125mg	poeder voor oplossing voor infusie	im		NEO			2		solvens
+70777	methylprednisolon infusiepoeder 125mg	poeder voor oplossing voor infusie	iv		ICC			2		solvens
+70777	methylprednisolon infusiepoeder 125mg	poeder voor oplossing voor infusie	iv		ICK			2		solvens
+70777	methylprednisolon infusiepoeder 125mg	poeder voor oplossing voor infusie	iv		NEO			2		solvens
+70785	methylprednisolon infusiepoeder 500mg	poeder voor oplossing voor infusie	iv		ICC			7.8		solvens
+70785	methylprednisolon infusiepoeder 500mg	poeder voor oplossing voor infusie	iv		ICK			7.8		solvens
+70785	methylprednisolon infusiepoeder 500mg	poeder voor oplossing voor infusie	iv		NEO			7.8		solvens
+70793	methylprednisolon infusiepoeder 1000mg	poeder voor oplossing voor infusie	iv		ICC			15.6		solvens
+70793	methylprednisolon infusiepoeder 1000mg	poeder voor oplossing voor infusie	iv		ICK			15.6		solvens
+70793	methylprednisolon infusiepoeder 1000mg	poeder voor oplossing voor infusie	iv		NEO			15.6		solvens
+8567	methylprednisolon injvlst 40mg/ml (acetaat)	injectievloeistof	im		ICC			0		
+8567	methylprednisolon injvlst 40mg/ml (acetaat)	injectievloeistof	im		ICK			0		
+8567	methylprednisolon injvlst 40mg/ml (acetaat)	injectievloeistof	im		NEO			0		
+71706	metoclopramide injvlst 5mg/ml (hcl)	injectievloeistof	im		ICC			0		
+71706	metoclopramide injvlst 5mg/ml (hcl)	injectievloeistof	im		ICK			0		
+71706	metoclopramide injvlst 5mg/ml (hcl)	injectievloeistof	im		NEO			0		
+71706	metoclopramide injvlst 5mg/ml (hcl)	injectievloeistof	iv		ICC			0		
+71706	metoclopramide injvlst 5mg/ml (hcl)	injectievloeistof	iv		ICK			0		
+71706	metoclopramide injvlst 5mg/ml (hcl)	injectievloeistof	iv		NEO			0		
+38067	metoprolol injvlst 1mg/ml	injectievloeistof	iv		ICC			0		
+38067	metoprolol injvlst 1mg/ml	injectievloeistof	iv		ICK			0		
+38067	metoprolol injvlst 1mg/ml	injectievloeistof	iv		NEO			0		
+3492	metronidazol infvlst 5mg/ml	infusievloeistof	iv		ICC			0		
+3492	metronidazol infvlst 5mg/ml	infusievloeistof	iv		ICK			0		
+3492	metronidazol infvlst 5mg/ml	infusievloeistof	iv		NEO			0		
+132683	micafungine infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICC			5		NaCl 0,9%;glucose 5%
+132683	micafungine infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICK			5		NaCl 0,9%;glucose 5%
+132683	micafungine infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		NEO			5		NaCl 0,9%;glucose 5%
+132691	micafungine infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICC			5		NaCl 0,9%;glucose 5%
+132691	micafungine infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICK			5		NaCl 0,9%;glucose 5%
+132691	micafungine infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		NEO			5		NaCl 0,9%;glucose 5%
+164445	midazolam infvlst 1mg/ml	infusievloeistof	iv		ICC			0		
+164445	midazolam infvlst 1mg/ml	infusievloeistof	iv		ICK			0		
+164445	midazolam infvlst 1mg/ml	infusievloeistof	iv		NEO			0		
+164445	midazolam infvlst 1mg/ml	infusievloeistof	im		ICC			0		
+164445	midazolam infvlst 1mg/ml	infusievloeistof	im		ICK			0		
+164445	midazolam infvlst 1mg/ml	infusievloeistof	im		NEO			0		
+133779	midazolam injvlst 5mg/ml	injectievloeistof	im		ICC			0		
+133779	midazolam injvlst 5mg/ml	injectievloeistof	im		ICK			0		
+133779	midazolam injvlst 5mg/ml	injectievloeistof	im		NEO			0		
+133779	midazolam injvlst 5mg/ml	injectievloeistof	iv		ICC			0		
+133779	midazolam injvlst 5mg/ml	injectievloeistof	iv		ICK			0		
+133779	midazolam injvlst 5mg/ml	injectievloeistof	iv		NEO			0		
+77348	milrinon injvlst 1mg/ml	injectievloeistof	iv		ICC			0		
+77348	milrinon injvlst 1mg/ml	injectievloeistof	iv		ICK			0		
+77348	milrinon injvlst 1mg/ml	injectievloeistof	iv		NEO			0		
+140376	morfine infvlst 1mg/ml	infusievloeistof	iv		ICC			0		
+140376	morfine infvlst 1mg/ml	infusievloeistof	iv		ICK			0		
+140376	morfine infvlst 1mg/ml	infusievloeistof	iv		NEO			0		
+140376	morfine infvlst 1mg/ml	infusievloeistof	im		ICC			0		
+140376	morfine infvlst 1mg/ml	infusievloeistof	im		ICK			0		
+140376	morfine infvlst 1mg/ml	infusievloeistof	im		NEO			0		
+28746	morfine injvlst 10mg/ml	injectievloeistof	im		ICC			0		
+28746	morfine injvlst 10mg/ml	injectievloeistof	im		ICK			0		
+28746	morfine injvlst 10mg/ml	injectievloeistof	im		NEO			0		
+28746	morfine injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+28746	morfine injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+28746	morfine injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+148881	morfine injvlst 1mg/ml	injectievloeistof	iv		ICC			0		
+148881	morfine injvlst 1mg/ml	injectievloeistof	iv		ICK			0		
+148881	morfine injvlst 1mg/ml	injectievloeistof	iv		NEO			0		
+148881	morfine injvlst 1mg/ml	injectievloeistof	im		ICC			0		
+148881	morfine injvlst 1mg/ml	injectievloeistof	im		ICK			0		
+148881	morfine injvlst 1mg/ml	injectievloeistof	im		NEO			0		
+116440	moxifloxacine infvlst 1,6mg/ml	infusievloeistof	iv		ICC			0		
+116440	moxifloxacine infvlst 1,6mg/ml	infusievloeistof	iv		ICK			0		
+116440	moxifloxacine infvlst 1,6mg/ml	infusievloeistof	iv		NEO			0		
+115401	mycofenolaat mofetil infusiepoeder 500mg	poeder voor oplossing voor infusie	iv		ICC			14		glucose 5%
+115401	mycofenolaat mofetil infusiepoeder 500mg	poeder voor oplossing voor infusie	iv		ICK			14		glucose 5%
+115401	mycofenolaat mofetil infusiepoeder 500mg	poeder voor oplossing voor infusie	iv		NEO			14		glucose 5%
+55425	nalbufine injvlst 10mg/ml	injectievloeistof	im		ICC			0		
+55425	nalbufine injvlst 10mg/ml	injectievloeistof	im		ICK			0		
+55425	nalbufine injvlst 10mg/ml	injectievloeistof	im		NEO			0		
+55425	nalbufine injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+55425	nalbufine injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+55425	nalbufine injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+89559	naloxon injvlst 0,02mg/ml	injectievloeistof	iv		ICC			0		
+89559	naloxon injvlst 0,02mg/ml	injectievloeistof	iv		ICK			0		
+89559	naloxon injvlst 0,02mg/ml	injectievloeistof	iv		NEO			0		
+89516	naloxon injvlst 0,4mg/ml	injectievloeistof	im		ICC			0		
+89516	naloxon injvlst 0,4mg/ml	injectievloeistof	im		ICK			0		
+89516	naloxon injvlst 0,4mg/ml	injectievloeistof	im		NEO			0		
+89516	naloxon injvlst 0,4mg/ml	injectievloeistof	iv		ICC			0		
+89516	naloxon injvlst 0,4mg/ml	injectievloeistof	iv		ICK			0		
+89516	naloxon injvlst 0,4mg/ml	injectievloeistof	iv		NEO			0		
+125504	natalizumab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+125504	natalizumab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+125504	natalizumab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+173851	natriumchloride inf conc 292mg/ml (5mmol/ml)	concentraat voor oplossing voor infusie	iv		ICC			0		
+173851	natriumchloride inf conc 292mg/ml (5mmol/ml)	concentraat voor oplossing voor infusie	iv		ICK			0		
+173851	natriumchloride inf conc 292mg/ml (5mmol/ml)	concentraat voor oplossing voor infusie	iv		NEO			0		
+42005	natriumchloride infvlst 6,5mg/ml	infusievloeistof	iv		ICC			0		
+42005	natriumchloride infvlst 6,5mg/ml	infusievloeistof	iv		ICK			0		
+42005	natriumchloride infvlst 6,5mg/ml	infusievloeistof	iv		NEO			0		
+19100	natriumchloride infvlst 9mg/ml	infusievloeistof	iv		ICC			0		
+19100	natriumchloride infvlst 9mg/ml	infusievloeistof	iv		ICK			0		
+19100	natriumchloride infvlst 9mg/ml	infusievloeistof	iv		NEO			0		
+175439	natriumchloride infvlst 29mg/ml	infusievloeistof	iv		ICC			0		
+175439	natriumchloride infvlst 29mg/ml	infusievloeistof	iv		ICK			0		
+175439	natriumchloride infvlst 29mg/ml	infusievloeistof	iv		NEO			0		
+147419	natriumchloride infvlst 30mg/ml	infusievloeistof	iv		ICC			0		
+147419	natriumchloride infvlst 30mg/ml	infusievloeistof	iv		ICK			0		
+147419	natriumchloride infvlst 30mg/ml	infusievloeistof	iv		NEO			0		
+149381	natriumchloride infvlst 50mg/ml	infusievloeistof	iv		ICC			0		
+149381	natriumchloride infvlst 50mg/ml	infusievloeistof	iv		ICK			0		
+149381	natriumchloride infvlst 50mg/ml	infusievloeistof	iv		NEO			0		
+39144	natriumchloride injvlst 9mg/ml	injectievloeistof	iv		ICC			0		
+39144	natriumchloride injvlst 9mg/ml	injectievloeistof	iv		ICK			0		
+39144	natriumchloride injvlst 9mg/ml	injectievloeistof	iv		NEO			0		
+166898	natriumnitriet injvlst 30mg/ml	injectievloeistof	iv		ICC			0		
+166898	natriumnitriet injvlst 30mg/ml	injectievloeistof	iv		ICK			0		
+166898	natriumnitriet injvlst 30mg/ml	injectievloeistof	iv		NEO			0		
+166812	natriumperchloraat injvlst 20mg/ml	injectievloeistof	iv		ICC			0		
+166812	natriumperchloraat injvlst 20mg/ml	injectievloeistof	iv		ICK			0		
+166812	natriumperchloraat injvlst 20mg/ml	injectievloeistof	iv		NEO			0		
+51411	natriumthiosulfaat injvlst 250mg/ml	injectievloeistof	iv		ICC			0		
+51411	natriumthiosulfaat injvlst 250mg/ml	injectievloeistof	iv		ICK			0		
+51411	natriumthiosulfaat injvlst 250mg/ml	injectievloeistof	iv		NEO			0		
+39314	natriumwaterstofcarbonaat infvlst 14mg/ml	infusievloeistof	iv		ICC			0		
+39314	natriumwaterstofcarbonaat infvlst 14mg/ml	infusievloeistof	iv		ICK			0		
+39314	natriumwaterstofcarbonaat infvlst 14mg/ml	infusievloeistof	iv		NEO			0		
+39306	natriumwaterstofcarbonaat infvlst 42mg/ml	infusievloeistof	iv		ICC			0		
+39306	natriumwaterstofcarbonaat infvlst 42mg/ml	infusievloeistof	iv		ICK			0		
+39306	natriumwaterstofcarbonaat infvlst 42mg/ml	infusievloeistof	iv		NEO			0		
+39292	natriumwaterstofcarbonaat infvlst 84mg/ml	infusievloeistof	iv		ICC			0		
+39292	natriumwaterstofcarbonaat infvlst 84mg/ml	infusievloeistof	iv		ICK			0		
+39292	natriumwaterstofcarbonaat infvlst 84mg/ml	infusievloeistof	iv		NEO			0		
+426	neostigmine injvlst 0,5mg/ml	injectievloeistof	im		ICC			0		
+426	neostigmine injvlst 0,5mg/ml	injectievloeistof	im		ICK			0		
+426	neostigmine injvlst 0,5mg/ml	injectievloeistof	im		NEO			0		
+426	neostigmine injvlst 0,5mg/ml	injectievloeistof	iv		ICC			0		
+426	neostigmine injvlst 0,5mg/ml	injectievloeistof	iv		ICK			0		
+426	neostigmine injvlst 0,5mg/ml	injectievloeistof	iv		NEO			0		
+89648	nicardipine infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+89648	nicardipine infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+89648	nicardipine infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+74144	nimodipine infvlst 0,2mg/ml	infusievloeistof	iv		ICC			0		
+74144	nimodipine infvlst 0,2mg/ml	infusievloeistof	iv		ICK			0		
+74144	nimodipine infvlst 0,2mg/ml	infusievloeistof	iv		NEO			0		
+59307	nitroglycerine infvlst 1mg/ml	infusievloeistof	iv		ICC			0		
+59307	nitroglycerine infvlst 1mg/ml	infusievloeistof	iv		ICK			0		
+59307	nitroglycerine infvlst 1mg/ml	infusievloeistof	iv		NEO			0		
+141658	nitroprusside infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+141658	nitroprusside infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+141658	nitroprusside infopl conc 25mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+88749	noradrenaline infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+88749	noradrenaline infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+88749	noradrenaline infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+160083	noradrenaline infvlst 0,1mg/ml	infusievloeistof	iv		ICC			0		
+160083	noradrenaline infvlst 0,1mg/ml	infusievloeistof	iv		ICK			0		
+160083	noradrenaline infvlst 0,1mg/ml	infusievloeistof	iv		NEO			0		
+73997	octreotide injvlst 0,05mg/ml	injectievloeistof	iv		ICC			0		
+73997	octreotide injvlst 0,05mg/ml	injectievloeistof	iv		ICK			0		
+73997	octreotide injvlst 0,05mg/ml	injectievloeistof	iv		NEO			0		
+74004	octreotide injvlst 0,1mg/ml	injectievloeistof	iv		ICC			0		
+74004	octreotide injvlst 0,1mg/ml	injectievloeistof	iv		ICK			0		
+74004	octreotide injvlst 0,1mg/ml	injectievloeistof	iv		NEO			0		
+83291	octreotide injvlst 0,5mg/ml	injectievloeistof	iv		ICC			0		
+83291	octreotide injvlst 0,5mg/ml	injectievloeistof	iv		ICK			0		
+83291	octreotide injvlst 0,5mg/ml	injectievloeistof	iv		NEO			0		
+118710	olanzapine pdr v injopl 10mg	poeder voor injectievloeistof	im		ICC			2.1		water
+118710	olanzapine pdr v injopl 10mg	poeder voor injectievloeistof	im		ICK			2.1		water
+118710	olanzapine pdr v injopl 10mg	poeder voor injectievloeistof	im		NEO			2.1		water
+131539	olanzapine pdr v injsusp 300mg	poeder voor suspensie voor injectie	im		ICC			1.8		solvens
+131539	olanzapine pdr v injsusp 300mg	poeder voor suspensie voor injectie	im		ICK			1.8		solvens
+131539	olanzapine pdr v injsusp 300mg	poeder voor suspensie voor injectie	im		NEO			1.8		solvens
+82708	ondansetron injvlst 2mg/ml	injectievloeistof	iv		ICC			0		
+82708	ondansetron injvlst 2mg/ml	injectievloeistof	iv		ICK			0		
+82708	ondansetron injvlst 2mg/ml	injectievloeistof	iv		NEO			0		
+82708	ondansetron injvlst 2mg/ml	injectievloeistof	im		ICC			0		
+82708	ondansetron injvlst 2mg/ml	injectievloeistof	im		ICK			0		
+82708	ondansetron injvlst 2mg/ml	injectievloeistof	im		NEO			0		
+119970	oxycodon injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+119970	oxycodon injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+119970	oxycodon injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+135690	oxycodon injvlst 50mg/ml	injectievloeistof	iv		ICC			0		
+135690	oxycodon injvlst 50mg/ml	injectievloeistof	iv		ICK			0		
+135690	oxycodon injvlst 50mg/ml	injectievloeistof	iv		NEO			0		
+20850	oxytocine injvlst 5ie/ml	injectievloeistof	im		ICC			0		
+20850	oxytocine injvlst 5ie/ml	injectievloeistof	im		ICK			0		
+20850	oxytocine injvlst 5ie/ml	injectievloeistof	im		NEO			0		
+20850	oxytocine injvlst 5ie/ml	injectievloeistof	iv		ICC			0		
+20850	oxytocine injvlst 5ie/ml	injectievloeistof	iv		ICK			0		
+20850	oxytocine injvlst 5ie/ml	injectievloeistof	iv		NEO			0		
+104280	pantoprazol injectiepoeder 40mg	poeder voor injectievloeistof	iv		ICC			10		NaCl 0,9%
+104280	pantoprazol injectiepoeder 40mg	poeder voor injectievloeistof	iv		ICK			10		NaCl 0,9%
+104280	pantoprazol injectiepoeder 40mg	poeder voor injectievloeistof	iv		NEO			10		NaCl 0,9%
+28908	papaverine injvlst 50mg/ml	injectievloeistof	im		ICC			0		
+28908	papaverine injvlst 50mg/ml	injectievloeistof	im		ICK			0		
+28908	papaverine injvlst 50mg/ml	injectievloeistof	im		NEO			0		
+28908	papaverine injvlst 50mg/ml	injectievloeistof	iv		ICC			0		
+28908	papaverine injvlst 50mg/ml	injectievloeistof	iv		ICK			0		
+28908	papaverine injvlst 50mg/ml	injectievloeistof	iv		NEO			0		
+121967	paracetamol infvlst 10mg/ml	infusievloeistof	iv		ICC			0		
+121967	paracetamol infvlst 10mg/ml	infusievloeistof	iv		ICK			0		
+121967	paracetamol infvlst 10mg/ml	infusievloeistof	iv		NEO			0		
+115657	parecoxib injectiepoeder 40mg	poeder voor injectievloeistof	im		ICC			2		solvens
+115657	parecoxib injectiepoeder 40mg	poeder voor injectievloeistof	im		ICK			2		solvens
+115657	parecoxib injectiepoeder 40mg	poeder voor injectievloeistof	im		NEO			2		solvens
+115657	parecoxib injectiepoeder 40mg	poeder voor injectievloeistof	iv		ICC			2		solvens
+115657	parecoxib injectiepoeder 40mg	poeder voor injectievloeistof	iv		ICK			2		solvens
+115657	parecoxib injectiepoeder 40mg	poeder voor injectievloeistof	iv		NEO			2		solvens
+75450	pentamidine injectiepoeder 300mg	poeder voor injectievloeistof	im		ICC			3		water
+75450	pentamidine injectiepoeder 300mg	poeder voor injectievloeistof	im		ICK			3		water
+75450	pentamidine injectiepoeder 300mg	poeder voor injectievloeistof	im		NEO			3		water
+75450	pentamidine injectiepoeder 300mg	poeder voor injectievloeistof	iv		ICC			3		water
+75450	pentamidine injectiepoeder 300mg	poeder voor injectievloeistof	iv		ICK			3		water
+75450	pentamidine injectiepoeder 300mg	poeder voor injectievloeistof	iv		NEO			3		water
+2879	pethidine injvlst 50mg/ml	injectievloeistof	im		ICC			0		
+2879	pethidine injvlst 50mg/ml	injectievloeistof	im		ICK			0		
+2879	pethidine injvlst 50mg/ml	injectievloeistof	im		NEO			0		
+2879	pethidine injvlst 50mg/ml	injectievloeistof	iv		ICC			0		
+2879	pethidine injvlst 50mg/ml	injectievloeistof	iv		ICK			0		
+2879	pethidine injvlst 50mg/ml	injectievloeistof	iv		NEO			0		
+90123	piperacilline/tazobactam injectiepdr 2000/250mg	poeder voor injectievloeistof	iv		ICC			10		water
+90123	piperacilline/tazobactam injectiepdr 2000/250mg	poeder voor injectievloeistof	iv		ICK			10		water
+90123	piperacilline/tazobactam injectiepdr 2000/250mg	poeder voor injectievloeistof	iv		NEO			10		water
+90131	piperacilline/tazobactam injectiepdr 4000/500mg	poeder voor injectievloeistof	iv		ICC			20		water
+90131	piperacilline/tazobactam injectiepdr 4000/500mg	poeder voor injectievloeistof	iv		ICK			20		water
+90131	piperacilline/tazobactam injectiepdr 4000/500mg	poeder voor injectievloeistof	iv		NEO			20		water
+43354	piritramide injvlst 10mg/ml	injectievloeistof	im		ICC			0		
+43354	piritramide injvlst 10mg/ml	injectievloeistof	im		ICK			0		
+43354	piritramide injvlst 10mg/ml	injectievloeistof	im		NEO			0		
+43354	piritramide injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+43354	piritramide injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+43354	piritramide injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+132632	pneumokokkenvaccin 13 typen injsusp	suspensie voor injectie	im		ICC			0		
+132632	pneumokokkenvaccin 13 typen injsusp	suspensie voor injectie	im		ICK			0		
+132632	pneumokokkenvaccin 13 typen injsusp	suspensie voor injectie	im		NEO			0		
+50989	pneumokokkenvaccin 23 typen injvlst	injectievloeistof	im		ICC			0		
+50989	pneumokokkenvaccin 23 typen injvlst	injectievloeistof	im		ICK			0		
+50989	pneumokokkenvaccin 23 typen injvlst	injectievloeistof	im		NEO			0		
+153478	posaconazol infopl conc 18mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+153478	posaconazol infopl conc 18mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+153478	posaconazol infopl conc 18mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+136131	prednisolon na-succinaat inj 25mg (parenter, rect)	poeder voor injectievloeistof	im		ICC			1		water
+136131	prednisolon na-succinaat inj 25mg (parenter, rect)	poeder voor injectievloeistof	im		ICK			1		water
+136131	prednisolon na-succinaat inj 25mg (parenter, rect)	poeder voor injectievloeistof	im		NEO			1		water
+136131	prednisolon na-succinaat inj 25mg (parenter, rect)	poeder voor injectievloeistof	iv		ICC			1		water
+136131	prednisolon na-succinaat inj 25mg (parenter, rect)	poeder voor injectievloeistof	iv		ICK			1		water
+136131	prednisolon na-succinaat inj 25mg (parenter, rect)	poeder voor injectievloeistof	iv		NEO			1		water
+14494	prednisolon na-succinaat injpdr 25mg (parenteraal)	poeder voor injectievloeistof	im		ICC			1		water
+14494	prednisolon na-succinaat injpdr 25mg (parenteraal)	poeder voor injectievloeistof	im		ICK			1		water
+14494	prednisolon na-succinaat injpdr 25mg (parenteraal)	poeder voor injectievloeistof	im		NEO			1		water
+14494	prednisolon na-succinaat injpdr 25mg (parenteraal)	poeder voor injectievloeistof	iv		ICC			1		water
+14494	prednisolon na-succinaat injpdr 25mg (parenteraal)	poeder voor injectievloeistof	iv		ICK			1		water
+14494	prednisolon na-succinaat injpdr 25mg (parenteraal)	poeder voor injectievloeistof	iv		NEO			1		water
+146447	procainamide injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+146447	procainamide injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+146447	procainamide injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+146447	procainamide injvlst 100mg/ml	injectievloeistof	im		ICC			0		
+146447	procainamide injvlst 100mg/ml	injectievloeistof	im		ICK			0		
+146447	procainamide injvlst 100mg/ml	injectievloeistof	im		NEO			0		
+8044	promethazine injvlst 25mg/ml	injectievloeistof	im		ICC			0		
+8044	promethazine injvlst 25mg/ml	injectievloeistof	im		ICK			0		
+8044	promethazine injvlst 25mg/ml	injectievloeistof	im		NEO			0		
+8044	promethazine injvlst 25mg/ml	injectievloeistof	iv		ICC			0		
+8044	promethazine injvlst 25mg/ml	injectievloeistof	iv		ICK			0		
+8044	promethazine injvlst 25mg/ml	injectievloeistof	iv		NEO			0		
+110892	propofol inj.emulsie 10mg/ml	emulsie voor injectie	iv		ICC			0		
+110892	propofol inj.emulsie 10mg/ml	emulsie voor injectie	iv		ICK			0		
+110892	propofol inj.emulsie 10mg/ml	emulsie voor injectie	iv		NEO			0		
+110884	propofol inj.emulsie 20mg/ml	emulsie voor injectie	iv		ICC			0		
+110884	propofol inj.emulsie 20mg/ml	emulsie voor injectie	iv		ICK			0		
+110884	propofol inj.emulsie 20mg/ml	emulsie voor injectie	iv		NEO			0		
+103594	protrombinecomplex injpdr 250ie	poeder voor injectievloeistof	iv		ICC			10		solvens
+103594	protrombinecomplex injpdr 250ie	poeder voor injectievloeistof	iv		ICK			10		solvens
+103594	protrombinecomplex injpdr 250ie	poeder voor injectievloeistof	iv		NEO			10		solvens
+119237	protrombinecomplex injpdr 500ie	poeder voor injectievloeistof	iv		ICC			20		solvens
+119237	protrombinecomplex injpdr 500ie	poeder voor injectievloeistof	iv		ICK			20		solvens
+119237	protrombinecomplex injpdr 500ie	poeder voor injectievloeistof	iv		NEO			20		solvens
+29009	pyridoxine injvlst 50mg/ml	injectievloeistof	im		ICC			0		
+29009	pyridoxine injvlst 50mg/ml	injectievloeistof	im		ICK			0		
+29009	pyridoxine injvlst 50mg/ml	injectievloeistof	im		NEO			0		
+29009	pyridoxine injvlst 50mg/ml	injectievloeistof	iv		ICC			0		
+29009	pyridoxine injvlst 50mg/ml	injectievloeistof	iv		ICK			0		
+29009	pyridoxine injvlst 50mg/ml	injectievloeistof	iv		NEO			0		
+135232	rabiesvaccin injpdr 2,5ie (kippenembryocellen)	poeder voor injectievloeistof	im		ICC			1		solvens
+135232	rabiesvaccin injpdr 2,5ie (kippenembryocellen)	poeder voor injectievloeistof	im		ICK			1		solvens
+135232	rabiesvaccin injpdr 2,5ie (kippenembryocellen)	poeder voor injectievloeistof	im		NEO			1		solvens
+114456	rasburicase infusiepoeder 1,5mg	poeder voor oplossing voor infusie	iv		ICC			1		solvens
+114456	rasburicase infusiepoeder 1,5mg	poeder voor oplossing voor infusie	iv		ICK			1		solvens
+114456	rasburicase infusiepoeder 1,5mg	poeder voor oplossing voor infusie	iv		NEO			1		solvens
+116181	rasburicase infusiepoeder 7,5mg	poeder voor oplossing voor infusie	iv		ICC			5		solvens
+116181	rasburicase infusiepoeder 7,5mg	poeder voor oplossing voor infusie	iv		ICK			5		solvens
+116181	rasburicase infusiepoeder 7,5mg	poeder voor oplossing voor infusie	iv		NEO			5		solvens
+183938	remdesivir infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICC			19		water
+183938	remdesivir infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		ICK			19		water
+183938	remdesivir infusiepoeder 100mg	poeder voor oplossing voor infusie	iv		NEO			19		water
+100315	remifentanil injectiepoeder 2mg	poeder voor injectievloeistof	iv		ICC			2		NaCl 0,9%
+100315	remifentanil injectiepoeder 2mg	poeder voor injectievloeistof	iv		ICK			2		NaCl 0,9%
+100315	remifentanil injectiepoeder 2mg	poeder voor injectievloeistof	iv		NEO			2		NaCl 0,9%
+100323	remifentanil injectiepoeder 5mg	poeder voor injectievloeistof	iv		ICC			5		NaCl 0,9%
+100323	remifentanil injectiepoeder 5mg	poeder voor injectievloeistof	iv		ICK			5		NaCl 0,9%
+100323	remifentanil injectiepoeder 5mg	poeder voor injectievloeistof	iv		NEO			5		NaCl 0,9%
+186295	remimazolam injectiepoeder 20mg	poeder voor injectievloeistof	iv		ICC			8.2		NaCl 0,9%
+186295	remimazolam injectiepoeder 20mg	poeder voor injectievloeistof	iv		ICK			8.2		NaCl 0,9%
+186295	remimazolam injectiepoeder 20mg	poeder voor injectievloeistof	iv		NEO			8.2		NaCl 0,9%
+75191	rhesus(d)immunoglobuline injvlst 500ie/ml	injectievloeistof	im		ICC			0		
+75191	rhesus(d)immunoglobuline injvlst 500ie/ml	injectievloeistof	im		ICK			0		
+75191	rhesus(d)immunoglobuline injvlst 500ie/ml	injectievloeistof	im		NEO			0		
+75191	rhesus(d)immunoglobuline injvlst 500ie/ml	injectievloeistof	iv		ICC			0		
+75191	rhesus(d)immunoglobuline injvlst 500ie/ml	injectievloeistof	iv		ICK			0		
+75191	rhesus(d)immunoglobuline injvlst 500ie/ml	injectievloeistof	iv		NEO			0		
+51829	rifampicine infusiepoeder 600mg	poeder voor oplossing voor infusie	iv		ICC			10		solvens
+51829	rifampicine infusiepoeder 600mg	poeder voor oplossing voor infusie	iv		ICK			10		solvens
+51829	rifampicine infusiepoeder 600mg	poeder voor oplossing voor infusie	iv		NEO			10		solvens
+186104	rilpivirine injsusp 300mg/ml	suspensie voor injectie	im		ICC			0		
+186104	rilpivirine injsusp 300mg/ml	suspensie voor injectie	im		ICK			0		
+186104	rilpivirine injsusp 300mg/ml	suspensie voor injectie	im		NEO			0		
+116939	risperidon pdr v injsusp 25mg	poeder voor suspensie voor injectie	im		ICC			2		solvens
+116939	risperidon pdr v injsusp 25mg	poeder voor suspensie voor injectie	im		ICK			2		solvens
+116939	risperidon pdr v injsusp 25mg	poeder voor suspensie voor injectie	im		NEO			2		solvens
+104930	rituximab infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+104930	rituximab infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+104930	rituximab infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+93084	rocuronium injvlst 10mg/ml	injectievloeistof	iv		ICC			0		
+93084	rocuronium injvlst 10mg/ml	injectievloeistof	iv		ICK			0		
+93084	rocuronium injvlst 10mg/ml	injectievloeistof	iv		NEO			0		
+36722	salbutamol infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+36722	salbutamol infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+36722	salbutamol infopl conc 1mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+38172	salbutamol injvlst 0,5mg/ml	injectievloeistof	im		ICC			0		
+38172	salbutamol injvlst 0,5mg/ml	injectievloeistof	im		ICK			0		
+38172	salbutamol injvlst 0,5mg/ml	injectievloeistof	im		NEO			0		
+38172	salbutamol injvlst 0,5mg/ml	injectievloeistof	iv		ICC			0		
+38172	salbutamol injvlst 0,5mg/ml	injectievloeistof	iv		ICK			0		
+38172	salbutamol injvlst 0,5mg/ml	injectievloeistof	iv		NEO			0		
+8281	scopolaminebutyl injvlst 20mg/ml	injectievloeistof	im		ICC			0		
+8281	scopolaminebutyl injvlst 20mg/ml	injectievloeistof	im		ICK			0		
+8281	scopolaminebutyl injvlst 20mg/ml	injectievloeistof	im		NEO			0		
+8281	scopolaminebutyl injvlst 20mg/ml	injectievloeistof	iv		ICC			0		
+8281	scopolaminebutyl injvlst 20mg/ml	injectievloeistof	iv		ICK			0		
+8281	scopolaminebutyl injvlst 20mg/ml	injectievloeistof	iv		NEO			0		
+133531	sildenafil injvlst 0,8mg/ml	injectievloeistof	iv		ICC			0		
+133531	sildenafil injvlst 0,8mg/ml	injectievloeistof	iv		ICK			0		
+133531	sildenafil injvlst 0,8mg/ml	injectievloeistof	iv		NEO			0		
+126322	smoflipid infemu 200mg/ml	emulsie voor infusie	iv		ICC			0		
+126322	smoflipid infemu 200mg/ml	emulsie voor infusie	iv		ICK			0		
+126322	smoflipid infemu 200mg/ml	emulsie voor infusie	iv		NEO			0		
+83224	somatoreline injectiepoeder 50ug	poeder voor injectievloeistof	iv		ICC			1		solvens
+83224	somatoreline injectiepoeder 50ug	poeder voor injectievloeistof	iv		ICK			1		solvens
+83224	somatoreline injectiepoeder 50ug	poeder voor injectievloeistof	iv		NEO			1		solvens
+88242	sufentanil injvlst 5ug/ml	injectievloeistof	iv		ICC			0		
+88242	sufentanil injvlst 5ug/ml	injectievloeistof	iv		ICK			0		
+88242	sufentanil injvlst 5ug/ml	injectievloeistof	iv		NEO			0		
+88234	sufentanil injvlst 50ug/ml	injectievloeistof	iv		ICC			0		
+88234	sufentanil injvlst 50ug/ml	injectievloeistof	iv		ICK			0		
+88234	sufentanil injvlst 50ug/ml	injectievloeistof	iv		NEO			0		
+129968	sugammadex injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+129968	sugammadex injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+129968	sugammadex injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+44067	sulproston injectiepoeder 500ug	poeder voor injectievloeistof	iv		ICC			2		NaCl 0,9%
+44067	sulproston injectiepoeder 500ug	poeder voor injectievloeistof	iv		ICK			2		NaCl 0,9%
+44067	sulproston injectiepoeder 500ug	poeder voor injectievloeistof	iv		NEO			2		NaCl 0,9%
+90786	suxamethonium injvlst 50mg/ml (dihcl im/iv)	injectievloeistof	im		ICC			0		
+90786	suxamethonium injvlst 50mg/ml (dihcl im/iv)	injectievloeistof	im		ICK			0		
+90786	suxamethonium injvlst 50mg/ml (dihcl im/iv)	injectievloeistof	im		NEO			0		
+90786	suxamethonium injvlst 50mg/ml (dihcl im/iv)	injectievloeistof	iv		ICC			0		
+90786	suxamethonium injvlst 50mg/ml (dihcl im/iv)	injectievloeistof	iv		ICK			0		
+90786	suxamethonium injvlst 50mg/ml (dihcl im/iv)	injectievloeistof	iv		NEO			0		
+99287	tacrolimus infopl conc 5mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+99287	tacrolimus infopl conc 5mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+99287	tacrolimus infopl conc 5mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+82287	teicoplanine injectiepoeder 200mg	poeder voor injectievloeistof	im		ICC			3.14		water
+82287	teicoplanine injectiepoeder 200mg	poeder voor injectievloeistof	im		ICK			3.14		water
+82287	teicoplanine injectiepoeder 200mg	poeder voor injectievloeistof	im		NEO			3.14		water
+82287	teicoplanine injectiepoeder 200mg	poeder voor injectievloeistof	iv		ICC			3.14		water
+82287	teicoplanine injectiepoeder 200mg	poeder voor injectievloeistof	iv		ICK			3.14		water
+82287	teicoplanine injectiepoeder 200mg	poeder voor injectievloeistof	iv		NEO			3.14		water
+85871	teicoplanine injectiepoeder 400mg	poeder voor injectievloeistof	im		ICC			3.14		water
+85871	teicoplanine injectiepoeder 400mg	poeder voor injectievloeistof	im		ICK			3.14		water
+85871	teicoplanine injectiepoeder 400mg	poeder voor injectievloeistof	im		NEO			3.14		water
+85871	teicoplanine injectiepoeder 400mg	poeder voor injectievloeistof	iv		ICC			3.14		water
+85871	teicoplanine injectiepoeder 400mg	poeder voor injectievloeistof	iv		ICK			3.14		water
+85871	teicoplanine injectiepoeder 400mg	poeder voor injectievloeistof	iv		NEO			3.14		water
+1333	testosteron injvlst 250mg/ml (sustanon)	injectievloeistof	im		ICC			0		
+1333	testosteron injvlst 250mg/ml (sustanon)	injectievloeistof	im		ICK			0		
+1333	testosteron injvlst 250mg/ml (sustanon)	injectievloeistof	im		NEO			0		
+135151	testosteron injvlst 250mg/ml (undecanoaat)	injectievloeistof	im		ICC			0		
+135151	testosteron injvlst 250mg/ml (undecanoaat)	injectievloeistof	im		ICK			0		
+135151	testosteron injvlst 250mg/ml (undecanoaat)	injectievloeistof	im		NEO			0		
+175838	tetanusimmunoglobuline injvlst 250ie/ml	injectievloeistof	im		ICC			0		
+175838	tetanusimmunoglobuline injvlst 250ie/ml	injectievloeistof	im		ICK			0		
+175838	tetanusimmunoglobuline injvlst 250ie/ml	injectievloeistof	im		NEO			0		
+119504	tetanusvaccin injsusp 80ie/ml	suspensie voor injectie	im		ICC			0		
+119504	tetanusvaccin injsusp 80ie/ml	suspensie voor injectie	im		ICK			0		
+119504	tetanusvaccin injsusp 80ie/ml	suspensie voor injectie	im		NEO			0		
+8427	tetracosactide injvlst 0,25mg/ml	injectievloeistof	im		ICC			0		
+8427	tetracosactide injvlst 0,25mg/ml	injectievloeistof	im		ICK			0		
+8427	tetracosactide injvlst 0,25mg/ml	injectievloeistof	im		NEO			0		
+8427	tetracosactide injvlst 0,25mg/ml	injectievloeistof	iv		ICC			0		
+8427	tetracosactide injvlst 0,25mg/ml	injectievloeistof	iv		ICK			0		
+8427	tetracosactide injvlst 0,25mg/ml	injectievloeistof	iv		NEO			0		
+162930	theofylline infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+162930	theofylline infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+162930	theofylline infopl conc 200mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+29076	thiamine injvlst 100mg/ml	injectievloeistof	im		ICC			0		
+29076	thiamine injvlst 100mg/ml	injectievloeistof	im		ICK			0		
+29076	thiamine injvlst 100mg/ml	injectievloeistof	im		NEO			0		
+29076	thiamine injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+29076	thiamine injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+29076	thiamine injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+18147	thiopental injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICC			20		water
+18147	thiopental injectiepoeder 500mg	poeder voor injectievloeistof	iv		ICK			20		water
+18147	thiopental injectiepoeder 500mg	poeder voor injectievloeistof	iv		NEO			20		water
+112410	thymocytenimmunoglobuline inf conc 20mg/ml (k)	infusievloeistof	iv		ICC			0		
+112410	thymocytenimmunoglobuline inf conc 20mg/ml (k)	infusievloeistof	iv		ICK			0		
+112410	thymocytenimmunoglobuline inf conc 20mg/ml (k)	infusievloeistof	iv		NEO			0		
+97659	thymocytenimmunoglobuline infusiepoeder 25mg (k)	poeder voor oplossing voor infusie	iv		ICC			5		water
+97659	thymocytenimmunoglobuline infusiepoeder 25mg (k)	poeder voor oplossing voor infusie	iv		ICK			5		water
+97659	thymocytenimmunoglobuline infusiepoeder 25mg (k)	poeder voor oplossing voor infusie	iv		NEO			5		water
+125237	tigecycline infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICC			5.3		NaCl 0,9%;glucose 5%
+125237	tigecycline infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		ICK			5.3		NaCl 0,9%;glucose 5%
+125237	tigecycline infusiepoeder 50mg	poeder voor oplossing voor infusie	iv		NEO			5.3		NaCl 0,9%;glucose 5%
+112437	tirofiban infvlst 0,05mg/ml	infusievloeistof	iv		ICC			0		
+112437	tirofiban infvlst 0,05mg/ml	infusievloeistof	iv		ICK			0		
+112437	tirofiban infvlst 0,05mg/ml	infusievloeistof	iv		NEO			0		
+73342	tobramycine injvlst 40mg/ml	injectievloeistof	im		ICC			0		
+73342	tobramycine injvlst 40mg/ml	injectievloeistof	im		ICK			0		
+73342	tobramycine injvlst 40mg/ml	injectievloeistof	im		NEO			0		
+73342	tobramycine injvlst 40mg/ml	injectievloeistof	iv		ICC			0		
+73342	tobramycine injvlst 40mg/ml	injectievloeistof	iv		ICK			0		
+73342	tobramycine injvlst 40mg/ml	injectievloeistof	iv		NEO			0		
+130796	tocilizumab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+130796	tocilizumab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+130796	tocilizumab infopl conc 20mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+88692	tramadol injvlst 50mg/ml	injectievloeistof	im		ICC			0		
+88692	tramadol injvlst 50mg/ml	injectievloeistof	im		ICK			0		
+88692	tramadol injvlst 50mg/ml	injectievloeistof	im		NEO			0		
+88692	tramadol injvlst 50mg/ml	injectievloeistof	iv		ICC			0		
+88692	tramadol injvlst 50mg/ml	injectievloeistof	iv		ICK			0		
+88692	tramadol injvlst 50mg/ml	injectievloeistof	iv		NEO			0		
+5983	tranexaminezuur injvlst 100mg/ml	injectievloeistof	iv		ICC			0		
+5983	tranexaminezuur injvlst 100mg/ml	injectievloeistof	iv		ICK			0		
+5983	tranexaminezuur injvlst 100mg/ml	injectievloeistof	iv		NEO			0		
+144258	trastuzumab emtansine infpdr 100mg (kadcyla)	poeder voor oplossing voor infusie	iv		ICC			5		water
+144258	trastuzumab emtansine infpdr 100mg (kadcyla)	poeder voor oplossing voor infusie	iv		ICK			5		water
+144258	trastuzumab emtansine infpdr 100mg (kadcyla)	poeder voor oplossing voor infusie	iv		NEO			5		water
+111767	trastuzumab inf 150mg(her/kan/ogi/ont/tra/zer)	poeder voor oplossing voor infusie	iv		ICC			7.2		water
+111767	trastuzumab inf 150mg(her/kan/ogi/ont/tra/zer)	poeder voor oplossing voor infusie	iv		ICK			7.2		water
+111767	trastuzumab inf 150mg(her/kan/ogi/ont/tra/zer)	poeder voor oplossing voor infusie	iv		NEO			7.2		water
+174807	trastuzumab infpdr 420mg (her/kan/ogi/ont/trazim)	poeder voor oplossing voor infusie	iv		ICC			20		water
+174807	trastuzumab infpdr 420mg (her/kan/ogi/ont/trazim)	poeder voor oplossing voor infusie	iv		ICK			20		water
+174807	trastuzumab infpdr 420mg (her/kan/ogi/ont/trazim)	poeder voor oplossing voor infusie	iv		NEO			20		water
+120219	triamcinolonacetonide injsusp 40mg/ml (parent)	suspensie voor injectie	im		ICC			0		
+120219	triamcinolonacetonide injsusp 40mg/ml (parent)	suspensie voor injectie	im		ICK			0		
+120219	triamcinolonacetonide injsusp 40mg/ml (parent)	suspensie voor injectie	im		NEO			0		
+139645	trimethoprim/sulfametrol infvlst 0,64/3,2mg/ml	infusievloeistof	iv		ICC			0		
+139645	trimethoprim/sulfametrol infvlst 0,64/3,2mg/ml	infusievloeistof	iv		ICK			0		
+139645	trimethoprim/sulfametrol infvlst 0,64/3,2mg/ml	infusievloeistof	iv		NEO			0		
+173444	trometamol infvlst 36,3mg/ml	infusievloeistof	iv		ICC			0		
+173444	trometamol infvlst 36,3mg/ml	infusievloeistof	iv		ICK			0		
+173444	trometamol infvlst 36,3mg/ml	infusievloeistof	iv		NEO			0		
+53198	urokinase infusiepoeder 100.000ie	poeder voor oplossing voor infusie	iv		ICC			5		NaCl 0,9%
+53198	urokinase infusiepoeder 100.000ie	poeder voor oplossing voor infusie	iv		ICK			5		NaCl 0,9%
+53198	urokinase infusiepoeder 100.000ie	poeder voor oplossing voor infusie	iv		NEO			5		NaCl 0,9%
+167053	ustekinumab infopl conc 5mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+167053	ustekinumab infopl conc 5mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+167053	ustekinumab infopl conc 5mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+82422	vancomycine pdr v infvlst 1000mg	poeder voor oplossing voor infusie	iv		ICC			20		water
+82422	vancomycine pdr v infvlst 1000mg	poeder voor oplossing voor infusie	iv		ICK			20		water
+82422	vancomycine pdr v infvlst 1000mg	poeder voor oplossing voor infusie	iv		NEO			20		water
+175285	varicellazosterimmunoglobuline inj 104ie/ml	injectievloeistof	im		ICC			0		
+175285	varicellazosterimmunoglobuline inj 104ie/ml	injectievloeistof	im		ICK			0		
+175285	varicellazosterimmunoglobuline inj 104ie/ml	injectievloeistof	im		NEO			0		
+152587	vedolizumab infusiepoeder 300mg	poeder voor oplossing voor infusie	iv		ICC			4.8		water
+152587	vedolizumab infusiepoeder 300mg	poeder voor oplossing voor infusie	iv		ICK			4.8		water
+152587	vedolizumab infusiepoeder 300mg	poeder voor oplossing voor infusie	iv		NEO			4.8		water
+8184	verapamil injvlst 2,5mg/ml	injectievloeistof	iv		ICC			0		
+8184	verapamil injvlst 2,5mg/ml	injectievloeistof	iv		ICK			0		
+8184	verapamil injvlst 2,5mg/ml	injectievloeistof	iv		NEO			0		
+112542	verteporfine infusiepoeder 15mg	poeder voor oplossing voor infusie	iv		ICC			7		water
+112542	verteporfine infusiepoeder 15mg	poeder voor oplossing voor infusie	iv		ICK			7		water
+112542	verteporfine infusiepoeder 15mg	poeder voor oplossing voor infusie	iv		NEO			7		water
+115487	voriconazol infusiepoeder 200mg	poeder voor oplossing voor infusie	iv		ICC			19		water;NaCl 0,9%
+115487	voriconazol infusiepoeder 200mg	poeder voor oplossing voor infusie	iv		ICK			19		water;NaCl 0,9%
+115487	voriconazol infusiepoeder 200mg	poeder voor oplossing voor infusie	iv		NEO			19		water;NaCl 0,9%
+179442	zanamivir infvlst 10mg/ml	infusievloeistof	iv		ICC			0		
+179442	zanamivir infvlst 10mg/ml	infusievloeistof	iv		ICK			0		
+179442	zanamivir infvlst 10mg/ml	infusievloeistof	iv		NEO			0		
+89818	zidovudine infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICC			0		
+89818	zidovudine infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		ICK			0		
+89818	zidovudine infopl conc 10mg/ml	concentraat voor oplossing voor infusie	iv		NEO			0		
+137367	zoledroninezuur infvlst 0,04mg/ml	infusievloeistof	iv		ICC			0		
+137367	zoledroninezuur infvlst 0,04mg/ml	infusievloeistof	iv		ICK			0		
+137367	zoledroninezuur infvlst 0,04mg/ml	infusievloeistof	iv		NEO			0		
+124850	zoledroninezuur infvlst 0,05mg/ml	infusievloeistof	iv		ICC			0		
+124850	zoledroninezuur infvlst 0,05mg/ml	infusievloeistof	iv		ICK			0		
+124850	zoledroninezuur infvlst 0,05mg/ml	infusievloeistof	iv		NEO			0		
+20451	zuclopentixol (depot) injvlst 200mg/ml	injectievloeistof	im		ICC			0		
+20451	zuclopentixol (depot) injvlst 200mg/ml	injectievloeistof	im		ICK			0		
+20451	zuclopentixol (depot) injvlst 200mg/ml	injectievloeistof	im		NEO			0		
+77674	zuclopentixol injvlst 50mg/ml	injectievloeistof	im		ICC			0		
+77674	zuclopentixol injvlst 50mg/ml	injectievloeistof	im		ICK			0		
+77674	zuclopentixol injvlst 50mg/ml	injectievloeistof	im		NEO			0		

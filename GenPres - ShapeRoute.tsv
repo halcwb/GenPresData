@@ -1,0 +1,409 @@
+Route	Shape	Unit	DoseUnit	MinDoseQty	MaxDoseQty	Timed	Reconstitute	IsSolution
+auriculair	oordruppels	gram	druppel			FALSE	FALSE	FALSE
+auriculair	oordruppels	milliliter	druppel			FALSE	FALSE	TRUE
+auriculair	oorpoeder	gram	keer			FALSE	FALSE	FALSE
+auriculair	oorzalf	gram	keer			FALSE	FALSE	FALSE
+auriculair	oplossing	gram	keer			FALSE	FALSE	FALSE
+auriculair	oplossing	milliliter	keer			FALSE	FALSE	TRUE
+cutaan	collodion	gram	keer			FALSE	FALSE	FALSE
+cutaan	concentraat voor oplossing voor cutaan gebruik	gram	keer			FALSE	FALSE	FALSE
+cutaan	creme	gram	keer			FALSE	FALSE	FALSE
+cutaan	druppels voor oraal gebruik	milliliter	druppel			FALSE	FALSE	TRUE
+cutaan	emulsie voor cutaan gebruik	gram	keer			FALSE	FALSE	FALSE
+cutaan	emulsie voor cutaan gebruik	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	geimpregneerd verbandgaas	stuk	keer			FALSE	FALSE	FALSE
+cutaan	gel	gram	keer			FALSE	FALSE	FALSE
+cutaan	gel	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	huidspray	gram	keer			FALSE	FALSE	FALSE
+cutaan	huidstift	gram	keer			FALSE	FALSE	FALSE
+cutaan	injectievloeistof	milliliter	keer			FALSE	FALSE	TRUE
+cutaan	oplossing	gram	keer			FALSE	FALSE	FALSE
+cutaan	oplossing voor cutaan gebruik	gram	keer			FALSE	FALSE	FALSE
+cutaan	oplossing voor cutaan gebruik	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	pasta voor cutaan gebruik	gram	keer			FALSE	FALSE	FALSE
+cutaan	pleister	stuk	keer			FALSE	FALSE	FALSE
+cutaan	schuim voor cutaan gebruik	gram	keer			FALSE	FALSE	FALSE
+cutaan	schuim voor cutaan gebruik	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	shampoo	gram	keer			FALSE	FALSE	FALSE
+cutaan	shampoo	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	spoeling	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	spray	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	strooipoeder	gram	keer			FALSE	FALSE	FALSE
+cutaan	suspensie voor cutaan gebruik	gram	keer			FALSE	FALSE	FALSE
+cutaan	suspensie voor cutaan gebruik	milliliter	keer			FALSE	FALSE	FALSE
+cutaan	zalf	gram	keer			FALSE	FALSE	FALSE
+dentaal	gel voor dentaal gebruik	gram	keer			FALSE	FALSE	FALSE
+dentaal	gel voor dentaal gebruik	milliliter	keer			FALSE	FALSE	FALSE
+dentaal	suspensie voor dentaal gebruik	milliliter	keer			FALSE	FALSE	FALSE
+dentaal	tandpasta	gram	keer			FALSE	FALSE	FALSE
+endocervicaal	gel voor endocervicaal gebruik	gram	keer			FALSE	FALSE	FALSE
+endotracheopulmonair	endotracheopulmonaire instillatie, suspensie	milliliter	keer			FALSE	FALSE	FALSE
+endotracheopulmonair	gel	gram	keer			FALSE	FALSE	FALSE
+endotracheopulmonair	gel	milligram	keer			FALSE	FALSE	FALSE
+endotracheopulmonair	injectievloeistof	milliliter	keer			FALSE	FALSE	TRUE
+epiduraal	concentraat voor oplossing voor infusie	milliliter				TRUE	FALSE	TRUE
+epiduraal	infusievloeistof	milliliter				TRUE	FALSE	TRUE
+epiduraal	infuus	milligram				TRUE	TRUE	FALSE
+epiduraal	injectie/infusieoplossing	milliliter				TRUE	FALSE	TRUE
+epiduraal	injectie/infuus	milligram				TRUE	TRUE	TRUE
+epiduraal	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+epilesionaal	weefsellijm	milliliter	keer			FALSE	FALSE	FALSE
+epilesionaal	weefsellijm matrix	vierkante centimeter	keer			FALSE	FALSE	FALSE
+extracorporaal	concentraat voor oplossing voor infusie	milliliter				FALSE	FALSE	TRUE
+extracorporaal	infusievloeistof	milliliter				FALSE	FALSE	TRUE
+extracorporaal	injectie/infuus	internationale eenheid				FALSE	TRUE	TRUE
+extracorporaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+extracorporaal	oplossing voor hemodialyse	milliliter				FALSE	FALSE	TRUE
+extracorporaal	oplossing voor hemofiltratie	milliliter				FALSE	FALSE	TRUE
+extracorporaal	oplossing voor hemofiltratie/hemodialyse	milliliter				FALSE	FALSE	TRUE
+gastro-enteraal	gel voor gastro-enteraal gebruik	milliliter				FALSE	FALSE	TRUE
+hemodialyse	concentraat voor oplossing voor hemodialyse	milliliter				TRUE	FALSE	TRUE
+hemodialyse	oplossing voor hemodialyse	milliliter				TRUE	FALSE	TRUE
+inhalatie	aerosol	dosis				FALSE	FALSE	FALSE
+inhalatie	concentraat voor oplossing voor infusie	milliliter				FALSE	FALSE	FALSE
+inhalatie	dispersie voor vernevelvloeistof	milliliter				FALSE	FALSE	FALSE
+inhalatie	inhalatiegas	milliliter				FALSE	FALSE	FALSE
+inhalatie	inhalatiepoeder	dosis				FALSE	FALSE	FALSE
+inhalatie	inhalatiepoeder	stuk				FALSE	FALSE	FALSE
+inhalatie	poeder voor vernevelvloeistof	stuk				FALSE	FALSE	FALSE
+inhalatie	radionuclide generator	stuk				FALSE	FALSE	FALSE
+inhalatie	vernevelvloeistof	dosis				FALSE	FALSE	FALSE
+inhalatie	vernevelvloeistof	milliliter				FALSE	FALSE	TRUE
+inhalatie	vloeistof voor inhalatiedamp	milliliter				FALSE	FALSE	FALSE
+intra-arterieel	injectie/infuus	internationale eenheid				TRUE	FALSE	TRUE
+intra-arterieel	injectie/infuus	milligram				TRUE	TRUE	TRUE
+intra-arterieel	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+intra-arterieel	poeder voor injectievloeistof	stuk				TRUE	TRUE	TRUE
+intra-arterieel	poeder voor oplossing voor infusie	stuk				TRUE	TRUE	TRUE
+intra-articulair	injectie/infuus	milligram				TRUE	TRUE	TRUE
+intra-articulair	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+intra-articulair	poeder voor injectievloeistof	stuk				TRUE	TRUE	TRUE
+intra-articulair	suspensie voor implantatie	vierkante centimeter				TRUE	FALSE	TRUE
+intra-articulair	suspensie voor injectie	milliliter				TRUE	FALSE	TRUE
+intra-oculair	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intra-oculair	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+intra-uterien	gel voor intra-uterien gebruik	milliliter	keer			FALSE	FALSE	FALSE
+intra-uterien	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intra-uterien	iud (intra uterine device)	stuk	keer			FALSE	FALSE	FALSE
+intrabursaal	injectie/infuus	milligram				FALSE	TRUE	TRUE
+intrabursaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intrabursaal	suspensie voor injectie	milliliter				FALSE	FALSE	FALSE
+intracardiaal	infuus	milligram				FALSE	TRUE	TRUE
+intracardiaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intracaverneus	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intracerebraal	infusievloeistof	milliliter				FALSE	FALSE	FALSE
+intracervicaal	gel voor intra-uterien gebruik	milliliter	keer			FALSE	FALSE	FALSE
+intracoronair	concentraat voor oplossing voor infusie	milliliter				FALSE	FALSE	FALSE
+intracoronair	infusievloeistof	milliliter				FALSE	FALSE	FALSE
+intracoronair	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intradermaal	injectie	eenheid				TRUE	TRUE	TRUE
+intradermaal	injectie	milligram				TRUE	TRUE	TRUE
+intradermaal	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+intradermaal	poeder voor injectievloeistof	stuk				TRUE	TRUE	TRUE
+intradermaal	poeder voor suspensie voor injectie	stuk				TRUE	TRUE	TRUE
+intralaesionaal	concentraat voor oplossing voor infusie	milliliter				FALSE	FALSE	TRUE
+intralaesionaal	injectie	miljoen plaque forming units				FALSE	FALSE	FALSE
+intralaesionaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intralaesionaal	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+intralaesionaal	suspensie voor injectie	milliliter				FALSE	FALSE	TRUE
+intralymfatisch	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+intramusculair	concentraat voor oplossing voor infusie	milliliter				FALSE	FALSE	TRUE
+intramusculair	concentraat voor oplossing voor injectie	milliliter				FALSE	FALSE	TRUE
+intramusculair	infusievloeistof	milliliter				FALSE	FALSE	TRUE
+intramusculair	infuus	internationale eenheid				FALSE	TRUE	TRUE
+intramusculair	infuus	milligram				FALSE	TRUE	TRUE
+intramusculair	injectie	eenheid				FALSE	TRUE	TRUE
+intramusculair	injectie	miljoen ie				FALSE	TRUE	TRUE
+intramusculair	injectie	milligram				FALSE	TRUE	TRUE
+intramusculair	injectie/infusieoplossing	milliliter				FALSE	FALSE	TRUE
+intramusculair	injectie/infuus	eenheid				FALSE	TRUE	TRUE
+intramusculair	injectie/infuus	internationale eenheid				FALSE	TRUE	TRUE
+intramusculair	injectie/infuus	microgram				FALSE	TRUE	TRUE
+intramusculair	injectie/infuus	milligram				FALSE	TRUE	TRUE
+intramusculair	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intramusculair	poeder voor injectie/infusieoplossing	stuk				FALSE	FALSE	TRUE
+intramusculair	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+intramusculair	poeder voor oplossing voor infusie	stuk				FALSE	TRUE	TRUE
+intramusculair	poeder voor suspensie voor injectie	stuk				FALSE	TRUE	TRUE
+intramusculair	suspensie voor injectie	milliliter				FALSE	FALSE	TRUE
+intraossaal	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+intrapericardiaal	injectie/infuus	internationale eenheid				FALSE	TRUE	TRUE
+intrapericardiaal	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+intraperitoneaal	infusievloeistof	milliliter				FALSE	FALSE	FALSE
+intraperitoneaal	injectie/infuus	internationale eenheid				TRUE	TRUE	TRUE
+intraperitoneaal	instillatievloeistof	milliliter				TRUE	FALSE	TRUE
+intraperitoneaal	oplossing voor peritoneale dialyse	milliliter				TRUE	FALSE	TRUE
+intraperitoneaal	poeder voor injectievloeistof	stuk				TRUE	TRUE	TRUE
+intraperitoneaal	poeder voor oplossing voor infusie	stuk				TRUE	TRUE	TRUE
+intraperitoneaal	spoeling	milliliter				TRUE	FALSE	TRUE
+intrapleuraal	injectie/infuus	internationale eenheid				FALSE	TRUE	TRUE
+intrapleuraal	injectie/infuus	milligram				FALSE	TRUE	TRUE
+intrapleuraal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intrapleuraal	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+intrapleuraal	suspensie voor injectie	milliliter				FALSE	FALSE	TRUE
+intrathecaal	concentraat voor oplossing voor infusie	milliliter				TRUE	FALSE	TRUE
+intrathecaal	infusievloeistof	milliliter				TRUE	FALSE	TRUE
+intrathecaal	infuus	milligram				TRUE	TRUE	TRUE
+intrathecaal	injectie	milligram				TRUE	TRUE	TRUE
+intrathecaal	injectie/infusieoplossing	milliliter				TRUE	FALSE	TRUE
+intrathecaal	injectie/infuus	milligram				TRUE	TRUE	TRUE
+intrathecaal	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+intrathecaal	poeder voor injectievloeistof	stuk				TRUE	TRUE	TRUE
+intratumoraal	injectie/infuus	internationale eenheid				FALSE	TRUE	TRUE
+intratumoraal	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+intratympanaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intraveneus	concentraat voor oplossing voor infusie	milliliter				TRUE	FALSE	TRUE
+intraveneus	concentraat voor oplossing voor injectie	milliliter				TRUE	FALSE	TRUE
+intraveneus	concentraat voor oplossing voor injectie/infusie	milliliter				TRUE	FALSE	TRUE
+intraveneus	dispersie voor infusie	stuk				TRUE	TRUE	TRUE
+intraveneus	emulsie voor infusie	milliliter				TRUE	FALSE	TRUE
+intraveneus	emulsie voor injectie	milliliter				TRUE	FALSE	TRUE
+intraveneus	gas en oplosmiddel voor dispersie injectie/infusie	milliliter				TRUE	FALSE	TRUE
+intraveneus	infusievloeistof	milliliter				TRUE	FALSE	TRUE
+intraveneus	infuus	eenheid				TRUE	TRUE	TRUE
+intraveneus	infuus	internationale eenheid				TRUE	TRUE	TRUE
+intraveneus	infuus	megabecquerel				TRUE	TRUE	TRUE
+intraveneus	infuus	microgram				TRUE	TRUE	TRUE
+intraveneus	infuus	milligram				TRUE	TRUE	TRUE
+intraveneus	injectie	internationale eenheid				TRUE	TRUE	TRUE
+intraveneus	injectie	milligram				TRUE	TRUE	TRUE
+intraveneus	injectie/infusieoplossing	milliliter				TRUE	FALSE	TRUE
+intraveneus	injectie/infuus	eenheid				TRUE	TRUE	TRUE
+intraveneus	injectie/infuus	internationale eenheid				TRUE	TRUE	TRUE
+intraveneus	injectie/infuus	microgram				TRUE	TRUE	TRUE
+intraveneus	injectie/infuus	miljoen ie				TRUE	TRUE	TRUE
+intraveneus	injectie/infuus	milligram				TRUE	TRUE	TRUE
+intraveneus	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+intraveneus	kit voor radiofarmaceutisch preparaat	stuk				TRUE	TRUE	TRUE
+intraveneus	oplossing voor hemofiltratie	milliliter				TRUE	FALSE	TRUE
+intraveneus	oplossing voor hemofiltratie/hemodialyse	milliliter				TRUE	FALSE	TRUE
+intraveneus	oplossing voor parenteraal/oraal gebruik	milliliter				TRUE	FALSE	TRUE
+intraveneus	poeder voor injectie/infusieoplossing	stuk				TRUE	TRUE	TRUE
+intraveneus	poeder voor injectievloeistof	stuk				TRUE	TRUE	TRUE
+intraveneus	poeder voor oplossing voor infusie	stuk				TRUE	TRUE	TRUE
+intraveneus	suspensie voor injectie	milliliter				TRUE	FALSE	TRUE
+intravesicaal	blaasspoeling	milliliter				FALSE	FALSE	TRUE
+intravesicaal	infuus	milligram				FALSE	TRUE	TRUE
+intravesicaal	injectie/infuus	milligram				FALSE	TRUE	TRUE
+intravesicaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intravesicaal	poeder voor injectie/infusieoplossing	stuk				FALSE	TRUE	TRUE
+intravesicaal	poeder voor instillatievloeistof	stuk				FALSE	TRUE	TRUE
+intravesicaal	poeder voor oplossing voor intravesicaal gebruik	stuk				FALSE	TRUE	TRUE
+intravitreaal	concentraat voor oplossing voor injectie	milliliter				FALSE	FALSE	FALSE
+intravitreaal	implantaat	stuk				FALSE	FALSE	FALSE
+intravitreaal	injectie	milligram				FALSE	TRUE	TRUE
+intravitreaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+intravitreaal	suspensie voor injectie	milliliter				FALSE	FALSE	TRUE
+lokaal	dispersie voor injectie met vertraagde afgifte	milliliter				FALSE	FALSE	FALSE
+lokaal	druppels voor oraal gebruik	milliliter	druppel			FALSE	FALSE	FALSE
+lokaal	gel	gram	keer			FALSE	FALSE	FALSE
+lokaal	gel	milligram	keer			FALSE	FALSE	FALSE
+lokaal	infusievloeistof	milliliter				FALSE	FALSE	FALSE
+lokaal	infuus	milligram				FALSE	FALSE	FALSE
+lokaal	injectie/infuus	milligram				FALSE	FALSE	FALSE
+lokaal	injectievloeistof	milliliter				FALSE	FALSE	FALSE
+lokaal	oplossing	gram	keer			FALSE	FALSE	FALSE
+lokaal	oplossing	milliliter	keer			FALSE	FALSE	FALSE
+lokaal	poeder voor lokaal gebruik	stuk	keer			FALSE	FALSE	FALSE
+lokaal	spoeling	milliliter	keer			FALSE	FALSE	FALSE
+lokaal	spray	milliliter	keer			FALSE	FALSE	FALSE
+nasaal	concentraat voor oplossing voor infusie	milliliter				FALSE	FALSE	FALSE
+nasaal	inhalatiepoeder voor nasaal gebruik	dosis	dosis			FALSE	FALSE	FALSE
+nasaal	neusdruppels	milliliter	druppel			FALSE	FALSE	FALSE
+nasaal	neuspoeder	stuk	keer			FALSE	FALSE	FALSE
+nasaal	neusspray	dosis	dosis			FALSE	FALSE	FALSE
+nasaal	neusspray	milliliter	keer			FALSE	FALSE	FALSE
+nasaal	neusspray	stuk	keer			FALSE	FALSE	FALSE
+nasaal	neuszalf	gram	keer			FALSE	FALSE	FALSE
+nasaal	oplossing	milliliter	keer			FALSE	FALSE	FALSE
+nasaal	vloeistof	milliliter	keer			FALSE	FALSE	FALSE
+nasaal	vloeistof voor inhalatiedamp	milliliter	keer			FALSE	FALSE	FALSE
+nasaal	zalf voor inhalatiedamp	gram	keer			FALSE	FALSE	FALSE
+oculair	oogdruppels	gram	druppel			FALSE	FALSE	TRUE
+oculair	oogdruppels	milliliter	druppel			FALSE	FALSE	TRUE
+oculair	oogdruppels, emulsie	milliliter	druppel			FALSE	FALSE	TRUE
+oculair	oogdruppels, suspensie	milliliter	druppel			FALSE	FALSE	TRUE
+oculair	ooggel	gram	keer			FALSE	FALSE	FALSE
+oculair	ooggel	milliliter	keer			FALSE	FALSE	FALSE
+oculair	ooginsert	stuk	keer			FALSE	FALSE	FALSE
+oculair	oogwassing	milliliter	keer			FALSE	FALSE	FALSE
+oculair	oogzalf	gram	keer			FALSE	FALSE	FALSE
+oraal	bruisgranulaat	stuk			5	FALSE	FALSE	FALSE
+oraal	bruistablet	stuk			5	FALSE	FALSE	FALSE
+oraal	capsule	stuk			5	FALSE	FALSE	FALSE
+oraal	capsule met gereguleerde afgifte	stuk			5	FALSE	FALSE	FALSE
+oraal	capsule, zacht	stuk			5	FALSE	FALSE	FALSE
+oraal	concentraat voor drank	milliliter				TRUE	FALSE	TRUE
+oraal	concentraat voor drank	stuk				TRUE	FALSE	TRUE
+oraal	concentraat voor orale suspensie	milliliter				TRUE	FALSE	TRUE
+oraal	dispergeerbare tablet	stuk				FALSE	FALSE	FALSE
+oraal	dragee	stuk			5	FALSE	FALSE	FALSE
+oraal	drank	milliliter				TRUE	FALSE	TRUE
+oraal	drank	stuk				TRUE	TRUE	TRUE
+oraal	drank/concentraat voor klysma	milliliter				FALSE	FALSE	TRUE
+oraal	drank/mondspoeling	milliliter				FALSE	FALSE	TRUE
+oraal	drank/mondspoeling	milliliter				FALSE	FALSE	FALSE
+oraal	druppels voor oraal gebruik	gram	druppel			FALSE	FALSE	FALSE
+oraal	druppels voor oraal gebruik	milliliter	druppel			FALSE	FALSE	FALSE
+oraal	druppels voor sublinguaal gebruik	milliliter	druppel			FALSE	FALSE	FALSE
+oraal	emulsie voor oraal gebruik	milliliter				FALSE	FALSE	TRUE
+oraal	filmomhulde tablet	stuk			5	FALSE	FALSE	FALSE
+oraal	gel voor oraal gebruik	gram	keer			FALSE	FALSE	FALSE
+oraal	gel voor oraal gebruik	milliliter	keer			FALSE	FALSE	FALSE
+oraal	granulaat	gram				FALSE	FALSE	FALSE
+oraal	granulaat	stuk			10	FALSE	FALSE	FALSE
+oraal	granulaat met gereguleerde afgifte	stuk			5	FALSE	FALSE	FALSE
+oraal	granulaat voor orale suspensie	gram				FALSE	FALSE	FALSE
+oraal	granulaat voor orale suspensie	stuk			10	FALSE	FALSE	FALSE
+oraal	infusievloeistof	milliliter				TRUE	FALSE	TRUE
+oraal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+oraal	kauw-/dispergeerbare tablet	stuk			5	FALSE	FALSE	FALSE
+oraal	kauwcapsule	stuk			5	FALSE	FALSE	FALSE
+oraal	kauwgom	stuk			5	FALSE	FALSE	FALSE
+oraal	kauwtablet	stuk			5	FALSE	FALSE	FALSE
+oraal	kruidenthee	gram	keer			FALSE	FALSE	FALSE
+oraal	kruidenthee	stuk	keer			FALSE	FALSE	FALSE
+oraal	lyophilisaat voor oraal gebruik	stuk				FALSE	FALSE	FALSE
+oraal	maagsapresistent granulaat	gram				FALSE	FALSE	FALSE
+oraal	maagsapresistent granulaat	stuk			5	FALSE	FALSE	FALSE
+oraal	maagsapresistente capsule	stuk			5	FALSE	FALSE	FALSE
+oraal	maagsapresistente tablet	stuk			5	FALSE	FALSE	FALSE
+oraal	maagsapresistente tablet + tablet	stuk			5	FALSE	FALSE	FALSE
+oraal	maagsapresistente tablet met gereguleerde afgifte	stuk			5	FALSE	FALSE	FALSE
+oraal	omhulde tablet	stuk			5	FALSE	FALSE	FALSE
+oraal	oplosbare tablet	stuk			10	FALSE	FALSE	FALSE
+oraal	oplossing	milliliter				TRUE	FALSE	TRUE
+oraal	oplossing voor parenteraal/oraal gebruik	milliliter				TRUE	FALSE	TRUE
+oraal	pasta voor oraal gebruik	gram	keer			FALSE	FALSE	FALSE
+oraal	pasta voor oraal gebruik	milliliter	keer			FALSE	FALSE	FALSE
+oraal	poeder voor drank	gram				TRUE	TRUE	TRUE
+oraal	poeder voor drank	stuk			5	TRUE	TRUE	TRUE
+oraal	poeder voor injectievloeistof	stuk			5	FALSE	TRUE	TRUE
+oraal	poeder voor lokaal gebruik	stuk			5	FALSE	FALSE	FALSE
+oraal	poeder voor oraal gebruik	gram				FALSE	TRUE	TRUE
+oraal	poeder voor oraal gebruik	stuk			5	FALSE	TRUE	TRUE
+oraal	poeder voor orale suspensie	gram				FALSE	TRUE	TRUE
+oraal	poeder voor orale suspensie	stuk			5	FALSE	TRUE	TRUE
+oraal	poeder voor suspensie voor oraal/rectaal gebruik	gram				FALSE	TRUE	TRUE
+oraal	reep	stuk			1	FALSE	FALSE	FALSE
+oraal	smelttablet	stuk			5	FALSE	FALSE	FALSE
+oraal	spray	milliliter				FALSE	FALSE	FALSE
+oraal	stroop	milliliter				FALSE	FALSE	TRUE
+oraal	suspensie voor oraal gebruik	dosis	dosis			FALSE	TRUE	TRUE
+oraal	suspensie voor oraal gebruik	milliliter				FALSE	FALSE	TRUE
+oraal	suspensie voor oraal gebruik	stuk				FALSE	TRUE	TRUE
+oraal	tablet	stuk			10	FALSE	FALSE	FALSE
+oraal	tablet + bruisgranulaat	stuk			5	FALSE	FALSE	FALSE
+oraal	tablet + kauwtablet	stuk			5	FALSE	FALSE	FALSE
+oraal	tablet met gereguleerde afgifte	stuk			5	FALSE	FALSE	FALSE
+oraal	zuigtablet	stuk			1	FALSE	FALSE	FALSE
+oromucosaal	concentraat voor mondspoeling	milliliter				FALSE	FALSE	FALSE
+oromucosaal	drank/mondspoeling	milliliter				FALSE	FALSE	FALSE
+oromucosaal	drank/mondspoeling	milliliter				FALSE	FALSE	TRUE
+oromucosaal	druppels voor oraal gebruik, oplossing	milliliter	druppel			FALSE	FALSE	FALSE
+oromucosaal	druppels voor oromucosaal gebruik	milliliter	druppel			FALSE	FALSE	FALSE
+oromucosaal	gel voor oraal gebruik	gram	keer			FALSE	FALSE	FALSE
+oromucosaal	gel voor oromucosaal gebruik	gram	keer			FALSE	FALSE	FALSE
+oromucosaal	gorgeldrank	milliliter				FALSE	FALSE	TRUE
+oromucosaal	mondspoeling	milliliter				FALSE	FALSE	FALSE
+oromucosaal	oplossing	gram				FALSE	FALSE	FALSE
+oromucosaal	pasta voor oromucosaal gebruik	gram	keer			FALSE	FALSE	FALSE
+oromucosaal	pastille	stuk				FALSE	FALSE	FALSE
+oromucosaal	poeder voor oplossing	stuk				FALSE	FALSE	FALSE
+oromucosaal	spray	dosis	dosis			FALSE	FALSE	FALSE
+oromucosaal	spray voor oromucosaal gebruik	dosis	dosis			FALSE	FALSE	FALSE
+oromucosaal	spray voor oromucosaal gebruik	milliliter	dosis			FALSE	FALSE	FALSE
+oromucosaal	tablet voor buccaal gebruik	stuk				FALSE	FALSE	FALSE
+oromucosaal	vloeistof voor oromucosaal gebruik	gram				FALSE	TRUE	TRUE
+oromucosaal	vloeistof voor oromucosaal gebruik	milliliter				FALSE	FALSE	FALSE
+oromucosaal	zuigtablet	stuk				FALSE	FALSE	FALSE
+parabulbair	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+peri-articulair	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+peri-articulair	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+peri-articulair	suspensie voor injectie	milliliter				FALSE	FALSE	FALSE
+peribulbair	infusievloeistof	milliliter				FALSE	FALSE	TRUE
+peribulbair	injectie/infuus	milligram				FALSE	TRUE	TRUE
+peribulbair	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+peribulbair	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+perineuraal	concentraat voor oplossing voor infusie	milliliter				FALSE	FALSE	TRUE
+perineuraal	dispersie voor injectie met vertraagde afgifte	milliliter				FALSE	FALSE	TRUE
+perineuraal	infusievloeistof	milliliter				FALSE	FALSE	TRUE
+perineuraal	infuus	milligram				FALSE	TRUE	TRUE
+perineuraal	injectie/infusieoplossing	milliliter				FALSE	FALSE	TRUE
+perineuraal	injectie/infuus	milligram				FALSE	TRUE	TRUE
+perineuraal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+rectaal	creme voor rectaal gebruik	gram	keer			FALSE	FALSE	FALSE
+rectaal	drank/concentraat voor klysma	milliliter				FALSE	FALSE	TRUE
+rectaal	gel voor rectaal gebruik	gram	keer			FALSE	FALSE	FALSE
+rectaal	injectie/infuus	milligram				FALSE	TRUE	TRUE
+rectaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+rectaal	klysma	gram				FALSE	FALSE	TRUE
+rectaal	klysma	milliliter				FALSE	FALSE	TRUE
+rectaal	oplossing	milliliter				FALSE	FALSE	TRUE
+rectaal	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+rectaal	poeder voor klysma	gram				FALSE	TRUE	TRUE
+rectaal	poeder voor klysma	stuk				FALSE	TRUE	TRUE
+rectaal	poeder voor suspensie voor oraal/rectaal gebruik	gram				FALSE	TRUE	TRUE
+rectaal	schuim voor rectaal gebruik	dosis	dosis			FALSE	FALSE	FALSE
+rectaal	tablet voor klysma	stuk				FALSE	FALSE	FALSE
+rectaal	zalf	gram	keer			FALSE	FALSE	FALSE
+rectaal	zalf voor rectaal gebruik	gram	keer			FALSE	FALSE	FALSE
+rectaal	zetpil	stuk		1	1	FALSE	FALSE	FALSE
+retrobulbair	poeder voor injectievloeistof	stuk				FALSE	TRUE	TRUE
+subcutaan	concentraat voor oplossing voor infusie	milliliter				TRUE	FALSE	TRUE
+subcutaan	implantaat	stuk				FALSE	FALSE	FALSE
+subcutaan	implantatiestift	stuk				FALSE	FALSE	FALSE
+subcutaan	infusievloeistof	milliliter				TRUE	FALSE	TRUE
+subcutaan	infuus	milligram				TRUE	TRUE	TRUE
+subcutaan	injectie	microgram				FALSE	TRUE	TRUE
+subcutaan	injectie	miljoen ie				FALSE	TRUE	TRUE
+subcutaan	injectie	milligram				FALSE	TRUE	TRUE
+subcutaan	injectie/infusieoplossing	milliliter				TRUE	FALSE	TRUE
+subcutaan	injectie/infuus	eenheid				TRUE	TRUE	TRUE
+subcutaan	injectie/infuus	internationale eenheid				TRUE	TRUE	TRUE
+subcutaan	injectie/infuus	microgram				TRUE	TRUE	TRUE
+subcutaan	injectie/infuus	miljoen ie				TRUE	TRUE	TRUE
+subcutaan	injectie/infuus	milligram				TRUE	TRUE	TRUE
+subcutaan	injectievloeistof	dosis	dosis			TRUE	TRUE	TRUE
+subcutaan	injectievloeistof	milliliter				TRUE	FALSE	TRUE
+subcutaan	oplosmiddel voor parenteraal gebruik	milliliter				TRUE	FALSE	TRUE
+subcutaan	poeder voor injectie/infusieoplossing	stuk				TRUE	TRUE	TRUE
+subcutaan	poeder voor injectievloeistof	dosis	dosis			TRUE	TRUE	TRUE
+subcutaan	poeder voor injectievloeistof	stuk				TRUE	TRUE	TRUE
+subcutaan	poeder voor suspensie voor injectie	stuk				TRUE	TRUE	TRUE
+subcutaan	suspensie voor injectie	milliliter				TRUE	FALSE	TRUE
+sublinguaal	druppels voor oraal gebruik, oplossing	milliliter	druppel			FALSE	FALSE	FALSE
+sublinguaal	druppels voor sublinguaal gebruik	milliliter	druppel			FALSE	FALSE	FALSE
+sublinguaal	injectie/infuus	milligram				FALSE	TRUE	TRUE
+sublinguaal	lyophilisaat voor oraal gebruik	stuk				FALSE	FALSE	FALSE
+sublinguaal	spray	dosis	dosis			FALSE	FALSE	FALSE
+sublinguaal	spray voor sublinguaal gebruik	dosis	dosis			FALSE	FALSE	FALSE
+sublinguaal	tablet voor sublinguaal gebruik	stuk				FALSE	FALSE	FALSE
+submucosaal	injectievloeistof	milliliter				FALSE	FALSE	TRUE
+subretinaal	concentraat voor oplossing voor injectie	milliliter				FALSE	FALSE	TRUE
+transdermaal	creme	gram	keer			FALSE	FALSE	FALSE
+transdermaal	gel	gram	keer			FALSE	FALSE	FALSE
+transdermaal	pleister	stuk				FALSE	FALSE	FALSE
+transdermaal	pleister voor transdermaal gebruik	stuk				FALSE	FALSE	FALSE
+transdermaal	spray voor transdermaal gebruik, oplossing	dosis	dosis			FALSE	FALSE	FALSE
+urethraal	creme	gram	keer			FALSE	FALSE	FALSE
+urethraal	gel	gram	keer			FALSE	FALSE	FALSE
+urethraal	gel	milligram	keer			FALSE	FALSE	FALSE
+urethraal	gel voor urethraal gebruik	gram	keer			FALSE	FALSE	FALSE
+urethraal	spoeling voor urethraal gebruik	milliliter				FALSE	FALSE	TRUE
+vaginaal	capsule	stuk				FALSE	FALSE	FALSE
+vaginaal	capsule voor vaginaal gebruik	stuk				FALSE	FALSE	FALSE
+vaginaal	creme voor vaginaal gebruik	gram	keer			FALSE	FALSE	FALSE
+vaginaal	gel voor vaginaal gebruik	gram	keer			FALSE	FALSE	FALSE
+vaginaal	gel voor vaginaal gebruik	milliliter	keer			FALSE	FALSE	FALSE
+vaginaal	ovule	stuk				FALSE	FALSE	FALSE
+vaginaal	spoeling	milliliter				FALSE	FALSE	TRUE
+vaginaal	tablet voor vaginaal gebruik	stuk				FALSE	FALSE	FALSE
+vaginaal	toedieningssysteem voor vaginaal gebruik	stuk	keer			FALSE	FALSE	FALSE
+vaginaal	vloeistof voor vaginaal gebruik	milliliter				FALSE	FALSE	TRUE
+voor implantatie	implantatiegaas	stuk	keer			FALSE	FALSE	FALSE
+voor implantatie	implantatiekraal	stuk	keer			FALSE	FALSE	FALSE
+voor implantatie	implantatiespons	stuk	keer			FALSE	FALSE	FALSE
+voor implantatie	levend weefsel equivalent	vierkante centimeter	keer			FALSE	FALSE	FALSE
+voor implantatie	poeder voor cement	gram	keer			FALSE	FALSE	FALSE
+voor implantatie	poeder voor cement	stuk	keer			FALSE	FALSE	FALSE
