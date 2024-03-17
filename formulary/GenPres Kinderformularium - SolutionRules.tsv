@@ -1,0 +1,279 @@
+Generic	Shape	Route	DoseType	Dep	CVL	PVL	MinAge	MaxAge	MinWeight	MaxWeight	MinDose	MaxDose	Solutions	Volumes	MinVol	MaxVol	MinDrip	MaxDrip	MinPerc	MaxPerc	Substance	Unit	Quantities	MinQty	MaxQty	MinConc	MaxConc
+abatacept	poeder voor oplossing voor infusie	INTRAVENEUS		ICK					50000				NaCl 0,9%	100.00					1	1	abatacept	mg				5.00	10.00
+abatacept	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%	100.00					1	1	abatacept	mg				5.00	10.00
+acetazolamide	poeder voor injectievloeistof	INTRAVENEUS		ICC							125	500							1	1	acetazolamide	mg				100.00	100.00
+acetazolamide	poeder voor injectievloeistof	INTRAVENEUS		ICC							250	500	NaCl 0,9%|gluc	100.00					1	1	acetazolamide	mg					100.00
+acetazolamide	poeder voor injectievloeistof	INTRAVENEUS		NEO							25	250	NaCl 0,9%	2.00							acetazolamide	mg				50.00	50.00
+acetazolamide	poeder voor injectievloeistof	INTRAVENEUS		ICK							25	500	NaCl 0,9%						1	1	acetazolamide	mg				50.00	50.00
+acetazolamide	poeder voor injectievloeistof	INTRAVENEUS		ICK							250	500	NaCl 0,9%	100.00					1	1	acetazolamide	mg		250.00	500.00		
+acetylcysteine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC							5000	5000	NaCl 0,9%|gluc	50.00					1	1	acetylcysteine	mg		5,000.00	5,000.00		
+acetylcysteine	concentraat voor oplossing voor infusie	INTRAVENEUS	onceTimed	ICC							6000	15000	NaCl 0,9%|gluc	250.00					1	1	acetylcysteine	mg		6,000.00	15,000.00		
+acetylcysteine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC							2	7500	NaCl 0,9%|gluc	500.00					1	1	acetylcysteine	mg		2.00	7,500.00		
+acetylcysteine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK							5000	5000	NaCl 0,9%|gluc	50.00					1	1	acetylcysteine	mg		5,000.00	5,000.00		
+acetylcysteine	concentraat voor oplossing voor infusie	INTRAVENEUS	onceTimed	ICK							6000	15000	NaCl 0,9%|gluc	250.00					1	1	acetylcysteine	mg		6,000.00	15,000.00		
+acetylcysteine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK							2	7500	NaCl 0,9%|gluc	500.00					1	1	acetylcysteine	mg		2.00	7,500.00		
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC								200	NaCl 0,9%|gluc						1	1	aciclovir	mg			200.00	5.00	5.00
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC							200	500	NaCl 0,9%|gluc	100.00					1	1	aciclovir	mg		200.00	500.00	1.80	5.00
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC							500		NaCl 0,9%|gluc	250.00					1	1	aciclovir	mg		500.00	1,500.00	1.80	5.00
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		NEO									gluc		10				0.5	0.5	aciclovir	mg			50.00	1.80	5.00
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		NEO									gluc		20				0.5	0.5	aciclovir	mg		50.00		1.80	5.00
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK								200	NaCl 0,9%|gluc		20				1	1	aciclovir	mg			200.00	1.80	5.00
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK							200	500	NaCl 0,9%|gluc	100.00	100				1	1	aciclovir	mg		200.00	500.00	1.80	5.00
+aciclovir	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK							500		NaCl 0,9%|gluc	250.00	250				1	1	aciclovir	mg		500.00		1.80	5.00
+adrenaline		INTRAVENEUS	continuous	ICK	x					4000			gluc	12			0.5	0.5			adrenaline	mg					0.10
+adrenaline		INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							adrenaline	mg		1.00	1.00		0.10
+adrenaline		INTRAVENEUS	continuous	ICK	x				6000	11000			NaCl 0,9%|gluc	50.00							adrenaline	mg		2.00	2.00		0.10
+adrenaline		INTRAVENEUS	continuous	ICK	x				11000	40000			NaCl 0,9%|gluc	50.00							adrenaline	mg		5.00	5.00		0.10
+adrenaline		INTRAVENEUS	continuous	ICK	x				40000				NaCl 0,9%|gluc	50.00							adrenaline	mg		5.00	5.00		0.10
+adrenaline		INTRAVENEUS	continuous	ICK		x			6000	11000			NaCl 0,9%|gluc	50.00							adrenaline	mg		1.00	1.00		0.10
+adrenaline		INTRAVENEUS	continuous	ICK		x			11000	40000			NaCl 0,9%|gluc	50.00							adrenaline	mg		1.00	1.00		0.10
+adrenaline		INTRAVENEUS	continuous	ICK		x			40000				NaCl 0,9%|gluc	50.00							adrenaline	mg		1.00	1.00		0.10
+ALGLUCOSIDASE ALFA	POEDER VOOR OPLOSSING VOOR INFUSIE	INTRAVENEUS											NaCl 0,9%|gluc						1	1	alglucosidase alfa	mg				4.00	4.00
+alprostadil	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK						6000			gluc	50.00							alprostadil	mg		0.20	0.20		
+amfotericine b liposomaal	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									gluc		250				1	1	amfotericine b liposomaal	mg		50.00	300.00	0.20	2.00
+amfotericine b liposomaal	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									gluc		500				1	1	amfotericine b liposomaal	mg		300.00	500.00	0.20	2.00
+amfotericine b liposomaal	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									gluc						1	1	amfotericine b liposomaal	mg				0.20	2.00
+amikacine	injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc		100				1	1	amikacine	mg		600.00	1,500.00	4.90	14.20
+amikacine	injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%|gluc	100.00							amikacine	mg		500.00	500.00		
+amiodaron	injectievloeistof	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							amiodaron	mg		50.00	50.00	0.60	50.00
+amiodaron	injectievloeistof	INTRAVENEUS	continuous	ICK					6000	11000			gluc	50.00							amiodaron	mg		150.00	150.00	0.60	50.00
+amiodaron	injectievloeistof	INTRAVENEUS	continuous	ICK					11000	40000			gluc	50.00							amiodaron	mg		300.00	300.00	0.60	50.00
+amiodaron	injectievloeistof	INTRAVENEUS	continuous	ICK					40000				gluc	50.00							amiodaron	mg		600.00	600.00	0.60	50.00
+amoxicilline/clavulaanzuur	poeder voor injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%						1	1	amoxicilline	mg				20.00	20.00
+amoxicilline/clavulaanzuur	poeder voor injectievloeistof	INTRAVENEUS		NEO									NaCl 0,9%		5				1	1	amoxicilline	mg				20.00	20.00
+amoxicilline/clavulaanzuur	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%						1	1	amoxicilline	mg				20.00	20.00
+arginine		INTRAVENEUS	onceTimed							15000			NaCl 0,9%						1	1	arginine	mg				500.00	500.00
+argipressine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							argipressine	IE		10.00	10.00		
+argipressine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					6000	11000			gluc	50.00							argipressine	IE		20.00	20.00		
+argipressine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					11000	40000			gluc	50.00							argipressine	IE		40.00	40.00		
+argipressine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					40000				gluc	50.00							argipressine	IE		40.00	40.00		
+azathioprine	poeder voor injectievloeistof	INTRAVENEUS		ICC															1	1	azathioprine	mg				0.50	2.00
+azathioprine	poeder voor injectievloeistof	INTRAVENEUS		ICK															1	1	azathioprine	mg				0.50	2.00
+aztreonam	poeder voor injectievloeistof	INTRAVENEUS		NEO									NaCl 0,9%|gluc						1	1	aztreonam	mg				10.00	20.00
+aztreonam	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%|gluc						1	1	aztreonam	mg				10.00	20.00
+aztreonam	poeder voor injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc						1	1	aztreonam	mg				10.00	20.00
+benzylpenicilline	poeder voor injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%						1	1	benzylpenicilline	IE			1,000,000.00	10,000.00	100,000.00
+benzylpenicilline	poeder voor injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%		100				1	1	benzylpenicilline	IE		1,000,000.00	4,000,000.00	10,000.00	40,000.00
+benzylpenicilline	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%			100			1	1	benzylpenicilline	IE				10,000.00	100,000.00
+benzylpenicilline	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%	100.00					1	1	benzylpenicilline	IE		1,000,000.00	24,000,000.00	10,000.00	240,000.00
+caspofungine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%		100				1	1	caspofungine	mg			100.00		0.45
+caspofungine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%		250				1	1	caspofungine	mg		100.00			0.45
+caspofungine	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%		100				1	1	caspofungine	mg			45.00		0.45
+caspofungine	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%		250				1	1	caspofungine	mg		45.00			0.45
+ceftazidim/avibactam		INTRAVENEUS		ICK									NaCl 0,9%|gluc						1	1	ceftazidim	mg				40.00	40.00
+cefotaxim	poeder voor injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc						1	1	cefotaxim	mg				4.90	20.00
+cefotaxim	poeder voor injectievloeistof	INTRAVENEUS		NEO									NaCl 0,9%|gluc						1	1	cefotaxim	mg				4.90	20.00
+cefotaxim	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%|gluc	5;10;20;50;100;250;500					1	1	cefotaxim	mg				4.90	20.00
+ceftazidim	poeder voor injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc						1	1	ceftazidim	mg				9.00	40.00
+ceftazidim	poeder voor injectievloeistof	INTRAVENEUS		NEO									NaCl 0,9%|gluc						1	1	ceftazidim	mg				9.00	40.00
+ceftazidim	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%|gluc						1	1	ceftazidim	mg				9.00	40.00
+ceftazidim	poeder voor injectievloeistof	INTRAVENEUS	continuous	ICK									NaCl 0,9%|gluc	50							ceftazidim	mg		2,000.00	2,000.00		
+ceftazidim	poeder voor injectievloeistof	INTRAVENEUS	continuous	ICK									NaCl 0,9%|gluc	250							ceftazidim	mg		6,000.00	6,000.00		
+ceftriaxon	poeder voor injectievloeistof	INTRAVENEUS		ICC															1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor injectievloeistof	INTRAVENEUS		NEO															1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor injectievloeistof	INTRAVENEUS		ICK															1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor oplossing voor infusie	INTRAVENEUS		ICC															1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor oplossing voor infusie	INTRAVENEUS		NEO															1	1	ceftriaxon	mg					
+ceftriaxon	poeder voor oplossing voor infusie	INTRAVENEUS		ICK															1	1	ceftriaxon	mg					
+ciclosporine		INTRAVENEUS		ICC									NaCl 0,9%|gluc	100;250					1	1	ciclosporine	mg					3.00
+ciclosporine		INTRAVENEUS		ICK									NaCl 0,9%|gluc	24;48					1	1	ciclosporine	mg					3.00
+clindamycine	injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc		100				1	1	clindamycine	mg					12.00
+clindamycine	injectievloeistof	INTRAVENEUS		NEO									NaCl 0,9%|gluc						1	1	clindamycine	mg					12.00
+clindamycine	injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%|gluc						1	1	clindamycine	mg					12.00
+clonidine	injectievloeistof	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							clonidine	mg		0.15	0.15		0.15
+clonidine	injectievloeistof	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%	50.00							clonidine	mg		0.30	0.30		0.15
+clonidine	injectievloeistof	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%	50.00							clonidine	mg		0.60	0.60		0.15
+clonidine	injectievloeistof	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%	50.00							clonidine	mg		0.75	0.75		0.15
+dexamethason	injectievloeistof	INTRAVENEUS		ICK						20000			NaCl 0,9%	20							dexamethason	mg		4.00	4.00		
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%|gluc		100	500			1	1	trimethoprim	mg		96.00	96.00	0.15	1.20
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%|gluc		250	500			1	1	trimethoprim	mg		192.00	192.00	0.15	1.20
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%|gluc		500	500			1	1	trimethoprim	mg		384.00	384.00	0.15	1.20
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	INTRAVENEUS		NEO									NaCl 0,9%|gluc		5	500			1	1	trimethoprim	mg				0.15	1.20
+trimethoprim/sulfamethoxazol	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%|gluc		5	500			1	1	trimethoprim	mg				0.15	1.20
+dobutamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK	x					4000			gluc	12			0.5	0.5			dobutamine	mg					12.50
+dobutamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							dobutamine	mg		80.00	80.00		12.50
+dobutamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							dobutamine	mg		200.00	200.00		12.50
+dobutamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							dobutamine	mg		250.00	250.00		12.50
+dobutamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							dobutamine	mg		250.00	250.00		12.50
+dopamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							dopamine	mg		80.00	80.00		40.00
+dopamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							dopamine	mg		200.00	200.00		40.00
+dopamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							dopamine	mg		400.00	400.00		40.00
+dopamine	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							dopamine	mg		400.00	400.00		40.00
+epoprostenol	poeder voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					2000	6000			glycine buffer	50.00							epoprostenol	mg		0.20	0.20		0.01
+epoprostenol	poeder voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					6000	11000			glycine buffer	50.00							epoprostenol	mg		0.40	0.40		0.01
+epoprostenol	poeder voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					11000	40000			glycine buffer	50.00							epoprostenol	mg		0.50	0.50		0.01
+epoprostenol	poeder voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					40000				glycine buffer	50.00							epoprostenol	mg		0.50	0.50		0.01
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%						1	1	erytromycine	mg			250.00		5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%						1	1	erytromycine	mg		250.00	500.00		5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%						1	1	erytromycine	mg		500.00			5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		NEO									NaCl 0,9%		5				1	1	erytromycine	mg			25.00		5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		NEO									NaCl 0,9%		10				1	1	erytromycine	mg		25.00	50.00		5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		NEO									NaCl 0,9%						1	1	erytromycine	mg		50.00			5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%						1	1	erytromycine	mg			250.00		5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%						1	1	erytromycine	mg		250.00	500.00		5.00
+erytromycine	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%						1	1	erytromycine	mg		500.00			5.00
+esketamine	injectievloeistof	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							esketamine	mg		100.00	100.00		5.00
+esketamine	injectievloeistof	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							esketamine	mg		250.00	250.00		5.00
+esketamine	injectievloeistof	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							esketamine	mg		250.00	250.00		5.00
+esketamine	injectievloeistof	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							esketamine	mg		250.00	250.00		5.00
+esmolol	injectievloeistof	INTRAVENEUS	continuous	ICK					2000	6000				50.00							esmolol	mg		500.00	500.00		10.00
+esmolol	injectievloeistof	INTRAVENEUS	continuous	ICK					6000	11000				50.00							esmolol	mg		500.00	500.00		10.00
+esmolol	injectievloeistof	INTRAVENEUS	continuous	ICK					11000	40000				50.00							esmolol	mg		500.00	500.00		10.00
+esmolol	injectievloeistof	INTRAVENEUS	continuous	ICK					40000					250.00							esmolol	mg		2,500.00	2,500.00		50.00
+esomeprazol	poeder voor injectie/infusieoplossing	INTRAVENEUS		ICC									NaCl 0,9%	100.00					1	1	esomeprazol	mg				0.10	0.40
+esomeprazol	poeder voor injectie/infusieoplossing	INTRAVENEUS		ICK									NaCl 0,9%	100.00							esomeprazol	mg				0.40	0.40
+esomeprazol	poeder voor injectie/infusieoplossing	INTRAVENEUS		NEO									NaCl 0,9%	10.00					1	1	esomeprazol	mg				0.10	0.40
+fentanyl	injectievloeistof	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							fentanyl	mg		0.50	0.50		0.05
+fentanyl	injectievloeistof	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							fentanyl	mg		1.00	1.00		0.05
+fentanyl	injectievloeistof	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							fentanyl	mg		2.50	2.50		0.05
+fentanyl	injectievloeistof	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							fentanyl	mg		2.50	2.50		0.05
+fentanyl	infusievloeistof	INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							fentanyl	mg		0.50	0.50		0.05
+fentanyl	infusievloeistof	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							fentanyl	mg		1.00	1.00		0.05
+fentanyl	infusievloeistof	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							fentanyl	mg		2.50	2.50		0.05
+fentanyl	infusievloeistof	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							fentanyl	mg		2.50	2.50		0.05
+fentolamine		subcutaan											NaCl 0,9%	10							fentolamine	mg				0.50	1.00
+fenylefrine		INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							fenylefrine	mg		1.50	1.50		10.00
+fenylefrine		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							fenylefrine	mg		2.50	2.50		10.00
+fenylefrine		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							fenylefrine	mg		5.00	5.00		10.00
+fenylefrine		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							fenylefrine	mg		5.00	5.00		10.00
+fluconazol	infusievloeistof	INTRAVENEUS		NEO									NaCl 0,9%		5				1	1	fluconazol	mg					5.00
+fluconazol	infusievloeistof	INTRAVENEUS		ICK															1	1	fluconazol	mg					5.00
+foscarnet	infusievloeistof	INTRAVENEUS			x														1	1	foscarnet	mg				24.00	24.00
+foscarnet	infusievloeistof	INTRAVENEUS				x							NaCl 0,9%						1	1	foscarnet	mg				12.00	12.00
+furosemide	injectievloeistof	INTRAVENEUS	continuous	ICK					2000	6000			NaCl 0,9%	50.00							furosemide	mg		10.00	10.00		10.00
+furosemide	injectievloeistof	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%	50.00							furosemide	mg		20.00	20.00		10.00
+furosemide	injectievloeistof	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%	50.00							furosemide	mg		40.00	40.00		10.00
+furosemide	injectievloeistof	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%	50.00							furosemide	mg		100.00	100.00		10.00
+gentamicine	injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%	100.00					1	1	gentamicine	mg					
+gentamicine	injectievloeistof	INTRAVENEUS		NEO									gluc	10.00	5				2	2	gentamicine	mg				1.20	2.00
+gentamicine	injectievloeistof	INTRAVENEUS		ICK				28					gluc						0.5	0.5	gentamicine	mg				2.00	2.00
+gentamicine	injectievloeistof	INTRAVENEUS		ICK			28						gluc|NaCl 0,9%	50;100					1	1	gentamicine	mg				1.20	2.00
+heparine		INTRAVENEUS	continuous	ICK					2000	6000			NaCl 0,9%	50.00							heparine	E		5,000.00	5,000.00		1,000.00
+heparine		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%	50.00							heparine	E		10,000.00	10,000.00		1,000.00
+heparine		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%	50.00							heparine	E		20,000.00	20,000.00		1,000.00
+heparine		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%	50.00							heparine	E		20,000.00	20,000.00		1,000.00
+hydrocortison	poeder voor injectievloeistof	INTRAVENEUS		ICK						4000			NaCl 0,9%	5;10							hydrocortison	mg				0.50	0.50
+hydrocortison	poeder voor injectievloeistof	INTRAVENEUS		ICK					4000	10000			NaCl 0,9%	5;10							hydrocortison	mg				1.00	1.00
+hydrocortison	poeder voor injectievloeistof	INTRAVENEUS		ICK					10000				NaCl 0,9%	5;10;50;100							hydrocortison	mg				50.00	50.00
+insuline kortwerkend		INTRAVENEUS	continuous	ICK					2000	6000			NaCl 0,9%	50.00							insuline, gewoon	IE		10.00	10.00		1.00
+insuline kortwerkend		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%	50.00							insuline, gewoon	IE		10.00	10.00		1.00
+insuline kortwerkend		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%	50.00							insuline, gewoon	IE		50.00	50.00		1.00
+insuline kortwerkend		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%	50.00							insuline, gewoon	IE		50.00	50.00		1.00
+isoprenaline		INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							isoprenaline	mg		1.00	1.00		1.00
+isoprenaline		INTRAVENEUS	continuous	ICK					6000	11000			gluc	50.00							isoprenaline	mg		1.00	1.00		1.00
+isoprenaline		INTRAVENEUS	continuous	ICK					11000	40000			gluc	50.00							isoprenaline	mg		2.00	2.00		1.00
+isoprenaline		INTRAVENEUS	continuous	ICK					40000				gluc	50.00							isoprenaline	mg		2.00	2.00		1.00
+itraconazol	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%		50				1	1	itraconazol	mg					
+itraconazol	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%		50				1	1	itraconazol	mg					
+kaliumchloride		INTRAVENEUS	onceTimed	ICC	x								NaCl 0,9%						1	1						0.50	0.50
+kaliumchloride		INTRAVENEUS	onceTimed	ICK	x								NaCl 0,9%|gluc						1	1						0.50	0.50
+kaliumchloride		INTRAVENEUS	onceTimed	NEO	x								NaCl 0,9%|gluc						1	1						0.50	0.50
+kaliumchloride		INTRAVENEUS	onceTimed	ICC		x							NaCl 0,9%						1	1						0.08	0.08
+kaliumchloride		INTRAVENEUS	onceTimed	ICK		x							NaCl 0,9%|gluc						1	1						0.08	0.08
+kaliumchloride		INTRAVENEUS	onceTimed	NEO		x							NaCl 0,9%|gluc						1	1						0.08	0.08
+kaliumchloride		INTRAVENEUS	continuous	ICC	x								NaCl 0,9%	50							kaliumchloride	mmol		25.00	25.00		
+kaliumchloride		INTRAVENEUS	continuous	ICK	x								NaCl 0,9%|gluc	50							kaliumchloride	mmol		25.00	25.00		
+kaliumchloride		INTRAVENEUS	continuous	NEO	x								NaCl 0,9%|gluc	24							kaliumchloride	mmol		12.00	12.00		
+kaliumchloride		INTRAVENEUS	continuous	ICC									NaCl 0,9%	500							kaliumchloride	mmol				0.08	0.08
+kaliumchloride		INTRAVENEUS	continuous	ICK									NaCl 0,9%|gluc	500							kaliumchloride	mmol				0.08	0.08
+kaliumchloride		INTRAVENEUS	continuous	NEO									NaCl 0,9%|gluc	48							kaliumchloride	mmol				0.08	0.08
+labetalol		INTRAVENEUS	continuous	ICK					2000	6000			NaCl 0,9%|gluc	50.00							labetalol	mg		100.00	100.00		5.00
+labetalol		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							labetalol	mg		200.00	200.00		5.00
+labetalol		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							labetalol	mg		200.00	200.00		5.00
+labetalol		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							labetalol	mg		250.00	250.00		5.00
+levosimendan		INTRAVENEUS											gluc	50							levosimendan	mg				0.05	0.05
+magnesiumsulfaat		INTRAVENEUS	continuous	ICK					2000	6000			NaCl 0,9%|gluc	50.00							magnesiumsulfaat	mg		500.00	500.00	1.00	160.00
+magnesiumsulfaat		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							magnesiumsulfaat	mg		1,000.00	1,000.00	1.00	160.00
+magnesiumsulfaat		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							magnesiumsulfaat	mg		2,000.00	2,000.00	1.00	160.00
+magnesiumsulfaat		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							magnesiumsulfaat	mg		5,000.00	5,000.00	1.00	160.00
+meropenem	poeder voor injectie/infusieoplossing	INTRAVENEUS		ICC									NaCl 0,9%|gluc		50				1	1	meropenem	mg				1.00	20.00
+meropenem	poeder voor injectie/infusieoplossing	INTRAVENEUS		NEO									NaCl 0,9%|gluc		5				1	1	meropenem	mg			100.00	1.00	20.00
+meropenem	poeder voor injectie/infusieoplossing	INTRAVENEUS		NEO									NaCl 0,9%|gluc		10				1	1	meropenem	mg		100.00		1.00	20.00
+meropenem	poeder voor injectie/infusieoplossing	INTRAVENEUS		ICK				30					NaCl 0,9%|gluc	50.00							meropenem	mg				1.00	20.00
+meropenem	poeder voor injectie/infusieoplossing	INTRAVENEUS		ICK			30						NaCl 0,9%|gluc	5;10;50;100					1	1	meropenem	mg				10.00	20.00
+metronidazol	infusievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc						1	1	metronidazol	mg					5.00
+metronidazol	infusievloeistof	INTRAVENEUS		NEO									NaCl 0,9%|gluc		10				1	1	metronidazol	mg					5.00
+metronidazol	infusievloeistof	INTRAVENEUS		ICK									NaCl 0,9%|gluc						1	1	metronidazol	mg					5.00
+micafungine		INTRAVENEUS		ICC									NaCl 0,9%|gluc						1	1	micafungine	mg					
+micafungine		INTRAVENEUS		NEO									NaCl 0,9%|gluc	100					1	1	micafungine	mg					
+micafungine		INTRAVENEUS		ICK									NaCl 0,9%|gluc	100					1	1	micafungine	mg					
+midazolam		INTRAVENEUS	continuous	ICK					4000				gluc	50.00			1	1			midazolam	mg					5.00
+midazolam		INTRAVENEUS	continuous	ICK						4000			gluc	12			0.5	0.5			midazolam	mg					5.00
+midazolam		INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							midazolam	mg		25.00	25.00		5.00
+midazolam		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							midazolam	mg		50.00	50.00		5.00
+midazolam		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							midazolam	mg		100.00	100.00		5.00
+midazolam		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							midazolam	mg		250.00	250.00		5.00
+milrinon		INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							milrinon	mg		5.00	5.00		1.00
+milrinon		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							milrinon	mg		10.00	10.00		1.00
+milrinon		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							milrinon	mg		20.00	20.00		1.00
+milrinon		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							milrinon	mg		20.00	20.00		1.00
+morfine		INTRAVENEUS	continuous	ICK						4000			gluc	12			0.5	0.5			morfine	mg					1.00
+morfine		INTRAVENEUS	continuous	ICK					2000	6000			gluc	50.00							morfine	mg		2.00	2.00		1.00
+morfine		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							morfine	mg		5.00	5.00		1.00
+morfine		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							morfine	mg		10.00	10.00		1.00
+morfine		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							morfine	mg		50.00	50.00		1.00
+nitroprusside		INTRAVENEUS	continuous	ICK					2000	6000			NaCl 0,9%|gluc	50.00							nitroprusside	mg		10.00	10.00		10.00
+nitroprusside		INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							nitroprusside	mg		25.00	25.00		10.00
+nitroprusside		INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							nitroprusside	mg		50.00	50.00		10.00
+nitroprusside		INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							nitroprusside	mg		50.00	50.00		10.00
+noradrenaline		INTRAVENEUS	continuous	ICK	x				2000	6000			gluc	50.00							noradrenaline	mg		1.00	1.00		1.00
+noradrenaline		INTRAVENEUS	continuous	ICK	x				6000	11000			NaCl 0,9%|gluc	50.00							noradrenaline	mg		2.00	2.00		1.00
+noradrenaline		INTRAVENEUS	continuous	ICK	x				11000	40000			NaCl 0,9%|gluc	50.00							noradrenaline	mg		5.00	5.00		1.00
+noradrenaline		INTRAVENEUS	continuous	ICK	x				40000				NaCl 0,9%|gluc	50.00							noradrenaline	mg		5.00	5.00		1.00
+noradrenaline		INTRAVENEUS	continuous	ICK		x			2000	6000			gluc	50.00							noradrenaline	mg		1.00	1.00		1.00
+noradrenaline		INTRAVENEUS	continuous	ICK		x			6000	11000			NaCl 0,9%|gluc	50.00							noradrenaline	mg		1.00	1.00		1.00
+noradrenaline		INTRAVENEUS	continuous	ICK		x			11000	40000			NaCl 0,9%|gluc	50.00							noradrenaline	mg		1.00	1.00		1.00
+noradrenaline		INTRAVENEUS	continuous	ICK		x			40000				NaCl 0,9%|gluc	50.00							noradrenaline	mg		1.00	1.00		1.00
+pentamidine	poeder voor injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%		100				1	1	pentamidine	mg					
+pentamidine	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%		50				1	1	pentamidine	mg			300.00		
+pentamidine	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%		100				1	1	pentamidine	mg		300.00			
+piperacilline/tazobactam	poeder voor injectievloeistof	INTRAVENEUS		NEO															1	1	piperacilline+tazobactam	mg					
+piperacilline/tazobactam	poeder voor injectievloeistof	INTRAVENEUS		ICK															1	1	piperacilline+tazobactam	mg					
+piperacilline/tazobactam	poeder voor injectievloeistof	INTRAVENEUS		ICC															1	1	piperacilline+tazobactam	mg					
+propofol	emulsie voor injectie	INTRAVENEUS	continuous	ICC										50.00							propofol	mg					
+propofol	emulsie voor injectie	INTRAVENEUS	continuous	ICK										50.00							propofol	mg					
+rasburicase	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%		50				1	1	rasburicase	mg					
+rasburicase	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%		50				1	1	rasburicase	mg					
+ribavirine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC											100				1	1	ribavirine	mg					
+ribavirine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK											100				1	1	ribavirine	mg					
+rifampicine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%		250				1	1	rifampicine	mg			300.00		1.20
+rifampicine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%		500				1	1	rifampicine	mg		300.00			
+rifampicine	poeder voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%						1	1	rifampicine	mg					
+rifampicine	poeder voor oplossing voor infusie	INTRAVENEUS		NEO									gluc						1	1	rifampicine	mg					1.20
+rifampicine	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%						1	1	rifampicine	mg					1.20
+rocuronium		INTRAVENEUS	continuous	ICK	x				2000	6000			NaCl 0,9%|gluc	50.00							rocuronium	mg		50.00	50.00		10.00
+rocuronium		INTRAVENEUS	continuous	ICK	x				6000	11000			NaCl 0,9%|gluc	50.00							rocuronium	mg		100.00	100.00		10.00
+rocuronium		INTRAVENEUS	continuous	ICK	x				11000	40000			NaCl 0,9%|gluc	50.00							rocuronium	mg		200.00	200.00		10.00
+rocuronium		INTRAVENEUS	continuous	ICK	x				40000				NaCl 0,9%|gluc	50.00							rocuronium	mg		500.00	500.00		10.00
+rocuronium		INTRAVENEUS	continuous	ICK		x			2000	6000			NaCl 0,9%|gluc	50.00							rocuronium	mg		50.00	50.00		10.00
+rocuronium		INTRAVENEUS	continuous	ICK		x			6000	11000			NaCl 0,9%|gluc	50.00							rocuronium	mg		50.00	50.00		10.00
+rocuronium		INTRAVENEUS	continuous	ICK		x			11000	40000			NaCl 0,9%|gluc	50.00							rocuronium	mg		50.00	50.00		10.00
+rocuronium		INTRAVENEUS	continuous	ICK		x			40000				NaCl 0,9%|gluc	50.00							rocuronium	mg		50.00	50.00		10.00
+salbutamol	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					2000	6000			NaCl 0,9%|gluc	50.00							salbutamol	mg		5.00	5.00	0.01	0.42
+salbutamol	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					6000	11000			NaCl 0,9%|gluc	50.00							salbutamol	mg		10.00	10.00	0.01	0.42
+salbutamol	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					11000	40000			NaCl 0,9%|gluc	50.00							salbutamol	mg		20.00	20.00	0.01	0.42
+salbutamol	concentraat voor oplossing voor infusie	INTRAVENEUS	continuous	ICK					40000				NaCl 0,9%|gluc	50.00							salbutamol	mg		20.00	20.00	0.01	0.42
+tacrolimus		INTRAVENEUS		ICK									NaCl 0,9%|gluc	5;10;50;100;250;500;1000							tacrolimus	mg		5.00	5.00		0.10
+teicoplanine	poeder voor injectievloeistof	INTRAVENEUS		ICC															1	1	teicoplanine	mg					10.00
+teicoplanine	poeder voor injectievloeistof	INTRAVENEUS		ICK											50				1	1	teicoplanine	mg					10.00
+thiopental	poeder voor injectievloeistof	INTRAVENEUS	continuous	ICK					2000	6000				50.00							thiopental	mg		1,250.00	1,250.00	5.00	25.00
+thiopental	poeder voor injectievloeistof	INTRAVENEUS	continuous	ICK					6000	11000				50.00							thiopental	mg		1,250.00	1,250.00	5.00	25.00
+thiopental	poeder voor injectievloeistof	INTRAVENEUS	continuous	ICK					11000	40000				50.00							thiopental	mg		1,250.00	1,250.00	5.00	25.00
+thiopental	poeder voor injectievloeistof	INTRAVENEUS	continuous	ICK					40000					50.00							thiopental	mg		1,250.00	1,250.00	5.00	25.00
+tigecycline	poeder voor oplossing voor infusie	INTRAVENEUS		ICC											100				1	1	tigecycline	mg					1.00
+tigecycline	poeder voor oplossing voor infusie	INTRAVENEUS		ICK															1	1	tigecycline	mg					1.00
+tobramycine	injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc		100				1	1	tobramycine	mg			700.00		6.00
+tobramycine	injectievloeistof	INTRAVENEUS		ICC									NaCl 0,9%|gluc		250				1	1	tobramycine	mg		700.00			6.00
+tobramycine	injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%|gluc		50				1	1	tobramycine	mg					1.50
+tocilizumab	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC									NaCl 0,9%		100				1	1	tocilizumab	mg					7.50
+tocilizumab	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%		50				1	1	tocilizumab	mg			240.00		7.50
+tocilizumab	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%		100				1	1	tocilizumab	mg		240.00			7.50
+vancomycine		INTRAVENEUS		NEO									gluc		5				1	1	vancomycine	mg					10.00
+vancomycine		INTRAVENEUS		ICK									NaCl 0,9%						1	1	vancomycine	mg				10.00	10.00
+voriconazol	poeder voor oplossing voor infusie	INTRAVENEUS		ICC											100				1	1	voriconazol	mg			300.00		5.00
+voriconazol	poeder voor oplossing voor infusie	INTRAVENEUS		ICC											250				1	1	voriconazol	mg		300.00	600.00		5.00
+voriconazol	poeder voor oplossing voor infusie	INTRAVENEUS		ICK									NaCl 0,9%|gluc						1	1	voriconazol	mg					3.33
+zidovudine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICC											100				1	1	zidovudine	mg		40.00	200.00		
+zidovudine	concentraat voor oplossing voor infusie	INTRAVENEUS		ICK															1	1	zidovudine	mg					2.50
+ifosfamide	poeder voor injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%	100.00					1	1	ifosfamide	mg					
+doxorubicine	injectievloeistof	INTRAVENEUS		ICK									NaCl 0,9%	100.00					1	1	doxorubicine	mg					
